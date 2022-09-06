@@ -1,0 +1,15 @@
+{
+  "name": "@higgs/icons",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Biblioteca compartida de iconos para las aplicaciones Higgs",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "test": "node --test",
+    "check": "node --test && node tools/build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
