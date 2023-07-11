@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Higgs Icons</title>
+  <style>
+    :root { color-scheme: light; font: 14px/1.45 "Segoe UI", sans-serif; background: #f2f5f9; color: #18212b; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    header { position: sticky; top: 0; z-index: 1; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 14px 20px; background: #fff; border-bottom: 1px solid #d4dce7; }
+    h1 { margin: 0; font-size: 18px; }
+    input { flex: 1 1 300px; min-width: 180px; padding: 10px 12px; border: 1px solid #aab6c5; border-radius: 5px; font: inherit; }
+    #count { color: #526071; white-space: nowrap; }
+    main { max-width: 1600px; margin: auto; padding: 18px 20px 48px; }
+    #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(185px, 1fr)); gap: 10px; }
+    article { min-width: 0; padding: 10px; background: #fff; border: 1px solid #d4dce7; border-radius: 5px; }
+    .preview { display: grid; place-items: center; height: 76px; margin-bottom: 8px; background: repeating-conic-gradient(#eef2f6 0 25%, #fff 0 50%) 0 / 16px 16px; }
+    .preview img { width: 48px; height: 48px; object-fit: contain; }
+    .name { overflow-wrap: anywhere; font-weight: 600; }
+    code, small { display: block; margin-top: 4px; color: #526071; overflow-wrap: anywhere; }
+    button { margin-top: 8px; padding: 5px 8px; border: 1px solid #aab6c5; border-radius: 4px; background: #fff; color: #18212b; cursor: pointer; }
+    button:hover { border-color: #1769aa; }
+    #status { padding: 30px 0; color: #526071; }
+    @media (max-width: 560px) { header, main { padding-left: 12px; padding-right: 12px; } #grid { grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Higgs Icons</h1>
+    <input id="query" type="search" placeholder="Buscar por ID, nombre o ruta" autocomplete="off">
+    <span id="count" aria-live="polite"></span>
+  </header>
+  <main>
+    <p id="status" role="status">Cargando inventario...</p>
+    <section id="grid" aria-label="Iconos"></section>
+  </main>
+  <script type="module" src="./catalog.js"></script>
+</body>
+</html>
