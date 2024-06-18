@@ -1,0 +1,23 @@
+name: Validate icon library
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Test generator and consumers
+        run: node --test
+      - name: Generate web and desktop distributions
+        run: node tools/build.mjs
+      - name: Configure desktop library
+        run: cmake -S dist/desktop -B build/icons
+      - name: Compile desktop library
+        run: cmake --build build/icons --config Release --target higgs_icons
