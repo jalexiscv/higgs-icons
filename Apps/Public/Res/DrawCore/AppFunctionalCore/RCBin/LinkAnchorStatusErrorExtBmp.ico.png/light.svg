@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Mapa de bits externo con error</title>
+<path d="M13 8.5H4.5V19.5H19.5V11" stroke="#2E3238" stroke-width="1"/>
+<path d="M9 18L13 13L15 15.5L16.5 14L18 18Z" fill="#2E3238"/>
+<circle cx="7.5" cy="12.5" r="1.5" fill="#2E3238"/>
+<path fill-rule="evenodd" fill="#FF6600" d="M17.5 3L21 10H14ZM17 5H18V7H17ZM17 8H18V9H17Z"/>
+</svg>

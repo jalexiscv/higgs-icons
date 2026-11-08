@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Vínculo HTTP con error</title>
+<path d="M16.77 11A6.5 6.5 0 1 1 13 7.82" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="11" cy="14" rx="2.5" ry="6.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M5 11.5H17M5 16.5H17" stroke="#2E3238" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#FF6600" d="M17.5 3L21 10H14ZM17 5H18V7H17ZM17 8H18V9H17Z"/>
+</svg>

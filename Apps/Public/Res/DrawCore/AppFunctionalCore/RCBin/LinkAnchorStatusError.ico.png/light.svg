@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Ancla con error</title>
+<path d="M13 4.5H6.5V19.5L12 14.5L17.5 19.5V11" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" fill="#FF6600" d="M17.5 3L21 10H14ZM17 5H18V7H17ZM17 8H18V9H17Z"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Actualizar vínculo y ancla</title>
+  <path d="M5.5 12A6.5 6.5 0 0 1 16.6 7.4" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M14.5 7H19.5L17.5 10.5Z"/>
+  <path d="M18.5 12A6.5 6.5 0 0 1 7.4 16.6" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M4.5 17H9.5L6.5 13.5Z"/>
+  <rect x="11" y="11" width="2" height="2" fill="#06A9F4"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Archivo de dirección con error</title>
+<path d="M13 4.5H5.5V19.5H17.5V11" stroke="#2E3238" stroke-width="1"/>
+<path d="M8 13.5H15M8 16.5H12" stroke="#2E3238" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#FF6600" d="M17.5 3L21 10H14ZM17 5H18V7H17ZM17 8H18V9H17Z"/>
+</svg>

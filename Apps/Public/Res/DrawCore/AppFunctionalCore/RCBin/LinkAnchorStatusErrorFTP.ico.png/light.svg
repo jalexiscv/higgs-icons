@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Vínculo FTP con error</title>
+<path d="M13 9.5H4.5V19.5H18.5V11" stroke="#2E3238" stroke-width="1"/>
+<path d="M6.5 12V17M6 12.5H9M6 14.5H8M11.5 12V17M10 12.5H13M14.5 12V17M14 12.5H17M14 14.5H17M16.5 12.5V14.5" stroke="#2E3238" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#FF6600" d="M17.5 3L21 10H14ZM17 5H18V7H17ZM17 8H18V9H17Z"/>
+</svg>
