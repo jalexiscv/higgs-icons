@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Exportar a disquete desde rejilla</title>
+<path d="M5.5 7V14M8.5 7V14M4 8.5H10M4 12.5H10" stroke="#2E3238" stroke-width="1"/>
+<path d="M14 6H19L16.5 3Z" fill="#2E3238"/>
+<path d="M16.5 6V10.5" stroke="#2E3238" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M12 12H18L20 14V20H12ZM14 13H18V15H14ZM14 17H18V19H14Z"/>
+</svg>

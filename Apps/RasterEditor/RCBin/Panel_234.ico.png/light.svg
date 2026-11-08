@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Portapapeles, pegar y selección</title>
+<path d="M4.5 19.5V5.5H17.5V11M4.5 19.5H11" stroke="#2E3238" stroke-width="1"/>
+<rect x="9" y="4" width="4" height="3" fill="#2E3238"/>
+<path d="M6.5 10V15.5H9" stroke="#2E3238" stroke-width="1"/>
+<path d="M9 14V17L11.5 15.5Z" fill="#2E3238"/>
+<path d="M13 13.5H20M13 19.5H20M13.5 13V20M19.5 13V20" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>
