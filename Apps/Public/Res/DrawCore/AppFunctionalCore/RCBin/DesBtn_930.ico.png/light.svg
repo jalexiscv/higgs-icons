@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Medir un ángulo hasta un punto final</title>
+<path d="M6.5 9V18.5H17" stroke="#2E3238" stroke-width="1"/><rect x="4.5" y="4.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/><rect x="17" y="17" width="3" height="3" fill="#2E3238"/><path d="M10.5 7.19A12 12 0 0 1 18 15.07" stroke="#06A9F4" stroke-width="1"/><path d="M18 17L15.5 14H20.5Z" fill="#06A9F4"/>
+</svg>
