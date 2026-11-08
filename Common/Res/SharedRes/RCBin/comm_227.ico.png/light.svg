@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Etiqueta con actualización</title>
+  <path d="M13 6L11.5 4.5H4.5V11.5L12.5 19.5L19.5 12.5L18 11" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="8" cy="8" r="1.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 6.5A2.5 2.5 0 0 1 19.5 6.5" stroke="#EA3323" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 6H21L19.5 9Z" fill="#EA3323"/>
+</svg>

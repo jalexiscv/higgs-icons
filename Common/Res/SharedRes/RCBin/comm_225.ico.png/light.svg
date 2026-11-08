@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página con pregunta</title>
+  <rect x="5.5" y="4.5" width="12" height="15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9 9A2.5 2.5 0 0 1 14 9C14 11 11.5 11 11.5 13" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="11" y="15" width="1" height="2" fill="#2E3238"/>
+</svg>
