@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazo de pluma</title>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 3.5L6.5 10.5L9.5 15.5H13.5L16.5 10.5Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 10.5V15.5"/>
+  <circle cx="11.5" cy="9" r="1" stroke="#2E3238" stroke-width="1"/>
+  <rect x="9.5" y="17.5" width="4" height="2" stroke="#2E3238" stroke-width="1"/>
+</svg>
