@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Distribuir columnas</title>
+  <g><path d="M6 5.5H18" stroke="#2E3238" stroke-width="1"/><path d="M3 5.5L6 3V8Z" fill="#2E3238"/><path d="M21 5.5L18 3V8Z" fill="#2E3238"/><rect x="4.5" y="10.5" width="15" height="9" stroke="#2E3238" stroke-width="1"/><path d="M9.5 10.5V19.5M14.5 10.5V19.5M4.5 15.5H19.5" stroke="#2E3238" stroke-width="1"/></g>
+</svg>

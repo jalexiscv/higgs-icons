@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Combinar celdas</title>
+  <g><rect x="4.5" y="7.5" width="15" height="12" stroke="#2E3238" stroke-width="1"/><path d="M4.5 13.5H19.5" stroke="#2E3238" stroke-width="1"/><path d="M11.5 13.5V19.5" stroke="#2E3238" stroke-width="1"/><path d="M11 10.5L8 8V13Z" fill="#2E3238"/><path d="M12 10.5L15 8V13Z" fill="#2E3238"/></g>
+</svg>
