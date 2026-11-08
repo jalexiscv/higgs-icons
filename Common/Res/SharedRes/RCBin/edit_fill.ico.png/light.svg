@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ventana con cubo de relleno y gota</title>
+  <path d="M4.5 17.5V4.5H18.5V9" stroke="#2E3238" stroke-width="1" />
+  <path d="M4.5 17.5H11" stroke="#2E3238" stroke-width="1" />
+  <path d="M4.5 7.5H18.5" stroke="#2E3238" stroke-width="1" />
+  <path d="M7 10.5H13M7 13.5H10" stroke="#2E3238" stroke-width="1" />
+  <path d="M14.5 16H18.5L16.5 18Z" fill="#FF6600"/>
+  <path d="M13 15L16.5 11.5L20 15L16.5 18.5Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

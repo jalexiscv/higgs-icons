@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Manual con engranaje</title>
+  <path d="M8.5 4.5H19.5V17.5" stroke="#2E3238" stroke-width="1" />
+  <rect x="5.5" y="6.5" width="12" height="13" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="11.5" cy="13.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11.5 9V11M11.5 16V18M7 13.5H9M14 13.5H16" stroke="#2E3238" stroke-width="1" />
+  <path d="M9 11L8 10M14 11L15 10M9 16L8 17M14 16L15 17" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

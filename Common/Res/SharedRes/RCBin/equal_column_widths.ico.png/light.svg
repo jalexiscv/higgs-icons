@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Columnas de igual ancho</title>
+  <path d="M4 5.5H11M4 8.5H11M4 11.5H11M4 14.5H11M13 5.5H20M13 8.5H20M13 11.5H20M13 14.5H20" stroke="#2E3238" stroke-width="1" />
+  <path d="M4.5 17V19.5H10.5V17M13.5 17V19.5H19.5V17" stroke="#06A9F4" stroke-width="1" />
+</svg>
