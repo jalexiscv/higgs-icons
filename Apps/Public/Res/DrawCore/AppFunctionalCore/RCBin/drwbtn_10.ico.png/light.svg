@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Nodo de curva con tiradores</title>
+  <path d="M4.5 19.5C10 19.5 6.5 11.5 11.5 11.5C16.5 11.5 13 4.5 19.5 4.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M6.5 11.5H10M13 11.5H16.5" stroke="#9499A1" stroke-width="1"/>
+  <circle cx="5.5" cy="11.5" r="1" fill="#9499A1"/>
+  <circle cx="17.5" cy="11.5" r="1" fill="#9499A1"/>
+  <rect x="10" y="10" width="3" height="3" fill="#2E3238"/>
+</svg>

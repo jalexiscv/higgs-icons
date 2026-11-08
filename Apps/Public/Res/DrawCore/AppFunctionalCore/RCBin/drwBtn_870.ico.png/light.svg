@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Sello dentado con 24</title>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M12 4.5L13.81 5.74L16 5.57L16.95 7.55L18.93 8.5L18.76 10.69L20 12.5L18.76 14.31L18.93 16.5L16.95 17.45L16 19.43L13.81 19.26L12 20.5L10.19 19.26L8 19.43L7.05 17.45L5.07 16.5L5.24 14.31L4 12.5L5.24 10.69L5.07 8.5L7.05 7.55L8 5.57L10.19 5.74Z"/>
+<path stroke="#2E3238" stroke-width="1" d="M8 10.5H10.5V12.5H8.5V14.5H11M13.5 10.5V12.5H16M15.5 10.5V15"/>
+</svg>

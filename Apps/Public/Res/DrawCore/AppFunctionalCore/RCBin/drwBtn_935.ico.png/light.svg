@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Invertir sentido de giro</title>
+  <path d="M5.24 10.19A7 7 0 0 1 16.95 7.05M16.73 4.56L16.95 7.05L14.46 6.83" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18.76 13.81A7 7 0 0 1 7.05 16.95M7.27 19.44L7.05 16.95L9.54 17.17" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
