@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Girar forma sesgada</title>
+  <path d="M7.5 4.5H15.5L12.5 10.5H4.5Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4.5 11V18M5 17.5H11M10.5 11V17" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M17 12A3.5 3.5 0 1 1 13.5 15.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M11.5 16H15.5L13.5 13Z"/>
+</svg>

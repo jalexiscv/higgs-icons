@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Restaurar guardado</title>
+  <path d="M12 4.5H4.5V19.5H19.5V12.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="7.5" y="13.5" width="9" height="6" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 4.5V8.5H11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M20 7.5A3 3 0 1 1 17 4.5" stroke="#EA3323" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#EA3323" d="M15 3V6L18 4.5Z"/>
+</svg>

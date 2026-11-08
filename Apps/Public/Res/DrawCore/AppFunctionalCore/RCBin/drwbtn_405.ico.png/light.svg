@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tiradores de nodo de curva</title>
+  <path d="M4.5 19.5C9 19.5 10 13 11.5 11.5C13 10 14 4.5 19.5 4.5" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M7.5 15.5L15.5 7.5" stroke="#06A9F4" stroke-width="1"/>
+  <path fill="#06A9F4" d="M18.5 4.5L18.15 8.39L14.61 4.85Z"/>
+  <path fill="#06A9F4" d="M4.5 18.5L4.85 14.61L8.39 18.15Z"/>
+  <path fill="#2E3238" d="M11.5 9L14 11.5L11.5 14L9 11.5Z"/>
+</svg>

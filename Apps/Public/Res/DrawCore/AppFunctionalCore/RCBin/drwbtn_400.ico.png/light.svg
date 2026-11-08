@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página con marco punteado</title>
+  <path d="M5 4.5H18M5 19.5H18M5.5 5V20M17.5 5V20" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M8 8.5H15M8 11.5H15M8 14.5H15M8 17.5H12" stroke="#2E3238" stroke-width="1"/>
+</svg>

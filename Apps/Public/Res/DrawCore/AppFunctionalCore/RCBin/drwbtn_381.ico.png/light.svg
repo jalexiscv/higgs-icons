@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Estrella numerada</title>
+  <path d="M9.500 7.000L11.520 10.501L15.562 10.500L13.540 14.000L15.562 17.500L11.520 17.499L9.500 21.000L7.480 17.499L3.438 17.500L5.460 14.000L3.438 10.500L7.480 10.501Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 3.5V7.5M19.5 3.5V7.5M16 4.5H20M16 6.5H20" stroke="#2E3238" stroke-width="1"/>
+</svg>

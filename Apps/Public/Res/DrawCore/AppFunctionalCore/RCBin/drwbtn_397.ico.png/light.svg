@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mover y girar</title>
+  <path d="M9.5 6V13M6 9.5H13" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M7 7H12L9.5 4ZM7 12H12L9.5 15ZM7 7V12L4 9.5ZM12 7V12L15 9.5Z"/>
+  <path d="M16 12.5A3.5 3.5 0 1 1 12.5 16" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M10.5 16H14.5L12.5 13Z"/>
+</svg>
