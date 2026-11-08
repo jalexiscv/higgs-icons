@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Sombra paralela de borde cuadrado interior</title>
+<rect x="4.5" y="4.5" width="10" height="10" stroke="#2E3238" stroke-width="1"/>
+<path d="M16 9H20V20H9V16H16Z" fill="#9499A1"/>
+<path d="M7 8L9.5 6L12 8Z" fill="#2E3238"/>
+<path d="M7 11L12 11L9.5 13Z" fill="#2E3238"/>
+</svg>

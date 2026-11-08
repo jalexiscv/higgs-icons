@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pila de sombra desplazada hacia la derecha</title>
+<rect x="4.5" y="4.5" width="7" height="7" stroke="#2E3238" stroke-width="1"/>
+<path d="M13.5 7.5H14.5V14.5H7.5V13.5H13.5Z" stroke="#9499A1" stroke-width="1"/>
+<path d="M7 18.5H16" stroke="#2E3238" stroke-width="1"/>
+<path d="M16 16V21L19 18.5Z" fill="#2E3238"/>
+</svg>

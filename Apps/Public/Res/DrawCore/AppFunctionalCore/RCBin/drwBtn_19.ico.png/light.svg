@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guías magnéticas y escuadra</title>
+  <path d="M4.5 4V20" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M4 19.5H20" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M7.5 8.5V16.5H15.5Z" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M13 3H15V8A1 1 0 0 0 17 8V3H19V8A3 3 0 0 1 13 8Z"/>
+</svg>

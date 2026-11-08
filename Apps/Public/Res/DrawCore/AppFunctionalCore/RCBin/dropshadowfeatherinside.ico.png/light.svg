@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Sombra difuminada hacia dentro</title>
+<rect x="4.5" y="4.5" width="10" height="10" stroke="#2E3238" stroke-width="1"/>
+<path d="M16 9H20V20H9V16H16Z" fill="#9499A1"/>
+<path d="M12.5 12.5L7 7" stroke="#2E3238" stroke-width="1"/>
+<path d="M6 6L10.5 7.5L7.5 10.5Z" fill="#2E3238"/>
+</svg>
