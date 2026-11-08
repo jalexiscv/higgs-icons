@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Dos paneles confirmados</title>
+<rect x="4.5" y="10.5" width="15" height="9" rx="1" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 11V19" stroke="#2E3238" stroke-width="1"/>
+<path fill="#2E3238" d="M6 13H10V18L8 16.5L6 18Z"/>
+<path fill="#FF6600" d="M13 18V16L15.5 13L18 16V18Z"/>
+<path d="M14.5 5.5L16.5 7.5L19.5 4" stroke="#1CB574" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

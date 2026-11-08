@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Histograma de colores</title>
+<path fill="#2E3238" d="M4 15V13H6V10H8V7H10V11H12V5H14V9H16V12H18V8H20V15Z"/>
+<rect x="4" y="17" width="4" height="3" fill="#EA3323"/><rect x="10" y="17" width="4" height="3" fill="#1CB574"/><rect x="16" y="17" width="4" height="3" fill="#06A9F4"/>
+</svg>

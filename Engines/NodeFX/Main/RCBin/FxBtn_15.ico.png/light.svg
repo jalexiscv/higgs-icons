@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Paleta y pincel</title>
+<circle cx="10.5" cy="12" r="6.5" stroke="#2E3238" stroke-width="1"/><circle cx="12.5" cy="16" r="1.5" fill="#2E3238"/>
+<circle cx="7.5" cy="10" r="1.25" fill="#FF6600"/><circle cx="10.5" cy="8" r="1.25" fill="#06A9F4"/><circle cx="7" cy="14" r="1.25" fill="#1CB574"/>
+<path d="M19.5 4.5L16 11.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/><path fill="#2E3238" d="M15 12L17 12.5L17.5 15L15.5 16.5Z"/>
+</svg>
