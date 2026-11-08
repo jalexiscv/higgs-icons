@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Fracciones alternativas</title>
+  <rect x="4" y="11" width="16" height="2" fill="#2E3238"/>
+  <path d="M10.5 15.5H13.5V17.5H10.5V19.5H13.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10 6L11.5 4.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="11" y="4" width="2" height="6" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Anchos medios alternativos</title>
+  <rect x="12" y="4" width="7" height="7" fill="#06A9F4"/>
+  <rect x="12" y="13" width="7" height="7" fill="#06A9F4"/>
+  <path d="M10.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M12 12.5H20" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M4 13H7V16L5 19H4L5.5 16H4Z" fill="#2E3238"/>
+</svg>

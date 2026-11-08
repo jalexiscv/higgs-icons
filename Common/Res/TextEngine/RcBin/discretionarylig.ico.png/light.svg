@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ligaduras discrecionales</title>
+  <path d="M9.5 10.5H4.5V18.5H9.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 6.5V18.5H19.5M12.5 10.5H18.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 7.5Q11 4 14.5 6.5" stroke="#06A9F4" stroke-width="1"/>
+</svg>

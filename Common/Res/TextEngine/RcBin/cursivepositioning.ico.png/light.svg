@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Posicionamiento cursivo</title>
+  <path d="M7.5 9.5H4.5V15.5H7.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 9.5V15.5H12.5V9.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 15.5V9.5H17.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M19.5 9.5H16.5V12.5H19.5V15.5H16.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 18.5H20" stroke="#06A9F4" stroke-width="1"/>
+</svg>
