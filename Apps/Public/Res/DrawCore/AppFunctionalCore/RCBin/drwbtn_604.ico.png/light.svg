@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Bote de aerosol con giro</title>
+  <rect x="4.5" y="11.5" width="7" height="8" stroke="#2E3238" stroke-width="1"/>
+  <rect x="6" y="8" width="4" height="3" fill="#2E3238"/>
+  <rect x="7" y="5" width="2" height="3" fill="#2E3238"/>
+  <path d="M14.5 6A5.5 5.5 0 0 1 14.5 17" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16.5 15L14.5 17L16.5 19" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

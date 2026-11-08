@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Escuadra con líneas</title>
+  <path fill="#2E3238" d="M4 20L13 11V20Z"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M7 9L12 4M13 13L20 6"/>
+</svg>

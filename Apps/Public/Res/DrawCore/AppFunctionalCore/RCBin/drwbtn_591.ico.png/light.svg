@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marco con intercambio</title>
+  <path fill="#2E3238" fill-rule="evenodd" d="M4 8H16V20H4ZM6 10H14V18H6Z"/>
+  <rect stroke="#2E3238" stroke-width="1" x="8.5" y="12.5" width="3" height="3"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M17 4.5H19"/>
+  <path fill="#2E3238" d="M19 3V6L21 4.5Z"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M19 8.5H20.5"/>
+  <path fill="#2E3238" d="M19 7V10L17 8.5Z"/>
+</svg>

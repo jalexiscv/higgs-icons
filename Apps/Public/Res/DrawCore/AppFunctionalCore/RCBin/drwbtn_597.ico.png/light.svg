@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Curva entre nodos y lista</title>
+  <rect stroke="#2E3238" stroke-width="1" x="4.5" y="4.5" width="3" height="3"/>
+  <rect stroke="#2E3238" stroke-width="1" x="12.5" y="16.5" width="3" height="3"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M6 8C6 14 8 18 12 18"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M12 5.5H20M12 8.5H20"/>
+</svg>
