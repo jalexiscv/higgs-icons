@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cuentagotas con muestra de 3 por 3</title>
+  <path fill="#2E3238" d="M15.5 3.5L20.5 8.5L18 11L13 6Z"/>
+  <path fill="#2E3238" d="M12 7L17 12L12 17L11 17L11 14Z"/>
+  <rect x="4.5" y="16.5" width="4" height="4" stroke="#FF6600" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

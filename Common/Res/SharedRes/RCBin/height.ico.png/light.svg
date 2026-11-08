@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Altura</title>
+  <path d="M7.5 4.5H15.5M7.5 19.5H15.5M11.5 6V18" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M8 10H15L11.5 6Z"/>
+  <path fill="#2E3238" d="M8 14H15L11.5 18Z"/>
+</svg>

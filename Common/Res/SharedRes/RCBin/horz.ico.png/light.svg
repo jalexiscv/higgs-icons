@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Curva horizontal con flechas</title>
+  <path fill="#2E3238" d="M6 12C8 19.5 15 19.5 17 12L14.5 11C13.5 14.5 9.5 14.5 8.5 11Z"/>
+  <path fill="#2E3238" d="M4 8L9 10L5 13Z"/>
+  <path fill="#2E3238" d="M19 8L14 10L18 13Z"/>
+</svg>
