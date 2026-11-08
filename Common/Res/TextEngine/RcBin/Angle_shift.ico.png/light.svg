@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto con ángulo desplazado</title>
+  <path d="M3.94 12.27A3.2 3.2 0 1 0 10.34 12.27A3.2 3.2 0 1 0 3.94 12.27ZM5.54 12.27A1.6 1.6 0 1 0 8.74 12.27A1.6 1.6 0 1 0 5.54 12.27Z" fill="#2E3238" fill-rule="evenodd"/>
+  <path d="M9.84 9.89L11.78 10.4L10.09 16.68L8.16 16.17Z" fill="#2E3238"/>
+  <path d="M13.91 6.32L15.84 6.83L12.99 17.46L11.06 16.94Z" fill="#2E3238"/>
+  <path d="M13.11 14.73A3.2 3.2 0 1 0 19.51 14.73A3.2 3.2 0 1 0 13.11 14.73ZM14.71 14.73A1.6 1.6 0 1 0 17.91 14.73A1.6 1.6 0 1 0 14.71 14.73Z" fill="#2E3238" fill-rule="evenodd"/>
+  <path d="M4 19.5H20" stroke="#9499A1" stroke-width="1"/>
+</svg>
