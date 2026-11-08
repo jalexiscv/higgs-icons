@@ -53,9 +53,15 @@ export class IconLibrary {
     return variant ? new URL(variant.path, this.assetBase).href : null;
   }
 
-  createImage(id, { size = 24, alt, className = '' } = {}) {
+  svgUrl(id, { theme = 'light' } = {}) {
     const icon = this.get(id);
-    const src = this.url(id, { size });
+    const path = icon?.svg?.[theme === 'dark' ? 'dark' : 'light'];
+    return path ? new URL(path, this.assetBase).href : null;
+  }
+
+  createImage(id, { size = 24, alt, className = '', theme = 'light' } = {}) {
+    const icon = this.get(id);
+    const src = this.url(id, { size }) ?? this.svgUrl(id, { theme });
     if (!icon || !src) return null;
 
     const image = document.createElement('img');

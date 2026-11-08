@@ -4,6 +4,11 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PNG_SIGNATURE = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+const SVG_THEMES = ['light', 'dark'];
+const SVG_MAX_BYTES = 256 * 1024;
+// Light palette -> dark palette. The dark drawing is derived from the light one
+// unless the icon directory ships its own dark.svg. Accents and mask colours stay.
+export const DARK_PALETTE = { '#2E3238': '#E6E9EF', '#9499A1': '#80868F' };
 const RESOURCE_BUCKETS = new Set(['rcbin', 'res']);
 const SOURCE_ROOTS = ['Apps', 'Common', 'Engines'];
 
@@ -56,15 +61,34 @@ async function readPngHeader(filename) {
   }
 }
 
+async function readSvg(filename, relativeName) {
+  const content = await readFile(filename, 'utf8');
+  if (Buffer.byteLength(content) > SVG_MAX_BYTES) throw new Error(`Invalid SVG file: ${relativeName} (larger than ${SVG_MAX_BYTES} bytes)`);
+  if (!/^\s*(?:<\?xml[^>]*\?>\s*)?<svg[\s>]/.test(content) || !/<\/svg>\s*$/.test(content)) {
+    throw new Error(`Invalid SVG file: ${relativeName} (not an <svg> document)`);
+  }
+  if (!/\sviewBox="0 0 24 24"/.test(content)) throw new Error(`Invalid SVG file: ${relativeName} (viewBox must be "0 0 24 24")`);
+  // Internal references (mask="url(#…)") are fine; anything that loads a resource or runs code is not.
+  const forbidden = content.match(/<(script|style|image|use|foreignObject|a)\b|\bhref=|(?<=\s)on[a-z]+=|url\((?!#)/i);
+  if (forbidden) throw new Error(`Invalid SVG file: ${relativeName} (contains ${forbidden[0]})`);
+  return content;
+}
+
+export function deriveDarkSvg(lightSvg) {
+  return lightSvg.replace(/#[0-9a-f]{6}\b/gi, (hex) => DARK_PALETTE[hex.toUpperCase()] ?? hex);
+}
+
 async function scanDirectory(directory, root, found) {
   const entries = await readdir(directory, { withFileTypes: true });
   const iconDirectory = path.basename(directory).toLowerCase().endsWith('.ico.png');
   const variants = iconDirectory ? entries.filter((entry) => entry.isFile() && /^\d+\.png$/i.test(entry.name)) : [];
+  const drawings = iconDirectory ? entries.filter((entry) => entry.isFile() && /^(light|dark)\.svg$/i.test(entry.name)) : [];
 
-  if (variants.length) {
+  if (variants.length || drawings.length) {
     const relativeDirectory = path.relative(root, directory);
     const id = iconId(relativeDirectory);
     const sizes = new Map();
+    const svg = {};
 
     for (const entry of variants) {
       const size = Number(path.basename(entry.name, path.extname(entry.name)));
@@ -74,8 +98,19 @@ async function scanDirectory(directory, root, found) {
       sizes.set(size, filename);
     }
 
+    for (const entry of drawings) {
+      const theme = path.basename(entry.name, path.extname(entry.name)).toLowerCase();
+      if (svg[theme]) throw new Error(`Repeated ${theme} drawing in ${relativeDirectory}.`);
+      const filename = path.join(directory, entry.name);
+      await readSvg(filename, path.relative(root, filename));
+      svg[theme] = filename;
+    }
+    if (drawings.length && !svg.light) {
+      throw new Error(`Missing light.svg in ${relativeDirectory}: dark.svg only overrides the drawing derived from it.`);
+    }
+
     const source = relativeDirectory.split(path.sep).join('/');
-    found.push({ id, name: humanize(path.basename(directory)), legacyName: path.basename(directory), source, sizes });
+    found.push({ id, name: humanize(path.basename(directory)), legacyName: path.basename(directory), source, sizes, svg });
     return;
   }
 
@@ -138,7 +173,9 @@ export async function buildManifest(root = ROOT, overrides = { icons: {} }, idRe
           .sort(([left], [right]) => left - right)
           .map(([size]) => [String(size), `${assetDirectory}/${size}.png`]),
       ),
+      svg: Object.fromEntries(icon.svg.light ? SVG_THEMES.map((theme) => [theme, `${assetDirectory}/${theme}.svg`]) : []),
       files: [...icon.sizes.entries()].sort(([left], [right]) => left - right),
+      drawings: icon.svg,
     };
   });
 
@@ -166,6 +203,8 @@ struct Variant {
     std::string_view path;
 };
 
+enum class Theme { light, dark };
+
 struct Icon {
     std::string_view id;
     std::string_view name;
@@ -174,6 +213,8 @@ struct Icon {
     std::span<const Variant> variants;
     std::span<const std::string_view> aliases;
     std::span<const std::string_view> tags;
+    std::string_view svg_light; // empty when the icon has no vector drawing
+    std::string_view svg_dark;
 };
 
 std::span<const Icon> all() noexcept;
@@ -182,6 +223,7 @@ const Icon* find_legacy(std::string_view name);
 const Variant* nearest_variant(const Icon& icon, unsigned requested_size) noexcept;
 std::filesystem::path resolve_path(std::string_view id, unsigned requested_size,
                                    const std::filesystem::path& library_root);
+std::filesystem::path resolve_svg(std::string_view id, Theme theme, const std::filesystem::path& library_root);
 std::vector<const Icon*> search(std::string_view query, std::size_t limit = 50);
 
 } // namespace higgs_icons
@@ -194,15 +236,18 @@ export function desktopSource(icons) {
       `    {${size}u, ${cppString(filename)}}`).join(',\n');
     const aliases = icon.aliases.map((alias) => `    ${cppString(alias)}`).join(',\n');
     const tags = icon.tags.map((tag) => `    ${cppString(tag)}`).join(',\n');
+    const variantDeclaration = variants ? `constexpr Variant variants_${index}[] = {\n${variants}\n};\n` : '';
+    const variantSpan = variants ? `std::span<const Variant>{variants_${index}}` : 'std::span<const Variant>{}';
     const aliasDeclaration = aliases ? `constexpr std::string_view aliases_${index}[] = {\n${aliases}\n};\n` : '';
     const aliasSpan = aliases ? `std::span<const std::string_view>{aliases_${index}}` : 'std::span<const std::string_view>{}';
-    return `constexpr Variant variants_${index}[] = {\n${variants}\n};\n` +
+    return variantDeclaration +
       aliasDeclaration +
       `constexpr std::string_view tags_${index}[] = {\n${tags}\n};\n` +
       `constexpr Icon icon_${index} = {${cppString(icon.id)}, ${cppString(icon.name)}, ` +
       `${cppString(icon.legacyName)}, ${cppString(icon.source)}, ` +
-      `std::span<const Variant>{variants_${index}}, ${aliasSpan}, ` +
-      `std::span<const std::string_view>{tags_${index}}};`;
+      `${variantSpan}, ${aliasSpan}, ` +
+      `std::span<const std::string_view>{tags_${index}}, ` +
+      `${cppString(icon.svg?.light ?? '')}, ${cppString(icon.svg?.dark ?? '')}};`;
   });
 
   return `#include "higgs_icons/icons.hpp"
@@ -275,6 +320,13 @@ std::filesystem::path resolve_path(std::string_view id, unsigned requested_size,
     if (icon == nullptr) return {};
     const auto* variant = nearest_variant(*icon, requested_size);
     return variant == nullptr ? std::filesystem::path{} : library_root / variant->path;
+}
+
+std::filesystem::path resolve_svg(std::string_view id, Theme theme, const std::filesystem::path& library_root) {
+    const auto* icon = find(id);
+    if (icon == nullptr) return {};
+    const auto relative = theme == Theme::dark ? icon->svg_dark : icon->svg_light;
+    return relative.empty() ? std::filesystem::path{} : library_root / relative;
 }
 
 std::vector<const Icon*> search(std::string_view query, std::size_t limit) {
@@ -354,6 +406,14 @@ async function copyPackageAssets(icons, targetDirectory) {
     for (const [size, source] of icon.files) {
       await copyFile(source, path.join(destinationDirectory, `${size}.png`));
     }
+    if (icon.drawings.light) {
+      await copyFile(icon.drawings.light, path.join(destinationDirectory, 'light.svg'));
+      if (icon.drawings.dark) {
+        await copyFile(icon.drawings.dark, path.join(destinationDirectory, 'dark.svg'));
+      } else {
+        await writeFile(path.join(destinationDirectory, 'dark.svg'), deriveDarkSvg(await readFile(icon.drawings.light, 'utf8')));
+      }
+    }
   }
 }
 
@@ -362,7 +422,7 @@ export async function build({ root = ROOT, output = path.join(root, 'dist') } = 
   const overrides = JSON.parse(await readFile(path.join(root, 'metadata', 'overrides.json'), 'utf8'));
   const idRegistry = JSON.parse(await readFile(path.join(root, 'metadata', 'ids.json'), 'utf8'));
   const icons = await buildManifest(root, overrides, idRegistry);
-  const manifestIcons = icons.map(({ files, ...icon }) => icon);
+  const manifestIcons = icons.map(({ files, drawings, ...icon }) => icon);
   const manifest = { schemaVersion: 1, libraryVersion: packageInfo.version, icons: manifestIcons };
   const webDirectory = path.join(output, 'web');
   const desktopDirectory = path.join(output, 'desktop');
@@ -409,7 +469,7 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
       await initializeIdRegistry();
     } else {
       const result = await build();
-      console.log(`Built ${result.iconCount} icons for Web and JUCE Desktop.`);
+      console.log(`Built ${result.iconCount} icons for Web and Desktop.`);
       console.log(`Web: ${path.relative(ROOT, result.webDirectory)}`);
       console.log(`Desktop: ${path.relative(ROOT, result.desktopDirectory)}`);
     }
