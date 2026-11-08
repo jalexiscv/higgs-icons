@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Profundidad del estiramiento actual</title>
+  <path d="M4 3.5H20.5V20" stroke="#EA3323" stroke-width="1"/>
+  <path d="M4 5H19V20H17V7H4Z" fill="#2E3238"/>
+  <path d="M4 9.5H15M14.5 9V20" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

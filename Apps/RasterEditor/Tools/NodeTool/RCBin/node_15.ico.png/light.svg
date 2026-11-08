@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Nodo: segmento hacia nodo circular</title>
+  <path d="M4 4.5H12M4 12.5H12M4.5 4V13M11.5 4V13" stroke="#2E3238" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M7 18.5H11C14.5 18.5 17 16.5 17 14" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="17" cy="11.5" r="2" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 18.5L7 16V21Z" fill="#2E3238"/>
+</svg>

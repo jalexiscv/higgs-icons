@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Máscara: suavizar borde de selección</title>
+  <path d="M4 4.5H19M4 18.5H19M4.5 4V19M18.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M7 7H10L7 10Z" fill="#2E3238"/>
+  <path d="M16 7H13L16 10Z" fill="#2E3238"/>
+  <path d="M7 16H10L7 13Z" fill="#2E3238"/>
+  <path d="M16 16H13L16 13Z" fill="#2E3238"/>
+  <path d="M8.5 12C9.5 9.5 10.5 9.5 11.5 11.5S13.5 13.5 14.5 11" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Máscara: varita mágica</title>
+  <circle cx="10" cy="14" r="6" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M4 19.2L12 11.2L13.2 12.4L5.2 20.4Z" fill="#2E3238"/>
+  <path d="M17 3L18.2 5.8L21 7L18.2 8.2L17 11L15.8 8.2L13 7L15.8 5.8Z" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Máscara: expandir selección</title>
+  <path d="M4 4.5H19M4 18.5H19M4.5 4V19M18.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M7 7H10L7 10Z" fill="#2E3238"/>
+  <path d="M16 7H13L16 10Z" fill="#2E3238"/>
+  <path d="M7 16H10L7 13Z" fill="#2E3238"/>
+  <path d="M16 16H13L16 13Z" fill="#2E3238"/>
+  <path d="M9 9L14 14M14 9L9 14" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+</svg>
