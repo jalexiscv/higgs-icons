@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Expandir en vertical</title>
+<path fill="#2E3238" d="M8 8H15L11.5 4Z"/>
+<path fill="#2E3238" d="M8 16H15L11.5 20Z"/>
+<path stroke="#2E3238" stroke-width="1" d="M11.5 8V11M11.5 13V16"/>
+<rect fill="#2E3238" x="6" y="11" width="11" height="2"/>
+</svg>
