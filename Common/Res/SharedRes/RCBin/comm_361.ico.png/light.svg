@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tabla de muestras de color</title>
+  <path stroke="#2E3238" stroke-width="1" d="M12.5 5.5H4.5V19.5H18.5V11"/>
+  <path fill="#9499A1" d="M6 7H9V10H6Z"/>
+  <path fill="#06A9F4" d="M10 7H13V10H10Z"/>
+  <path fill="#1CB574" d="M6 11H9V14H6Z"/>
+  <path fill="#06A9F4" d="M10 11H13V14H10Z"/>
+  <path fill="#FF6600" d="M14 11H17V14H14Z"/>
+  <path fill="#FF6600" d="M6 15H9V18H6Z"/>
+  <path fill="#2E3238" d="M10 15H13V18H10Z"/>
+  <path fill="#EA3323" d="M14 15H17V18H14Z"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M17.5 3.5A3 3 0 1 1 17.5 9.5A3 3 0 1 1 17.5 3.5ZM17.5 5.3A1.2 1.2 0 1 0 17.5 7.7A1.2 1.2 0 1 0 17.5 5.3Z"/>
+  <path fill="#2E3238" d="M16 3H19V4H16ZM16 9H19V10H16ZM14 5H15V8H14ZM20 5H21V8H20Z"/>
+</svg>
