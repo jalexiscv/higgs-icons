@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Descarga no disponible</title>
+  <path d="M11.5 4V13" stroke="#9499A1" stroke-width="1"/>
+  <path d="M9 13H14L11.5 16Z" fill="#9499A1"/>
+  <path d="M4.5 15.5V19.5H18.5V15.5" stroke="#9499A1" stroke-width="1"/>
+  <circle cx="17.5" cy="6.5" r="3" stroke="#EA3323" stroke-width="1"/>
+  <path d="M15.5 8.5L19.5 4.5" stroke="#EA3323" stroke-width="1"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Etiqueta con texto</title>
+  <rect x="4.5" y="6.5" width="15" height="11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 10.5H16M8 13.5H13" stroke="#2E3238" stroke-width="1"/>
+</svg>

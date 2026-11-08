@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Fuente variable OpenType</title>
+  <circle cx="11.5" cy="9.5" r="3.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15.5 5V13" stroke="#2E3238" stroke-width="1"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M6 16H19V20H6ZM7 17h1v1h-1zM9 17h1v1h-1zM7 18h1v1h-1zM9 18h1v1h-1zM8 19h1v1h-1zM12 17h1v1h-1zM11 18h1v1h-1zM12 18h1v1h-1zM13 18h1v1h-1zM11 19h1v1h-1zM13 19h1v1h-1zM15 17h1v1h-1zM16 17h1v1h-1zM15 18h1v1h-1zM16 18h1v1h-1zM17 18h1v1h-1zM15 19h1v1h-1zM17 19h1v1h-1z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página de puntos</title>
+  <path d="M5 5.5H12M5.5 5V18M6 18.5H19M18.5 12V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M13 5H19V11Z" fill="#2E3238"/>
+  <rect x="8" y="9" width="2" height="2" fill="#2E3238"/>
+  <rect x="8" y="12" width="2" height="2" fill="#2E3238"/>
+  <rect x="8" y="15" width="2" height="2" fill="#2E3238"/>
+  <rect x="11" y="9" width="2" height="2" fill="#2E3238"/>
+  <rect x="11" y="12" width="2" height="2" fill="#2E3238"/>
+  <rect x="11" y="15" width="2" height="2" fill="#2E3238"/>
+  <rect x="14" y="9" width="2" height="2" fill="#2E3238"/>
+  <rect x="14" y="12" width="2" height="2" fill="#2E3238"/>
+  <rect x="14" y="15" width="2" height="2" fill="#2E3238"/>
+</svg>

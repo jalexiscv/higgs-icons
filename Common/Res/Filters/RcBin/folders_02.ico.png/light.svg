@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Corredor</title>
+  <circle cx="9" cy="5.5" r="2" fill="#2E3238"/>
+  <path d="M7.5 8H12.5L14 13H9.5Z" fill="#2E3238"/>
+  <path d="M12 9L13.5 8L18 12L16.5 13Z" fill="#2E3238"/>
+  <path d="M7.5 8.5L4.5 12L6 13L9 10Z" fill="#2E3238"/>
+  <path d="M10 13L9 17L6 18.5V20H9.5L11.5 18L13 13Z" fill="#2E3238"/>
+  <path d="M12 13L14 16L19 19L18 20.5L13 18Z" fill="#2E3238"/>
+</svg>
