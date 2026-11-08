@@ -1,3 +1,619 @@
 {
-  "icons": {}
+  "icons": {
+    "common.higgs.caption": {
+      "name": "Título de ilustración",
+      "description": "Inserta un título para una imagen o tabla.",
+      "tags": [
+        "título",
+        "ilustración",
+        "referencias"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-bottom-center": {
+      "name": "Alinear abajo y al centro",
+      "description": "Alineación de celda: abajo, centrado.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-bottom-right": {
+      "name": "Alinear abajo a la derecha",
+      "description": "Alineación de celda: abajo, a la derecha.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-center-center": {
+      "name": "Alinear en el centro",
+      "description": "Alineación de celda: centro, centrado.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-center-right": {
+      "name": "Alinear al centro a la derecha",
+      "description": "Alineación de celda: centro, a la derecha.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-top-center": {
+      "name": "Alinear arriba y al centro",
+      "description": "Alineación de celda: arriba, centrado.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-align-top-right": {
+      "name": "Alinear arriba a la derecha",
+      "description": "Alineación de celda: arriba, a la derecha.",
+      "tags": [
+        "tabla",
+        "celda",
+        "alineación"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cell-margins": {
+      "name": "Márgenes de celda",
+      "description": "Márgenes interiores de las celdas de una tabla.",
+      "tags": [
+        "tabla",
+        "celda",
+        "márgenes"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.clear-format": {
+      "name": "Borrar formato",
+      "description": "Quita el formato de carácter de la selección.",
+      "tags": [
+        "formato",
+        "borrar",
+        "texto"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.cross-reference": {
+      "name": "Referencia cruzada",
+      "description": "Inserta una referencia a otra parte del documento.",
+      "tags": [
+        "referencia",
+        "vínculo",
+        "documento"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.date-time": {
+      "name": "Fecha y hora",
+      "description": "Inserta la fecha y la hora.",
+      "tags": [
+        "fecha",
+        "hora",
+        "insertar"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.font-color": {
+      "name": "Color de fuente (sin barra)",
+      "description": "Letra A del botón Color de fuente; la aplicación dibuja debajo la barra con el color elegido.",
+      "tags": [
+        "fuente",
+        "color",
+        "texto"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.footnote": {
+      "name": "Nota al pie",
+      "description": "Inserta una nota al pie.",
+      "tags": [
+        "nota",
+        "pie",
+        "referencias"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.header-footer": {
+      "name": "Encabezado y pie de página",
+      "description": "Encabezado y pie de página del documento.",
+      "tags": [
+        "encabezado",
+        "pie",
+        "página"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.highlight": {
+      "name": "Resaltado (sin barra)",
+      "description": "Rotulador del botón Color de resaltado; la aplicación dibuja debajo la barra con el color elegido.",
+      "tags": [
+        "resaltado",
+        "color",
+        "texto"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.index": {
+      "name": "Índice",
+      "description": "Inserta un índice alfabético.",
+      "tags": [
+        "índice",
+        "referencias"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.margins": {
+      "name": "Márgenes",
+      "description": "Márgenes de la página.",
+      "tags": [
+        "página",
+        "márgenes",
+        "diseño"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.navigation": {
+      "name": "Panel de navegación",
+      "description": "Muestra el panel lateral de navegación.",
+      "tags": [
+        "navegación",
+        "panel",
+        "vista"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.orientation": {
+      "name": "Orientación",
+      "description": "Orientación vertical u horizontal de la página.",
+      "tags": [
+        "página",
+        "orientación",
+        "diseño"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.quick-parts": {
+      "name": "Elementos rápidos",
+      "description": "Inserta campos y bloques de texto reutilizables.",
+      "tags": [
+        "campos",
+        "insertar",
+        "bloques"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-delete-cells": {
+      "name": "Eliminar celdas",
+      "description": "Elimina las celdas seleccionadas de una tabla.",
+      "tags": [
+        "tabla",
+        "celdas",
+        "eliminar"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-properties": {
+      "name": "Propiedades de tabla",
+      "description": "Abre las propiedades de la tabla.",
+      "tags": [
+        "tabla",
+        "propiedades"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-repeat-header": {
+      "name": "Repetir filas de título",
+      "description": "Repite las filas de título en cada página.",
+      "tags": [
+        "tabla",
+        "encabezado",
+        "repetir"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-select-cell": {
+      "name": "Seleccionar celda",
+      "description": "Selecciona la celda de la tabla.",
+      "tags": [
+        "tabla",
+        "celda",
+        "seleccionar"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-select-row": {
+      "name": "Seleccionar fila",
+      "description": "Selecciona la fila de la tabla.",
+      "tags": [
+        "tabla",
+        "fila",
+        "seleccionar"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.table-split": {
+      "name": "Dividir tabla",
+      "description": "Divide la tabla en dos.",
+      "tags": [
+        "tabla",
+        "dividir"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.text-direction": {
+      "name": "Dirección del texto",
+      "description": "Cambia la dirección del texto en las celdas.",
+      "tags": [
+        "tabla",
+        "texto",
+        "dirección"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.watermark": {
+      "name": "Marca de agua",
+      "description": "Texto o imagen tenue detrás del contenido de la página.",
+      "tags": [
+        "marca de agua",
+        "página",
+        "fondo"
+      ],
+      "products": [
+        "skriba-desktop"
+      ]
+    },
+    "common.higgs.section": {
+      "name": "Sección",
+      "description": "Agrupa diapositivas en una sección.",
+      "tags": [
+        "sección",
+        "diapositivas",
+        "carpeta"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.text-shadow": {
+      "name": "Sombra del texto",
+      "description": "Aplica una sombra al texto.",
+      "tags": [
+        "texto",
+        "sombra",
+        "fuente"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.character-spacing": {
+      "name": "Espaciado entre caracteres",
+      "description": "Cambia el espacio entre los caracteres.",
+      "tags": [
+        "texto",
+        "espaciado",
+        "fuente"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.shape-outline": {
+      "name": "Contorno de forma",
+      "description": "Color, grosor y estilo del contorno de una forma.",
+      "tags": [
+        "forma",
+        "contorno",
+        "dibujo"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.chart": {
+      "name": "Gráfico",
+      "description": "Inserta un gráfico.",
+      "tags": [
+        "gráfico",
+        "insertar",
+        "datos"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.audio": {
+      "name": "Audio",
+      "description": "Inserta un audio.",
+      "tags": [
+        "audio",
+        "sonido",
+        "medios"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.slide-size": {
+      "name": "Tamaño de diapositiva",
+      "description": "Cambia el tamaño de las diapositivas.",
+      "tags": [
+        "diapositiva",
+        "tamaño",
+        "diseño"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.transition-none": {
+      "name": "Sin transición",
+      "description": "Quita la transición de la diapositiva.",
+      "tags": [
+        "transición",
+        "ninguna",
+        "diapositiva"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.transition-fade": {
+      "name": "Transición Desvanecer",
+      "description": "Transición que funde una diapositiva con la siguiente.",
+      "tags": [
+        "transición",
+        "desvanecer",
+        "diapositiva"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.transition-push": {
+      "name": "Transición Empujar",
+      "description": "Transición en la que la diapositiva nueva empuja a la anterior.",
+      "tags": [
+        "transición",
+        "empujar",
+        "diapositiva"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.play-preview": {
+      "name": "Vista previa",
+      "description": "Reproduce la vista previa de una transición o animación.",
+      "tags": [
+        "vista previa",
+        "reproducir",
+        "animación"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.effect-options": {
+      "name": "Opciones de efectos",
+      "description": "Dirección y variantes de un efecto.",
+      "tags": [
+        "efecto",
+        "opciones",
+        "animación"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.animation-none": {
+      "name": "Sin animación",
+      "description": "Quita la animación del objeto.",
+      "tags": [
+        "animación",
+        "ninguna"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.animation-appear": {
+      "name": "Animación Aparecer",
+      "description": "Animación de entrada en la que el objeto aparece.",
+      "tags": [
+        "animación",
+        "aparecer",
+        "entrada"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.animation-pane": {
+      "name": "Panel de animación",
+      "description": "Muestra la lista de animaciones de la diapositiva.",
+      "tags": [
+        "animación",
+        "panel"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.animation-add": {
+      "name": "Agregar animación",
+      "description": "Añade otra animación al objeto.",
+      "tags": [
+        "animación",
+        "agregar"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.slideshow-from-beginning": {
+      "name": "Desde el principio",
+      "description": "Inicia la presentación desde la primera diapositiva.",
+      "tags": [
+        "presentación",
+        "reproducir",
+        "principio"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.slideshow-from-current": {
+      "name": "Desde la diapositiva actual",
+      "description": "Inicia la presentación desde la diapositiva actual.",
+      "tags": [
+        "presentación",
+        "reproducir",
+        "actual"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.presenter-view": {
+      "name": "Vista del moderador",
+      "description": "Presenta con la vista del moderador en otra pantalla.",
+      "tags": [
+        "presentación",
+        "moderador",
+        "pantallas"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.slideshow-setup": {
+      "name": "Configurar presentación",
+      "description": "Opciones de la presentación con diapositivas.",
+      "tags": [
+        "presentación",
+        "configurar"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.slide-master": {
+      "name": "Patrón de diapositivas",
+      "description": "Edita el patrón y los diseños de las diapositivas.",
+      "tags": [
+        "patrón",
+        "diapositivas",
+        "diseño"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.window": {
+      "name": "Ventana",
+      "description": "Opciones de ventana.",
+      "tags": [
+        "ventana",
+        "vista"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.eye": {
+      "name": "Mostrar",
+      "description": "Muestra u oculta un elemento.",
+      "tags": [
+        "mostrar",
+        "visible",
+        "ojo"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    },
+    "common.higgs.duplicate": {
+      "name": "Duplicar",
+      "description": "Duplica el elemento seleccionado.",
+      "tags": [
+        "duplicar",
+        "copiar"
+      ],
+      "products": [
+        "presenter-desktop"
+      ]
+    }
+  }
 }

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Color de fuente</title>
+  <g stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5.5 16.5L12 4.5L18.5 16.5"/>
+    <path d="M8 12.5H16"/>
+  </g>
+</svg>
