@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Invertir el orden</title>
+  <rect x="4.5" y="4.5" width="10" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="10.5" width="10" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="16.5" width="10" height="3" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#FF6600" stroke-width="1" d="M18.5 7V17"/>
+  <path fill="#FF6600" d="M16 7H21L18.5 4Z"/>
+  <path fill="#FF6600" d="M16 17H21L18.5 20Z"/>
+</svg>

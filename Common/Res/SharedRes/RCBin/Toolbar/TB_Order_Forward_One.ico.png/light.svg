@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Traer adelante un nivel</title>
+  <rect x="4.5" y="4.5" width="6" height="6" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#FF6600" stroke-width="1" d="M12 8.5H14.5V14.5H8.5V12"/>
+  <path stroke="#2E3238" stroke-width="1" d="M16 12.5H18.5V18.5H12.5V16"/>
+  <path stroke="#2E3238" stroke-width="1" d="M18.5 8V11"/>
+  <path fill="#2E3238" d="M16 8H21L18.5 5Z"/>
+</svg>

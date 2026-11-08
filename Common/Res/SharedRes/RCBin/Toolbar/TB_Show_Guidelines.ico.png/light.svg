@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mostrar guías</title>
+  <path stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1" d="M6.5 3V20"/>
+  <path stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1" d="M3 15.5H20"/>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 7.5C13 3.5 19 3.5 20.5 7.5C19 11.5 13 11.5 11.5 7.5Z"/>
+  <circle cx="16" cy="7.5" r="1.5" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Alternar colores de vista previa</title>
+<path d="M8 9A4 4 0 0 1 16 9" stroke="#06A9F4" stroke-width="1"/><path d="M13.5 9H18.5L16 12" fill="#06A9F4"/><rect x="4.5" y="12.5" width="7" height="7" stroke="#2E3238" stroke-width="1"/><rect x="13" y="13" width="7" height="7" fill="#2E3238" rx="1"/>
+</svg>
