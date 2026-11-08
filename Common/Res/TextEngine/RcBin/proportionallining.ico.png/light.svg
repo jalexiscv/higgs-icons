@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cifras alineadas proporcionales</title>
+<path d="M7.5 4V20M15.5 4V20" stroke="#06A9F4" stroke-width="1" />
+<path d="M 4.5 9.5 L 5.5 8.5 V 14.5" stroke="#2E3238" stroke-width="1" />
+<path d="M 9.5 8.5 H 12.5 V 11.5 H 9.5 V 14.5 H 12.5" stroke="#2E3238" stroke-width="1" />
+<path d="M 17.5 8.5 H 19.5 V 14.5 H 17.5 M 17.5 11.5 H 19.5" stroke="#2E3238" stroke-width="1" />
+</svg>

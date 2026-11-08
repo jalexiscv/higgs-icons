@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Versalitas a partir de mayúsculas</title>
+<path d="M4 5.5H20" stroke="#06A9F4" stroke-width="1" />
+<path d="M4.5 19.5L8 8.5L11.5 19.5M5.8 15.5H10.2" stroke="#2E3238" stroke-width="1" />
+<path d="M13.5 8.5H17.5A2 2 0 0 1 17.5 12.5H13.5M13.5 12.5H17A3.5 3.5 0 0 1 17 19.5H13.5V8.5Z" stroke="#2E3238" stroke-width="1" />
+</svg>

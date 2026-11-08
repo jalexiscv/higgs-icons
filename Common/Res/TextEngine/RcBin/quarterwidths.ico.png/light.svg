@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Anchos de cuarto</title>
+<path d="M 4.5 7.5 L 5.5 6.5 V 12.5" stroke="#2E3238" stroke-width="1" />
+<path d="M 8.5 6.5 H 10.5 V 9.5 H 8.5 V 12.5 H 10.5 M 12.5 6.5 H 14.5 V 12.5 H 12.5 M 12.5 9.5 H 14.5 M 16.5 6.5 V 9.5 H 18.5 M 18.5 6.5 V 12.5" stroke="#2E3238" stroke-width="1" />
+<path d="M8.5 15.5V18.5H19.5V15.5" stroke="#06A9F4" stroke-width="1" />
+</svg>

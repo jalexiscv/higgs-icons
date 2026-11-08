@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Estilos de número</title>
+  <g><path d="M4.5 7.5L6.5 5.5V17.5" stroke="#2E3238" stroke-width="1"/><path d="M8.5 5.5H12.5V11.5H8.5V17.5H12.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="miter"/><path d="M14.5 5.5H18.5V17.5H14.5M15.5 11.5H18.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="miter"/></g>
+</svg>

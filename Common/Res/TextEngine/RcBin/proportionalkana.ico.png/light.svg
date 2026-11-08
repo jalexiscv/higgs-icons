@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Kana proporcional</title>
+<path d="M5.5 5.5V12C5.5 14 7.5 14.5 9 13M4.5 8.5H9" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 8.5H19.5M15.5 5.5V13C15.5 14.5 17 15 19.5 14.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.5 18.5H9.5M4.5 17V20M9.5 17V20" stroke="#06A9F4" stroke-width="1" />
+<path d="M12.5 18.5H19.5M12.5 17V20M19.5 17V20" stroke="#06A9F4" stroke-width="1" />
+</svg>
