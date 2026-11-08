@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tamaño de página para la impresora</title>
+  <path d="M13.5 12V4.5H8.5L4.5 8.5V19.5H9" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8.5 4.5V8.5H4.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="12.5" y="13.5" width="7" height="5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14 16.5H18" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 14L10 12" stroke="#06A9F4" stroke-width="1"/>
+  <rect x="5" y="13" width="3" height="3" fill="#06A9F4"/>
+  <rect x="10" y="9" width="3" height="3" fill="#06A9F4"/>
+</svg>

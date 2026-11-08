@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Sangría de primera línea</title>
+  <path d="M10.5 4V20" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4 11.5H5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5 9V14L8 11.5Z" fill="#2E3238"/>
+  <path d="M12 5.5H20M12 8.5H20M12 11.5H20M12 14.5H20M12 17.5H20" stroke="#2E3238" stroke-width="1"/>
+</svg>
