@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Exportar a la web</title>
+  <circle cx="9.5" cy="14.5" r="5.5" stroke="#2E3238" stroke-width="1"/><path d="M4 14.5H15" stroke="#2E3238" stroke-width="1"/><ellipse cx="9.5" cy="14.5" rx="2.5" ry="5.5" stroke="#2E3238" stroke-width="1"/><path d="M14.5 7.5V10.5H20.5V7.5" stroke="#2E3238" stroke-width="1"/><path d="M17.5 6V8.5" stroke="#2E3238" stroke-width="1"/><path d="M17.5 3L15.0 6H20.0Z" fill="#2E3238"/>
+</svg>

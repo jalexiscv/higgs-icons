@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Unir curvas</title>
+  <rect x="6" y="9" width="3" height="3" fill="#2E3238"/><rect x="4" y="17" width="3" height="3" fill="#2E3238"/><path d="M7.5 12V14.5Q7.5 16 5.5 17" stroke="#2E3238" stroke-width="1"/><rect x="15" y="9" width="3" height="3" fill="#2E3238"/><rect x="17" y="17" width="3" height="3" fill="#2E3238"/><path d="M16.5 12V14.5Q16.5 16 18.5 17" stroke="#2E3238" stroke-width="1"/><path d="M4.5 5.5H8M16 5.5H19.5" stroke="#2E3238" stroke-width="1"/><path d="M11 5.5L8 3.0V8.0Z" fill="#2E3238"/><path d="M13 5.5L16 3.0V8.0Z" fill="#2E3238"/>
+</svg>

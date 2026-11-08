@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Convertir en mapa de bits</title>
+  <rect x="4.5" y="11.5" width="12" height="8" stroke="#2E3238" stroke-width="1"/><path d="M6 18L9 14.5L11.5 17L13 15.5L15 18Z" fill="#2E3238"/><circle cx="7.5" cy="13.5" r="1" fill="#2E3238"/><path d="M12.5 5.5H20.5M19 4L20.5 5.5L19 7M20.5 8.5H12.5M14 7L12.5 8.5L14 10" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
