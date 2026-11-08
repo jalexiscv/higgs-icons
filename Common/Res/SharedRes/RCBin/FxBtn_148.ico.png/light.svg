@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Girar en sentido antihorario</title>
+  <path d="M4 13A7.5 7.5 0 1 0 11.5 5.5" fill="none" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+  <path d="M12 3L9 5.5L12 8Z" fill="#2E3238"/>
+</svg>

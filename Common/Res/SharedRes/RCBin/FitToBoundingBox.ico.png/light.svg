@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajustar al cuadro delimitador</title>
+  <rect x="4.5" y="4.5" width="15" height="15" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <rect x="3" y="3" width="3" height="3" fill="#2E3238"/>
+  <rect x="18" y="3" width="3" height="3" fill="#2E3238"/>
+  <rect x="3" y="18" width="3" height="3" fill="#2E3238"/>
+  <rect x="18" y="18" width="3" height="3" fill="#2E3238"/>
+  <path d="M9 15L15 9" fill="none" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M11.5 8.5H15.5V12.5M12.5 15.5H8.5V11.5" fill="none" stroke="#06A9F4" stroke-width="1"/>
+</svg>

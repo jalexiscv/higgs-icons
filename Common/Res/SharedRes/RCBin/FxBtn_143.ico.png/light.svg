@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ampliar para ajustar</title>
+  <circle cx="10.5" cy="10.5" r="5.5" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.4 16.2L16.2 14.4L20.6 18.8L18.8 20.6Z" fill="#2E3238"/>
+  <path d="M7.5 9.5V7.5H9.5M11.5 7.5H13.5V9.5M7.5 11.5V13.5H9.5M13.5 11.5V13.5H11.5" fill="none" stroke="#06A9F4" stroke-width="1"/>
+</svg>

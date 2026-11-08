@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mano de desplazamiento</title>
+  <path d="M7.5 13V9A1.5 1.5 0 0 1 10.5 9V13" fill="none" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M10.5 13V6A1.5 1.5 0 0 1 13.5 6V13" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <path d="M13.5 13V7A1.5 1.5 0 0 1 16.5 7V13" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16.5 13V10A1.5 1.5 0 0 1 19.5 10V13" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <path d="M19.5 13V16Q19.5 19.5 16 19.5H11.5Q9.5 19.5 8.5 18L5.5 14.5Q5.2 13 6.5 13.2Q7.5 13.5 7.5 15" fill="none" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
