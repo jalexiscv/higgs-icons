@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Proyectar a la derecha</title>
+  <path fill="#1CB574" d="M12 12L20 8V16L12 20Z"/>
+  <path d="M4.5 8.5L11.5 12V19.5L4.5 16Z" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.5 8L12 4.25L19.5 8L12 11.75Z" stroke="#EA3323" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

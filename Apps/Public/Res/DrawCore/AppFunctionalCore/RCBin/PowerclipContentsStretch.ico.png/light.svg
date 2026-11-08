@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Contenido de PowerClip: estirar</title>
+  <rect x="4.5" y="4.5" width="15" height="15" rx="1" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="10.5" cy="15.5" rx="3.5" ry="2.5" fill="#9499A1"/>
+  <path d="M10.5 12V10" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M9 10H12L10.5 8Z"/>
+  <path fill="#2E3238" d="M15 14V17L17.5 15.5Z"/>
+</svg>

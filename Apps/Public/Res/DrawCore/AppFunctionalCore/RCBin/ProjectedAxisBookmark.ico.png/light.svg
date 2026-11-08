@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marcador de eje proyectado</title>
+  <path fill="#2E3238" d="M4 7L12 3L20 7L12 11Z"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M4 8L11 11.5V19.5L4 16ZM6 11L9 12.5V16.5L7.5 15.5L6 16.5Z"/>
+  <path d="M12.5 12.5L19.5 9V16.5L12.5 20Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

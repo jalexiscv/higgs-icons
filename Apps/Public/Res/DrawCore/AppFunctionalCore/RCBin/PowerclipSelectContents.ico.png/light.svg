@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Seleccionar contenido de PowerClip</title>
+  <path d="M12.5 19.5H4.5V4.5H19.5V12.5" stroke="#9499A1" stroke-width="1"/>
+  <ellipse cx="11" cy="9.5" rx="5.5" ry="3.5" fill="#2E3238"/>
+  <path fill="#2E3238" d="M14 14L19.5 15.5L17 17L15.5 19.5Z"/>
+</svg>

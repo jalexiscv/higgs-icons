@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Proyectar arriba</title>
+  <path fill="#EA3323" d="M4 7L12 3L20 7L12 11Z"/>
+  <path d="M4.5 8.5L11.5 12V19.5L4.5 16Z" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12.5 12L19.5 8.5V16.5L12.5 20Z" stroke="#1CB574" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

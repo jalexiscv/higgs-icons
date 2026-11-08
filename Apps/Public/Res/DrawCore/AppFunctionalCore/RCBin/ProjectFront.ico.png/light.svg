@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Proyectar al frente</title>
+  <path fill="#06A9F4" d="M4 8L12 12V20L4 16Z"/>
+  <path d="M4.5 8L12 4.25L19.5 8L12 11.75Z" stroke="#EA3323" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12.5 12L19.5 8.5V16.5L12.5 20Z" stroke="#1CB574" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
