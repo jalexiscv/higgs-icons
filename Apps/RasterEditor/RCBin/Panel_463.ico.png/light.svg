@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Importar documento</title>
+<path d="M11.5 4.5H17.5L19.5 6.5V19.5H11.5Z" stroke="#2E3238" stroke-width="1"/>
+<path d="M13.5 9.5H17M13.5 12.5H17M13.5 15.5H17" stroke="#2E3238" stroke-width="1"/>
+<path d="M4 12.5H6" stroke="#2E3238" stroke-width="1"/>
+<path d="M6 10V15L10 12.5Z" fill="#2E3238"/>
+</svg>

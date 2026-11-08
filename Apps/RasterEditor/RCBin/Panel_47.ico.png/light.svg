@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Guardar selección a archivo</title>
+<path d="M4 4.5H11M4 11.5H11M4.5 4V12M10.5 4V12" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+<path d="M5.5 13.5V17.5H7" stroke="#2E3238" stroke-width="1"/>
+<path d="M7 15.5L10 17.5L7 19.5Z" fill="#2E3238"/>
+<path d="M11.5 10.5H17.5L19.5 12.5V19.5H11.5Z" stroke="#2E3238" stroke-width="1"/>
+<rect x="13" y="11" width="4" height="3" fill="#2E3238"/>
+<rect x="13.5" y="15.5" width="4" height="3" stroke="#2E3238" stroke-width="1"/>
+</svg>

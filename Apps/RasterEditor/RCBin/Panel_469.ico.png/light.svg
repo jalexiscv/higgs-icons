@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Tira de película</title>
+<rect x="4.5" y="5.5" width="15" height="13" stroke="#2E3238" stroke-width="1"/>
+<path d="M5 9.5H19M5 14.5H19" stroke="#2E3238" stroke-width="1"/>
+<path d="M6 7.5H19M6 16.5H19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

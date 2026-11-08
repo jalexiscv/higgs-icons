@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Selección con formas</title>
+<path d="M4 4.5H19M4 18.5H19M4.5 4V19M18.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+<rect x="6.5" y="6.5" width="5" height="5" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 16.5H16.5L14 11.5Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

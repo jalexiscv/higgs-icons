@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Rueda de color con giro</title>
+<path d="M15.75 5.5A7.5 7.5 0 1 1 8.25 5.5M6.8 8L8.25 5.5L5.3 5.45" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 11V7.1A5 5 0 0 1 17 11Z" fill="#06A9F4"/>
+<path d="M13 13H17A5 5 0 0 1 13 16.9Z" fill="#9499A1"/>
+<path d="M11 13V16.9A5 5 0 0 1 7 13Z" fill="#FF6600"/>
+<path d="M11 11H7A5 5 0 0 1 11 7.1Z" fill="#2E3238"/>
+</svg>

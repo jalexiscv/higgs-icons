@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Vista previa de ventana</title>
+<rect x="4.5" y="4.5" width="15" height="15" stroke="#2E3238" stroke-width="1"/>
+<rect x="5" y="5" width="14" height="2" fill="#2E3238"/>
+<path d="M7.5 13.5Q12 9 16.5 13.5Q12 18 7.5 13.5Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="12" cy="13.5" r="1.5" fill="#2E3238"/>
+</svg>

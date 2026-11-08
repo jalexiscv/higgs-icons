@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel con giro de trazado</title>
+<path d="M6.5 4C8 6 9 7 9 9H4C4 7 5 6 6.5 4Z" fill="#2E3238"/>
+<rect x="4" y="10" width="5" height="3" fill="#2E3238"/>
+<path d="M5 14H8L9 20H4Z" fill="#2E3238"/>
+<path d="M14 7A3 3 0 0 1 17 4A3 3 0 0 1 20 7A3 3 0 0 1 17 10" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 8V12L15 10Z" fill="#06A9F4"/>
+<circle cx="14" cy="14.5" r="1.5" stroke="#2E3238" stroke-width="1"/>
+<circle cx="19" cy="18" r="1.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M15.3 15.3L17.7 16.9" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
