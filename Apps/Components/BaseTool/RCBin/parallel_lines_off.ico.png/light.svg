@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Líneas paralelas: desactivadas</title>
+<path d="M5.5 4V9.5M5.5 14.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="3.5" y="9.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 4V12.5M11.5 17.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="9.5" y="12.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Líneas paralelas: tres líneas</title>
+<path d="M5.5 4V7.5M5.5 12.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="3.5" y="7.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 4V11.5M11.5 16.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="9.5" y="11.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M17.5 4V7.5M17.5 12.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="15.5" y="7.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Bisel</title>
+<path d="M5 18L9 14H14L18 18Z" fill="#9499A1"/>
+<rect x="4.5" y="4.5" width="14" height="14" fill="none" stroke="#2E3238" stroke-width="1"/>
+<rect x="8.5" y="8.5" width="6" height="6" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M4.5 4.5L8.5 8.5M18.5 4.5L14.5 8.5M4.5 18.5L8.5 14.5M18.5 18.5L14.5 14.5" fill="none" stroke="#2E3238" stroke-width="1"/>
+</svg>

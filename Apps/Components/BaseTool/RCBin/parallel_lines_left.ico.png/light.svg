@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Líneas paralelas: a la izquierda</title>
+<path d="M4 12.5H11M7.5 9V16" fill="none" stroke="#06A9F4" stroke-width="1"/>
+<circle cx="7.5" cy="12.5" r="2.5" fill="none" stroke="#06A9F4" stroke-width="1"/>
+<path d="M17.5 4V9.5M17.5 14.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="15.5" y="9.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+</svg>

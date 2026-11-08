@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Líneas paralelas: cantidad</title>
+<path d="M6.5 4V8.5M6.5 13.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="4.5" y="8.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M12.5 4V11.5M12.5 16.5V20" fill="none" stroke="#2E3238" stroke-width="1"/><rect x="10.5" y="11.5" width="4" height="5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M16.5 3.5V9.5M18.5 3.5V9.5M15 5.5H20M15 7.5H20" fill="none" stroke="#06A9F4" stroke-width="1"/>
+</svg>
