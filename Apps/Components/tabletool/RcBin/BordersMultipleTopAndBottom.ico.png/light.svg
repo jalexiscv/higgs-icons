@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Bordes superior e inferior de varias celdas</title>
+  <path d="M4 4.5H19M4 18.5H19M4.5 4V19M18.5 4V19M11.5 5V18M5 11.5H18" stroke="#9499A1" stroke-width="1"/>
+  <path d="M4 4.5H19M4 18.5H19" stroke="#06A9F4" stroke-width="1"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Eliminar fila</title>
+  <g><rect x="5" y="13" width="14" height="3" fill="#06A9F4"/><rect x="4.5" y="12.5" width="15" height="8" stroke="#2E3238" stroke-width="1"/><path d="M4.5 16.5H19.5" stroke="#2E3238" stroke-width="1"/></g>
+  <path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>
