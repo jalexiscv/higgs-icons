@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Distribuir uniformemente</title>
+<path d="M11.5 12L11.5 5 M11.5 12L5.5 10.5 M11.5 12L17.5 10.5 M11.5 12L7.5 19 M11.5 12L15.5 19" stroke="#2E3238" stroke-width="1"/><circle cx="11.5" cy="12" r="1.5" fill="#2E3238"/><circle cx="11.5" cy="5" r="2" fill="#2E3238"/><circle cx="5.5" cy="10.5" r="2" fill="#FF6600"/><circle cx="17.5" cy="10.5" r="2" fill="#06A9F4"/><circle cx="7.5" cy="19" r="2" fill="#FF6600"/><circle cx="15.5" cy="19" r="2" fill="#06A9F4"/>
+</svg>

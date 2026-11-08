@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Forzar agrupación del boceto</title>
+  <path d="M4.5 7C7.0 4 9.5 10 12.0 7C14.5 4 17.0 10 19.5 7" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.5 11C7.0 8 9.5 14 12.0 11C14.5 8 17.0 14 19.5 11" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.5 15C7.0 12 9.5 18 12.0 15C14.5 12 17.0 18 19.5 15" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M15 18H19L17 21Z"/>
+</svg>

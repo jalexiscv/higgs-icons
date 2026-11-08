@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Suavizado de curva del boceto</title>
+  <path d="M4.5 9C7 6 9.5 12 12 9C13.5 7.5 15 7.5 17 7.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M17 5L20 7.5L17 10Z"/>
+  <path d="M4.5 16C7.0 13 9.5 19 12.0 16C14.5 13 17.0 19 19.5 16" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
