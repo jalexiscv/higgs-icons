@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Girar en sentido antihorario sobre el centro, eje X</title>
+  <path d="M11.25 5.24A5.5 5.5 0 1 0 17.89 6.11" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+  <path fill="#2E3238" d="M19.66 4.34L16.12 7.88L15.77 3.99Z"/>
+  <circle cx="14" cy="10" r="1" fill="#06A9F4"/>
+  <path d="M4 15L9 20M9 15L4 20" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Girar en sentido horario sobre el centro, eje X</title>
+  <path d="M12.75 5.24A5.5 5.5 0 1 1 6.11 6.11" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+  <path fill="#2E3238" d="M7.88 7.88L4.34 4.34L8.23 3.99Z"/>
+  <circle cx="10" cy="10" r="1" fill="#06A9F4"/>
+  <path d="M15 15L20 20M20 15L15 20" stroke="#2E3238" stroke-width="1"/>
+</svg>

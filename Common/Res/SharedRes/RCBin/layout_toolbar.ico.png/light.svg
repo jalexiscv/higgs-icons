@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Diseño de barra</title>
+  <g><path d="M5.5 4.5H14.5L18.5 8.5V19.5H5.5Z" stroke="#2E3238" stroke-width="1"/><path d="M14.5 4.5V8.5H18.5" stroke="#2E3238" stroke-width="1"/><path d="M11.5 8V16" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/><path d="M9 12.5H14" stroke="#06A9F4" stroke-width="1"/></g>
+</svg>

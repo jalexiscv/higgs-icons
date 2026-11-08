@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Degradado lineal</title>
+  <path d="M9 15L15 9" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M4 15H9V20H4Z"/>
+  <path fill="#2E3238" d="M15 4H20V9H15Z"/>
+</svg>
