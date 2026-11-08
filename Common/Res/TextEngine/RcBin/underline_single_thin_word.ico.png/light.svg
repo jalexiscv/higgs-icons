@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Subrayado simple fina por palabra</title>
+  <path fill="#2E3238" d="M4 4H6V12.5A1.5 1.5 0 0 0 9 12.5V4H11V12.5A3.5 3.5 0 0 1 4 12.5ZM13 4H15L16.5 12L18 4H20L17.5 16H15.5Z"/>
+  <path d="M4 19.5H20" stroke="#06A9F4" stroke-width="1"/>
+</svg>

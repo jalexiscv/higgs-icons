@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Fondo del texto</title>
+  <path fill-rule="evenodd" fill="#2E3238" d="M4 6H16V18H4ZM9 8H11L14.5 16H12.7L12.2 14H7.8L7.3 16H5.5ZM10 10L10.95 12H9.05Z"/>
+  <path d="M18.5 5.5H20.5M19.5 5.5V18.5M18.5 18.5H20.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
