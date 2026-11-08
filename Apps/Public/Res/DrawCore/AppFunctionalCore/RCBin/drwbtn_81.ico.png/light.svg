@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Imagen con lápiz</title>
+  <path d="M12.5 6.5H4.5V19.5H15.5V14.5" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="8.5" cy="10.5" r="1.5" fill="#2E3238"/>
+  <path d="M6 18L9.5 13L12 16L13.5 14.5L15 18Z" fill="#2E3238"/>
+  <path d="M13 11L18 6L20 8L15 13Z" fill="#2E3238"/>
+</svg>

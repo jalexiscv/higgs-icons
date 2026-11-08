@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Seleccionar persona</title>
+  <circle cx="7" cy="7" r="2.5" fill="#2E3238"/>
+  <path d="M4 11H10L8.5 19H5.5Z" fill="#2E3238"/>
+  <circle cx="16" cy="7" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M18 14L19.5 11.5H13.5L15 17" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16 14.5L21 17L18.5 18L20 21L18.5 21L17 18.5L16 20Z" fill="#2E3238"/>
+</svg>

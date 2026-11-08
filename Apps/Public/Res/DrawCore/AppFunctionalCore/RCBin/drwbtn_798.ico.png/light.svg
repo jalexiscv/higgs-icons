@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página con trama y engranaje</title>
+  <path d="M13 4.5H10.5L5.5 9.5V19.5H17.5V11.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10.5 4.5V9.5H5.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.5 15.5L12 10M6.5 18.5L15 10M10 19L17 12M14 19L17 16" stroke="#9499A1" stroke-width="1"/>
+  <circle cx="17.5" cy="6.5" r="2" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 3.5V4.5M17.5 8.5V9.5M14.5 6.5H15.5M19.5 6.5H20.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
