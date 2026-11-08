@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Objeto de mapa de bits</title>
+  <path d="M12 7.5H4.5V19.5H18.5V11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6 18L10 12L13 16L15 13L17 18Z" fill="#2E3238"/>
+  <path d="M14 11L14.5 8.5L19 4L21 6L16.5 11Z" fill="#06A9F4"/>
+</svg>

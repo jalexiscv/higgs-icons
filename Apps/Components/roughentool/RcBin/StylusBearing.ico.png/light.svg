@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Orientación del estilete</title>
+  <path d="M4.5 5V11.5H10.5V5M7.5 5V11.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6 12H9V20H6Z" fill="#2E3238"/>
+  <path d="M12 9A4 4 0 1 1 16 13" stroke="#06A9F4" stroke-width="1" stroke-linecap="round"/>
+  <path d="M18 11L16 13L18 15" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

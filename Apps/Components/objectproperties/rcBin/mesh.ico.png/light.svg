@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Malla con nodos</title>
+  <path d="M8.5 4V20M15.5 4V20M4 8.5H20M4 15.5H20" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="15.5" cy="8.5" r="2" fill="#06A9F4"/>
+  <circle cx="8.5" cy="15.5" r="2" fill="#06A9F4"/>
+</svg>

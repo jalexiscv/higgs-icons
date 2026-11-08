@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto horizontal</title>
+  <path fill="#2E3238" d="M3 9L5 9L5.5 10L6 9L8 9L6.4 11.5L8 14L6 14L5.5 13L5 14L3 14L4.6 11.5Z"/>
+  <path fill="#2E3238" d="M9 9L11 9L11.5 10L12 9L14 9L12.4 11.5L14 14L12 14L11.5 13L11 14L9 14L10.6 11.5Z"/>
+  <path fill="#2E3238" d="M15 9L17 9L17.5 10L18 9L20 9L18.4 11.5L20 14L18 14L17.5 13L17 14L15 14L16.6 11.5Z"/>
+</svg>
