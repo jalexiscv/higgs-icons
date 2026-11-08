@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Duplicar y girar</title>
+<path d="M8.5 16.5H4.5V6.5H13.5V10.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+<rect x="8.5" y="10.5" width="10" height="9" stroke="#2E3238" stroke-width="1" fill="#9499A1"/>
+<path d="M13.5 7.5A3.5 3.5 0 0 1 19.5 9.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/><path d="M13.5 4.5V7.5H16.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+</svg>

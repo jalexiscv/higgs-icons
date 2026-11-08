@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cara sonriente</title>
+<circle cx="12" cy="12" r="7.5" stroke="#2E3238" stroke-width="1"/>
+<rect x="8" y="9" width="2" height="2" fill="#2E3238"/>
+<rect x="14" y="9" width="2" height="2" fill="#2E3238"/>
+<path d="M8.5 14.5A4 3.5 0 0 0 15.5 14.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+</svg>

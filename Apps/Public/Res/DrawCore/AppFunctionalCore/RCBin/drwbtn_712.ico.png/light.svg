@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Seleccionar con lupa</title>
+<path d="M13.25 8.74A5.5 5.5 0 1 0 13.25 18.26" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+<circle cx="17" cy="6.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M18.4 8.9L19.1 8.2L20.8 9.9L20.1 10.6Z" fill="#2E3238"/>
+<path d="M13.5 11.5L19.5 14.5L16.5 15.5L15 19.5Z" fill="#2E3238"/>
+</svg>
