@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Alternativas de kana vertical</title>
+  <path d="M5.5 8.5H13.5M9.5 5V12.5" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="9" cy="16" rx="4.5" ry="3.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M18.5 4V16" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16 16H21L18.5 19Z" fill="#2E3238"/>
+</svg>

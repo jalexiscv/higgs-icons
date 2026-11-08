@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cuentagotas con muestra naranja</title>
+  <path d="M11.5 8.5L15.5 12.5L8.5 19.5H4.5V15.5Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M5 16L8.5 12.5L12 16L8.5 19H5Z" fill="#FF6600"/>
+  <path d="M13 8L16 11L20 7L17 4Z" fill="#2E3238"/>
+</svg>

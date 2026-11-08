@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Controles deslizantes</title>
+  <path d="M4.5 6.5H12.5M16.5 6.5H19.5M4.5 11.5H6.5M4.5 16.5H12.5M16.5 16.5H19.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10.5 11.5H19.5" stroke="#06A9F4" stroke-width="1"/>
+  <circle cx="14.5" cy="6.5" r="2" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="8.5" cy="11.5" r="2" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="14.5" cy="16.5" r="2" stroke="#2E3238" stroke-width="1"/>
+</svg>

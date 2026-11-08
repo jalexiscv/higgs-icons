@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Candado abierto</title>
+  <path d="M14.5 11V7A3 3 0 0 0 8.5 7V9" stroke="#2E3238" stroke-width="1"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M5 11H18V20H5ZM11 14H12V17H11Z"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Flecha a la derecha</title>
+  <rect x="4" y="10" width="10" height="3" fill="#2E3238"/>
+  <path d="M13 6L20 11.5L13 17Z" fill="#2E3238"/>
+</svg>
