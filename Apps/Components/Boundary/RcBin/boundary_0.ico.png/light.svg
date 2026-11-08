@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cubo vertiendo color sobre una barra</title>
+<path d="M5.5 8.5L9.5 4.5L15.5 10.5L11.5 14.5Z" fill="none" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+<path d="M17.5 11.5L19 14A1.75 1.75 0 1 1 16 14Z" fill="#FF6600"/>
+<rect x="4.5" y="16.5" width="14" height="3" fill="none" stroke="#2E3238" stroke-width="1"/>
+<rect x="11" y="17" width="7" height="2" fill="#FF6600"/>
+</svg>
