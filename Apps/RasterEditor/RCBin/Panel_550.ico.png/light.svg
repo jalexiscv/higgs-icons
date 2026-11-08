@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Intercambiar paneles</title>
+<rect x="4.5" y="4.5" width="12" height="12" stroke="#2E3238" stroke-width="1"/><path d="M17.5 9.5H19.5V19.5H9.5V17.5" stroke="#9499A1" stroke-width="1"/><path d="M6.5 10.5H14.5M8.5 8.5L6.5 10.5L8.5 12.5M12.5 8.5L14.5 10.5L12.5 12.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

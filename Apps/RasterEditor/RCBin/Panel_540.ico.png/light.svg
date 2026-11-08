@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Círculo transparente seleccionado</title>
+<path d="M6 10H8V12H6ZM8 8H10V10H8ZM8 12H10V14H8ZM10 6H12V8H10ZM10 10H12V12H10ZM10 14H12V16H10ZM12 8H14V10H12ZM12 12H14V14H12ZM12 16H14V18H12ZM14 10H16V12H14ZM14 14H16V16H14ZM16 12H18V14H16Z" fill="#FF6600"/>
+<circle cx="12" cy="12" r="7" stroke="#2E3238" stroke-width="1"/>
+<rect x="4" y="4" width="2" height="2" fill="#2E3238"/>
+<rect x="18" y="4" width="2" height="2" fill="#2E3238"/>
+<rect x="4" y="18" width="2" height="2" fill="#2E3238"/>
+<rect x="18" y="18" width="2" height="2" fill="#2E3238"/>
+</svg>
