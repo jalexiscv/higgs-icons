@@ -1,0 +1,110 @@
+CONTRATO DE LICENCIA DE HIGGS ICONS
+
+Copyright (c) 2026 EDUX FUTURO SAS. Todos los derechos reservados.
+
+Higgs Icons —sus dibujos (los archivos SVG y PNG de «Apps/», «Common/» y
+«Engines/»), sus metadatos, su generador, su módulo web, su biblioteca C++,
+sus catálogos y su documentación (la «Biblioteca»)— es material propietario de
+EDUX FUTURO SAS (el «Licenciante»). La Biblioteca no es software libre ni de
+código abierto: se licencia, no se vende, y solo puede usarse conforme a este
+contrato (la «Licencia»).
+
+Al copiar, compilar, incorporar o usar la Biblioteca, usted (el «Usuario»)
+acepta esta Licencia. Si no la acepta, no use la Biblioteca.
+
+1. CONCESIÓN DE LICENCIA
+
+   1.1. La Biblioteca forma parte de los productos de la familia Higgs de EDUX
+        FUTURO SAS (entre ellos Skriba, Odyssey y Presenter). El Licenciante
+        concede al Usuario de uno de esos productos una licencia limitada, no
+        exclusiva, intransferible y revocable para usar los iconos de la
+        Biblioteca tal como el producto los muestra, en los términos de la
+        licencia de ese producto.
+   1.2. El acceso al repositorio de la Biblioteca, a sus archivos fuente y a
+        sus salidas generadas («dist/», catálogos, paquetes de un release) se
+        concede únicamente para compilar, mantener y distribuir los productos
+        del Licenciante, a las personas que el Licenciante autorice.
+   1.3. Ningún otro uso está permitido sin autorización escrita del
+        Licenciante.
+
+2. RESTRICCIONES
+
+   El Usuario no puede, ni puede permitir que un tercero lo haga:
+   a) copiar, redistribuir, vender, alquilar, prestar, sublicenciar ni poner a
+      disposición de terceros la Biblioteca ni ninguno de sus iconos, sueltos
+      o en conjunto, fuera de un producto del Licenciante;
+   b) usar los iconos en otras aplicaciones, sitios web, documentos,
+      plantillas, temas o conjuntos de iconos, ni derivar de ellos otros
+      dibujos;
+   c) modificar, adaptar o traducir la Biblioteca, salvo dentro del
+      mantenimiento de los productos del Licenciante por personas
+      autorizadas;
+   d) retirar ni alterar los avisos de derechos de autor, marcas o licencia;
+   e) usar la Biblioteca para crear un producto que compita con los del
+      Licenciante.
+
+3. PROPIEDAD
+
+   La Biblioteca está protegida por las leyes de derechos de autor y los
+   tratados internacionales. EDUX FUTURO SAS conserva todos los derechos,
+   títulos e intereses sobre la Biblioteca, incluidos los derechos de
+   propiedad intelectual, y sobre toda copia de ella. Esta Licencia no
+   transfiere ningún derecho de propiedad al Usuario.
+
+4. PROCEDENCIA
+
+   Los dibujos de la Biblioteca son obra propia del Licenciante o se crearon
+   por encargo suyo; su registro de procedencia por grupo está en
+   RIGHTS-AND-PUBLISHING.md. Ningún recurso se obtuvo de binarios de productos
+   de terceros.
+
+5. ACTUALIZACIONES
+
+   El Licenciante puede publicar versiones nuevas de la Biblioteca, que quedan
+   sujetas a esta Licencia salvo que vengan con otra. Los identificadores
+   canónicos de los iconos son un contrato con los productos del Licenciante,
+   no una concesión al Usuario.
+
+6. GARANTÍA
+
+   LA BIBLIOTECA SE ENTREGA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+   IMPLÍCITA, INCLUIDAS SIN LIMITACIÓN LAS GARANTÍAS DE COMERCIALIZACIÓN, DE
+   IDONEIDAD PARA UN FIN DETERMINADO Y DE NO INFRACCIÓN, EN LA MÁXIMA MEDIDA
+   QUE PERMITA LA LEY APLICABLE.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+
+   EN LA MÁXIMA MEDIDA QUE PERMITA LA LEY APLICABLE, EDUX FUTURO SAS NO SERÁ
+   RESPONSABLE DE NINGÚN DAÑO INDIRECTO, INCIDENTAL, ESPECIAL, CONSECUENTE O
+   PUNITIVO, NI DE LA PÉRDIDA DE DATOS, DE BENEFICIOS O DE USO, DERIVADOS DEL
+   USO O DE LA IMPOSIBILIDAD DE USO DE LA BIBLIOTECA, AUNQUE SE LE HAYA
+   ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+
+8. TERMINACIÓN
+
+   Esta Licencia está vigente hasta su terminación. Termina de forma
+   automática si el Usuario incumple cualquiera de sus términos o si termina
+   la licencia del producto del Licenciante a través del cual usa la
+   Biblioteca. Al terminar, el Usuario debe dejar de usar la Biblioteca y
+   destruir todas sus copias. Las secciones 2, 3, 6, 7 y 9 sobreviven a la
+   terminación.
+
+9. LEY APLICABLE
+
+   Esta Licencia se rige por las leyes de la República de Colombia. Toda
+   controversia derivada de ella se someterá a los jueces competentes del
+   domicilio del Licenciante, sin perjuicio de los derechos irrenunciables
+   que la ley del lugar de residencia del Usuario le reconozca como
+   consumidor.
+
+10. MARCAS
+
+   Higgs, Skriba, Odyssey y Presenter son marcas de EDUX FUTURO SAS.
+
+11. CONTACTO
+
+   EDUX FUTURO SAS, Colombia. Las consultas sobre esta Licencia se dirigen al
+   Licenciante a través de los canales de soporte indicados en sus productos.
+
+Identificador SPDX usado en los archivos de la Biblioteca:
+LicenseRef-EduxFuturo-Proprietary.
