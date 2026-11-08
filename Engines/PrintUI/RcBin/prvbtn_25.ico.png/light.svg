@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Mira de precisión con cursor</title>
+<path d="M9.5 4V15M4 9.5H15" fill="none" stroke="#2E3238" stroke-width="1"/>
+<circle cx="9.5" cy="9.5" r="3.5" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M4 17H7V20H4Z" fill="#06A9F4"/>
+<path d="M14 12V20L16 18L18 21L19.5 20.3L17.5 17.5L20.5 17.2Z" fill="#2E3238"/>
+</svg>

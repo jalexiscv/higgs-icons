@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cuadrícula con dos flechas hacia abajo y avance</title>
+<path d="M4.5 10.5H14.5V19.5H4.5Z" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M6 12H9V14H6Z M10 12H13V14H10Z M6 16H9V18H6Z M10 16H13V18H10Z" fill="#2E3238"/>
+<path d="M6.5 3.5V6M12.5 3.5V6" fill="none" stroke="#2E3238" stroke-width="1"/>
+<path d="M4 6H9L6.5 9Z M10 6H15L12.5 9Z" fill="#2E3238"/>
+<path d="M16 4V9L20 6.5Z" fill="#1CB574"/>
+</svg>
