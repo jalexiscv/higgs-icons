@@ -30,7 +30,7 @@ existente. Lo que sigue lo resume.
 - Se escribe desde las plantillas de `tools/build.mjs`; nunca se edita
   `dist/` a mano.
 - C++20, espacio de nombres `higgs_icons`, nombres en `snake_case`, sangría de
-  4 espacios, independiente de JUCE.
+  4 espacios, sin depender de ningún framework (tampoco de Higgs Mythos).
 - Toda cadena que viene de datos (IDs, nombres, alias, tags, rutas) pasa por
   `cppString` antes de entrar al código fuente.
 - Debe compilar sin errores con MSVC (`/utf-8`) como en la CI.

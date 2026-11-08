@@ -10,9 +10,15 @@ tecnología de servidor. Cómo obtener la carpeta está en
 ```
 dist/web/
 ├── index.js        ← el módulo (IconLibrary, loadIconLibrary)
-├── manifest.json   ← inventario: IDs, nombres, tags y rutas de cada tamaño
+├── manifest.json   ← inventario: IDs, nombres, tags y rutas de cada archivo
 └── assets/         ← PNG: assets/<ID con "/">/<tamaño>.png
+                       SVG: assets/<ID con "/">/light.svg y dark.svg
 ```
+
+Cada icono trae PNG por tamaño (`variants`), dibujo vectorial en tema claro y
+oscuro (`svg`) o ambos ([manifiesto.md](manifiesto.md)). Desde 0.2.1 los 3001
+iconos son solo vectoriales: `url` devuelve `null` y se usa `svgUrl` (o
+`createImage`, que ya elige el SVG).
 
 La carpeta se copia **completa y sin reorganizar** a una ruta pública de la
 aplicación, por ejemplo `public/assets/higgs-icons/`. El módulo calcula las rutas
@@ -55,7 +61,7 @@ Descarga `manifest.json` y devuelve la biblioteca.
 | Opción | Por defecto | Uso |
 | --- | --- | --- |
 | `manifestUrl` | `manifest.json` junto a `index.js` | URL del manifiesto |
-| `assetBase` | carpeta de `index.js` | Base contra la que se resuelven las rutas de los PNG |
+| `assetBase` | carpeta de `index.js` | Base contra la que se resuelven las rutas de los PNG y los SVG |
 | `fetchImpl` | `fetch` global | Función compatible con `fetch` (pruebas, entornos sin `fetch`) |
 
 Rechaza con `Error('Unable to load icon manifest (<estado HTTP>).')` si el
@@ -81,15 +87,24 @@ para migrar código que usaba los archivos antiguos.
 ### `url(id, { size = 24 }?)` → `string` o `null`
 
 URL absoluta del PNG del tamaño disponible **más cercano** a `size`; en empate,
-el mayor. Con los tamaños actuales (24, 48 y 72): `size: 32` da 24, `size: 36`
-da 48 y `size: 96` da 72. Devuelve `null` si el ID no existe.
+el mayor. Con los tamaños habituales (24, 48 y 72): `size: 32` da 24, `size: 36`
+da 48 y `size: 96` da 72. Devuelve `null` si el ID no existe **o si el icono no
+tiene PNG** (solo dibujo vectorial): en ese caso se usa `svgUrl`.
 
-### `createImage(id, { size = 24, alt, className = '' }?)` → `HTMLImageElement` o `null`
+### `svgUrl(id, { theme = 'light' }?)` → `string` o `null`
 
-Crea un `<img>` con `src` = `url(id, { size })`, `width` y `height` = `size`,
-`decoding="async"`, la clase indicada y `alt` = el `alt` recibido o, si no se
-pasa, el nombre del icono. Para un icono decorativo junto a un texto, pasar
-`alt: ''`. Devuelve `null` si el ID no existe.
+URL absoluta del SVG del icono en el tema pedido, `'light'` u `'dark'`
+(cualquier otro valor da el claro). El SVG tiene `viewBox="0 0 24 24"` y se
+muestra nítido a 24, 30, 36, 42, 48, 60, 72 o 128 px con `width` y `height`.
+Devuelve `null` si el ID no existe o si el icono solo tiene PNG.
+
+### `createImage(id, { size = 24, alt, className = '', theme = 'light' }?)` → `HTMLImageElement` o `null`
+
+Crea un `<img>` con `src` = `url(id, { size })` o, si el icono no tiene PNG,
+`svgUrl(id, { theme })`; `width` y `height` = `size`, `decoding="async"`, la
+clase indicada y `alt` = el `alt` recibido o, si no se pasa, el nombre del icono.
+Para un icono decorativo junto a un texto, pasar `alt: ''`. Devuelve `null` si
+el ID no existe.
 
 ### `search(consulta, { limit = 50 }?)` → arreglo de iconos
 
@@ -104,7 +119,7 @@ cada grupo por ID. Una consulta vacía devuelve los primeros `limit` iconos;
 
 Lo que devuelven `get`, `findLegacyName` y `search` es la entrada del manifiesto:
 `id`, `name`, `description`, `category`, `source`, `legacyName`, `aliases`,
-`tags`, `products` y `variants` ([manifiesto.md](manifiesto.md)).
+`tags`, `products`, `variants` y `svg` ([manifiesto.md](manifiesto.md)).
 
 ## Recetas
 
@@ -115,6 +130,19 @@ const button = document.createElement('button');
 button.append(icons.createImage('apps.components.base-tool.parallel-lines-count', { size: 24, alt: '' }) ?? '');
 button.append(' Contar líneas');
 ```
+
+### Tema oscuro
+
+Los iconos vectoriales traen un dibujo por tema. Elegirlo según el tema de la
+página (o según `prefers-color-scheme`) y volver a crear las imágenes al cambiar:
+
+```js
+const dark = matchMedia('(prefers-color-scheme: dark)').matches;
+const image = icons.createImage('common.higgs.eye', { size: 24, theme: dark ? 'dark' : 'light' });
+```
+
+Un SVG se ve nítido a cualquier tamaño, así que no hace falta pedir el tamaño
+físico de la pantalla como con los PNG.
 
 ### Pantallas de alta densidad
 

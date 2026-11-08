@@ -37,6 +37,14 @@ que escribir para que no dependa de la memoria de nadie. Por cada grupo:
 - quién lo creó o de dónde salió;
 - los términos con los que se puede distribuir.
 
+| Grupo | Procedencia | Términos |
+| --- | --- | --- |
+| `Common/Higgs/` (`common.higgs.*`, desde 0.1.1) | Creados por el autor para la familia Higgs en 2026-10-13. Seis alineaciones de celda (`common.higgs.cell-align-*`) derivan de `common.shared-res.vertical-alignment-*` de esta biblioteca (se mueve la línea corta) y heredan la procedencia de ese grupo, aún por registrar; los demás se exportan de los diseños vectoriales propios de Higgs Skriba (AGPL-3.0-or-later) con la proporción y el trazo de la biblioteca (`Skriba.exe --icon-export`). Desde 0.1.3, 24 más (presentaciones: sección, transiciones, animaciones, presentación, gráfico, audio, tamaño de diapositiva, patrón, sombra y espaciado del texto, contorno, ventana, mostrar, duplicar), creados por el autor el 2026-10-24 y exportados de los diseños vectoriales propios de Higgs Presenter (AGPL-3.0-or-later) con la proporción y el trazo de la biblioteca (`Presenter.exe --icon-export`) | Los de la biblioteca, cuando se elija su licencia |
+| Variantes de 30, 36, 42 y 60 px de los iconos que usa Higgs Skriba (0.1.2 a 0.1.3) | Reducciones (Lanczos, alfa premultiplicado) de las variantes de 48 y 72 px del mismo icono, hechas en 2026-10-13; las de `common.higgs` exportadas de su vectorial. Retiradas en 0.2.0 junto con el resto de PNG de esos iconos | Las del icono del que derivan |
+| Dibujos SVG (`light.svg`) de los 174 iconos que usan Higgs Skriba y Higgs Presenter (desde 0.2.0) | Creados por el autor el 2026-11-08 con el estilo del skill `iconos-svg-ui` (rejilla de 24 px, trazo de 1 px, paleta cerrada). Los 52 de `common.higgs` se convierten de los fragmentos vectoriales propios de Higgs Skriba y Higgs Presenter (AGPL-3.0-or-later; rejilla de 16 llevada a 24 con trazo de 1 px; cinco con texto redibujados a mano). Los otros 122 son dibujos nuevos del autor que representan el mismo concepto que el PNG heredado al que sustituyen, sin calcarlo. El dibujo oscuro se deriva del claro al generar | Los de la biblioteca, cuando se elija su licencia |
+| Dibujos SVG (`light.svg`) de los 2827 iconos restantes (desde 0.2.1) | Creados el 2026-11-08 por encargo del autor con agentes de IA siguiendo el skill `iconos-svg-ui` y las reglas del proyecto. Cada uno es un dibujo nuevo que representa el mismo concepto que el PNG heredado al que sustituye, sin calcarlo. El dibujo oscuro se deriva del claro al generar | Los de la biblioteca, cuando se elija su licencia |
+| `Apps/`, `Common/Res/`, `Engines/` (los PNG heredados, retirados en 0.2.0 y 0.2.1) | Por registrar | Por registrar |
+
 ## Cómo se incorporan iconos nuevos
 
 - **Procedencia conocida y declarada en el changelog** (de qué aplicación o autor vienen). Sin eso,

@@ -6,7 +6,8 @@ Odyssey y Presenter). A partir de un mismo inventario de PNG (`Apps/`,
 `metadata/overrides.json`), el generador `tools/build.mjs` (Node.js 20+, sin
 dependencias) produce en `dist/` tres salidas: el módulo web
 (`packages/web/index.js` + `manifest.json`), la biblioteca C++20/CMake para las
-aplicaciones JUCE y el catálogo navegable. El catálogo estático
+aplicaciones de escritorio hechas con Higgs Mythos (el framework propio de la
+familia Higgs; nunca JUCE) y el catálogo navegable. El catálogo estático
 `catalogo-iconos.html` se publica con GitHub Pages desde la raíz.
 
 ## Obligatorio en toda orden

@@ -1,15 +1,21 @@
 # Higgs Icons
 
 Biblioteca común de iconos de las aplicaciones Higgs (Skriba, Odyssey y
-Presenter). Un solo inventario de 2949 iconos PNG, en 24, 48 y 72 px, con
-**identificadores estables**, del que se generan dos salidas:
+Presenter). Un solo inventario de 3001 iconos con **identificadores estables**,
+todos dibujados en **SVG** con tema claro y oscuro y nítidos a 24, 30, 36, 42,
+48, 60, 72 y 128 px. De él se generan dos salidas:
 
 - **Web:** módulo ES sin dependencias ni bundler, para JavaScript vanilla, PHP o
   cualquier aplicación web.
-- **Escritorio:** biblioteca C++20 con CMake, independiente de JUCE y lista para
-  las aplicaciones JUCE de Skriba y Odyssey.
+- **Escritorio:** biblioteca C++20 con CMake, sin dependencias y lista para las
+  aplicaciones de Skriba, Odyssey y Presenter hechas con
+  [Higgs Mythos](https://github.com/jalexiscv/higgs-mythos).
 
-**Catálogo en línea:** [jalexiscv.github.io/higgs-icons](https://jalexiscv.github.io/higgs-icons/)
+**Catálogos en línea:** [jalexiscv.github.io/higgs-icons](https://jalexiscv.github.io/higgs-icons/)
+enlaza al [catálogo SVG](https://jalexiscv.github.io/higgs-icons/catalogo-iconos-svg.html)
+(los iconos vectoriales, en tema claro y oscuro) y al
+[catálogo completo](https://jalexiscv.github.io/higgs-icons/catalogo-iconos.html) (todo el
+inventario heredado).
 
 ## Cómo se usa
 
@@ -44,7 +50,7 @@ document.querySelector('#toolbar').append(
 
 API y recetas: [docs/uso-web.md](docs/uso-web.md).
 
-### Aplicación de escritorio (CMake / JUCE)
+### Aplicación de escritorio (CMake / Higgs Mythos)
 
 ```cmake
 include(FetchContent)
@@ -61,7 +67,7 @@ execute_process(COMMAND "${NODE_EXECUTABLE}" tools/build.mjs
 add_subdirectory("${higgs_icons_SOURCE_DIR}/dist/desktop" "${CMAKE_BINARY_DIR}/higgs-icons")
 
 target_link_libraries(skriba PRIVATE HiggsIcons::HiggsIcons)
-higgs_icons_copy_assets(skriba)   # copia los PNG a <ejecutable>/HiggsIcons/assets
+higgs_icons_copy_assets(skriba)   # copia los PNG y SVG a <ejecutable>/HiggsIcons/assets
 ```
 
 ```cpp
@@ -69,9 +75,11 @@ higgs_icons_copy_assets(skriba)   # copia los PNG a <ejecutable>/HiggsIcons/asse
 
 const auto path = higgs_icons::resolve_path(
     "apps.components.base-tool.parallel-lines-count", 24, executableDir / "HiggsIcons");
+const auto svg = higgs_icons::resolve_svg(
+    "common.higgs.eye", higgs_icons::Theme::dark, executableDir / "HiggsIcons");
 ```
 
-API, ejemplo con JUCE y empaquetado: [docs/uso-escritorio.md](docs/uso-escritorio.md).
+API, ejemplo con Higgs Mythos y empaquetado: [docs/uso-escritorio.md](docs/uso-escritorio.md).
 
 > En Windows, activa una vez `git config --global core.longpaths true` o usa una
 > carpeta de compilación corta: algunas rutas del repositorio son largas
@@ -79,11 +87,14 @@ API, ejemplo con JUCE y empaquetado: [docs/uso-escritorio.md](docs/uso-escritori
 
 ### Encontrar un icono
 
-- En el [catálogo en línea](https://jalexiscv.github.io/higgs-icons/) se busca
-  por nombre o ruta; **Copiar ruta** da la ruta heredada, cuyo ID está en
+- En el [catálogo SVG](https://jalexiscv.github.io/higgs-icons/catalogo-iconos-svg.html)
+  se busca por ID, nombre, ruta o etiqueta, se alterna el tema y **Copiar ID** da
+  el ID canónico. Se regenera con `node tools/catalogo-svg.mjs`.
+- En el [catálogo completo](https://jalexiscv.github.io/higgs-icons/catalogo-iconos.html)
+  se busca por nombre o ruta; **Copiar ruta** da la ruta heredada, cuyo ID está en
   [metadata/ids.json](metadata/ids.json).
 - El catálogo generado (`dist/catalog/`, tras `node tools/build.mjs`) muestra y
-  copia directamente el ID canónico.
+  copia directamente el ID canónico de todos los iconos.
 - Desde código: `icons.search('parallel lines')` o
   `higgs_icons::search("parallel lines")`.
 
@@ -100,7 +111,7 @@ romper nada; los IDs publicados no cambian. Los cambios de cada versión están 
 | --- | --- |
 | [docs/obtener-desde-github.md](docs/obtener-desde-github.md) | Cómo incorporar la biblioteca a un proyecto desde GitHub: versiones, `FetchContent`, submódulo, scripts de copia, problemas frecuentes |
 | [docs/uso-web.md](docs/uso-web.md) | API JavaScript (`loadIconLibrary`, `IconLibrary`) y recetas |
-| [docs/uso-escritorio.md](docs/uso-escritorio.md) | API C++ (`higgs_icons`), CMake, ejemplo con JUCE y distribución de la aplicación |
+| [docs/uso-escritorio.md](docs/uso-escritorio.md) | API C++ (`higgs_icons`), CMake, ejemplo con Higgs Mythos y distribución de la aplicación |
 | [docs/manifiesto.md](docs/manifiesto.md) | Formato de `manifest.json` y sus garantías |
 | [docs/mantenimiento.md](docs/mantenimiento.md) | Añadir iconos, registrar IDs, curar nombres y publicar una versión |
 | [docs/arquitectura.md](docs/arquitectura.md) | Inventario, IDs canónicos, generador, salidas y contratos con las aplicaciones |

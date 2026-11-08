@@ -33,7 +33,7 @@ Higgs Icons/
 ├── docs/
 │   ├── obtener-desde-github.md  <-- Cómo incorporar la biblioteca a un proyecto
 │   ├── uso-web.md               <-- API JavaScript y recetas
-│   ├── uso-escritorio.md        <-- API C++, CMake, JUCE y distribución
+│   ├── uso-escritorio.md        <-- API C++, CMake, Higgs Mythos y distribución
 │   ├── manifiesto.md            <-- Formato de manifest.json
 │   ├── mantenimiento.md         <-- Añadir iconos, curar metadatos, publicar versiones
 │   ├── arquitectura.md          <-- Inventario, IDs, generador, salidas, contratos

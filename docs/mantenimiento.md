@@ -33,9 +33,20 @@ cmake --build "$env:TEMP\higgs-icons-build" --config Release --target higgs_icon
    ([RIGHTS-AND-PUBLISHING.md](../RIGHTS-AND-PUBLISHING.md)). Sin eso, no se
    añade.
 2. **Colocar cada icono** como un directorio `<Nombre>.ico.png` dentro de
-   `Apps/`, `Common/` o `Engines/`, con un PNG por tamaño llamado por su tamaño en
-   píxeles: `24.png`, `48.png`, `72.png`. Los PNG sueltos fuera de un directorio
-   `.ico.png` se ignoran.
+   `Apps/`, `Common/` o `Engines/`. Los iconos nuevos se dibujan en **SVG**: un
+   `light.svg` con `viewBox="0 0 24 24"`, trazos de 1 px alineados al píxel,
+   área útil de 4 a 20, la paleta de la biblioteca (tinta `#2E3238`, gris
+   `#9499A1`, azul `#06A9F4`, naranja `#FF6600`, rojo `#EA3323`, verde
+   `#1CB574`) y solo `path`, `rect`, `circle`, `ellipse` y `g`: sin `<text>`,
+   máscaras, `<style>` ni referencias externas (el generador rechaza
+   `<script>`, `<image>`, `<use>`, `href` y `url(` externos). El dibujo oscuro
+   lo deriva el generador cambiando la tinta por `#E6E9EF` y el gris por
+   `#80868F`; solo si hace falta otro, se añade un `dark.svg` a mano. El skill
+   `iconos-svg-ui` (`.claude/skills/`) describe el estilo completo y trae el
+   validador `iconos_check.py`. Desde 0.2.1 no queda ningún icono en PNG; el
+   generador aún los acepta (un archivo por tamaño, `24.png`…) por
+   compatibilidad. Los archivos sueltos fuera de un directorio `.ico.png` se
+   ignoran.
 3. **Registrar su ID** en `metadata/ids.json`: la clave es la ruta del directorio
    y el valor, el ID canónico. Se sigue la forma de los existentes: segmentos de
    la ruta en minúsculas separados por `.`, palabras con `-`, sin las carpetas
@@ -92,11 +103,19 @@ decisión del autor, una versión menor o mayor y aviso en el changelog.
 
 - `dist/catalog/` se genera con `tools/build.mjs` desde `catalog/` y muestra el ID
   canónico.
-- `catalogo-iconos.html` (raíz del repositorio) es un catálogo estático que GitHub
-  Pages publica en
-  [jalexiscv.github.io/higgs-icons](https://jalexiscv.github.io/higgs-icons/). No
-  lo regenera `tools/build.mjs`: si cambia el inventario, hay que actualizarlo
-  aparte.
+- GitHub Pages sirve la raíz del repositorio: `index.html` enlaza a dos catálogos
+  estáticos.
+  - `catalogo-iconos-svg.html`, con **solo los iconos vectoriales** en tema claro
+    y oscuro (los dibujos van incrustados como `<symbol>`, con el oscuro
+    derivado), se regenera con `node tools/catalogo-svg.mjs` cada vez que se
+    migran iconos.
+  - `catalogo-iconos.html`, el catálogo heredado organizado por carpetas de
+    origen, no lo regenera ninguna herramienta: si cambia el inventario, hay
+    que actualizarlo aparte. Desde 0.2.1 sus 2949 tarjetas muestran el
+    `light.svg` de cada icono a 24, 48 y 72 px, porque los PNG ya no existen.
+    Los iconos de `Common/Higgs/` no figuran en él.
+- `dist/catalog/` tiene una casilla **Tema oscuro** que muestra el `dark.svg` de
+  los iconos vectoriales sobre fondo oscuro.
 
 ## Publicar una versión
 
