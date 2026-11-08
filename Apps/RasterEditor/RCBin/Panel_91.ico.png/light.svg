@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ángulo recto con arco hacia la derecha</title>
+  <path d="M5.5 4V19.5H19.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5.5 15.5H9.5V19.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 5.5A9 9 0 0 1 16.5 14.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M14 14H19L16.5 17Z"/>
+</svg>

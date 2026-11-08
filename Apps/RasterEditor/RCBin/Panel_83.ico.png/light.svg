@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Mitades desplazadas</title>
+<path d="M4 4.5H19M4 18.5H19M4.5 4V19M18.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/><path d="M11 6A5 5 0 0 0 11 16Z" fill="#2E3238"/><path d="M12 7A5 5 0 0 1 12 17Z" fill="#2E3238"/>
+</svg>
