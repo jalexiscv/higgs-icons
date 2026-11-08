@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Efectos de iluminación: fuente de luz</title>
+  <path fill="#2E3238" d="M12.59 8.59L7.28 10.35L13.65 16.72L15.41 11.41Z"/>
+  <path fill="#2E3238" d="M16.83 4.34L12.59 8.59L15.41 11.41L19.66 7.17Z"/>
+  <path stroke="#FF6600" stroke-width="1" stroke-linecap="round" d="M6.93 12.83L4.81 14.95M9.05 14.95L6.93 17.07M11.17 17.07L9.05 19.19"/>
+</svg>

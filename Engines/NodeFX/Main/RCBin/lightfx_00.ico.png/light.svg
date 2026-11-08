@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Luz con más</title>
+  <circle cx="8.5" cy="9" r="4.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="6" y="14" width="5" height="1" fill="#2E3238"/>
+  <rect x="7" y="16" width="3" height="1" fill="#2E3238"/><rect x="8" y="18" width="1" height="1" fill="#2E3238"/>
+  <path stroke="#2E3238" stroke-width="1" d="M6.5 12.5L7 14M10.5 12.5L10 14"/>
+  <path fill="#1CB574" fill-rule="evenodd" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

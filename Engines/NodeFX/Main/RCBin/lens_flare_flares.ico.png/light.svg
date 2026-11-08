@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Destellos de lente</title>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" d="M12 4L14 10L20 12L14 14L12 20L10 14L4 12L10 10Z"/>
+  <path fill="#FF6600" d="M12 9L15 12L12 15L9 12Z"/>
+</svg>

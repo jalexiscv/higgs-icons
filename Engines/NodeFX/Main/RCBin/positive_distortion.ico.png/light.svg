@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Distorsión positiva</title>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" d="M7 5.5Q12 3.5 17 5.5Q22 12 17 18.5Q12 20.5 7 18.5Q2 12 7 5.5Z"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M9.5 5Q8 12 9.5 19M14.5 5Q16 12 14.5 19M5 9.5Q12 8 19 9.5M5 14.5Q12 16 19 14.5"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Selector de punto neutro</title>
+  <path fill="#FF6600" d="M5.85 16.81L7.69 18.65L10.16 16.18L8.32 14.34Z"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" d="M5.14 16.81L7.69 19.36L14.76 12.29L12.21 9.74Z"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" d="M5 19.5L5.14 16.81L7.69 19.36Z"/>
+  <path fill="#2E3238" d="M11.36 8.89L15.61 13.14L17.73 11.01L13.49 6.77Z"/>
+  <circle cx="17" cy="17" r="3" fill="#9499A1"/>
+</svg>

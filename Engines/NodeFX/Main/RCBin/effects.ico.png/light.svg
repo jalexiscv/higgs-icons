@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Efectos</title>
+  <circle cx="12" cy="12" r="7.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" fill-rule="evenodd" d="M7.5 12A4.5 4.5 0 1 1 16.5 12A4.5 4.5 0 1 1 7.5 12ZM12 10.5A1.5 1.5 0 1 1 15 10.5A1.5 1.5 0 1 1 12 10.5Z"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Esquina doblada abajo a la izquierda</title>
+  <path stroke="#2E3238" stroke-width="1" d="M18.5 19.5H10.5L6.5 15.5V4.5H18.5Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M10.5 19.5V15.5H6.5"/>
+  <path fill="#2E3238" d="M10 19V16H7Z"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Efectos de iluminación: atmósfera</title>
+  <path fill="#2E3238" d="M5 14A6.5 6.5 0 0 1 18 14Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 4V8"/>
+  <path stroke="#FF6600" stroke-width="1" stroke-linecap="round" d="M11.5 16.5V19.5M7.5 16.5L5.5 19M15.5 16.5L17.5 19"/>
+</svg>

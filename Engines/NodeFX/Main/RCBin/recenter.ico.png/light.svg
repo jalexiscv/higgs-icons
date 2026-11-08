@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Recentrar</title>
+  <path stroke="#06A9F4" stroke-width="1" d="M5 11.5H18M11.5 5V18"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linecap="round" d="M4.5 4.5L6.88 6.88"/>
+  <path fill="#2E3238" d="M9 9L8.65 5.11L5.11 8.65Z"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linecap="round" d="M18.5 4.5L16.12 6.88"/>
+  <path fill="#2E3238" d="M14 9L14.35 5.11L17.89 8.65Z"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linecap="round" d="M4.5 18.5L6.88 16.12"/>
+  <path fill="#2E3238" d="M9 14L8.65 17.89L5.11 14.35Z"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linecap="round" d="M18.5 18.5L16.12 16.12"/>
+  <path fill="#2E3238" d="M14 14L14.35 17.89L17.89 14.35Z"/>
+</svg>
