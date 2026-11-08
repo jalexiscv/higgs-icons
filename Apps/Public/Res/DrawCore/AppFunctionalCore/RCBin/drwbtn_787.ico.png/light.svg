@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Bocadillo de pensamiento</title>
+  <path d="M8 15.5A3 3 0 0 1 5.5 10.5A3 3 0 0 1 10 6A3.5 3.5 0 0 1 16 6.5A3 3 0 0 1 19 11A3 3 0 0 1 16 15.5Z" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="9.5" cy="18.5" r="1.5" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="6.5" cy="19.5" r="1" fill="#2E3238"/>
+</svg>

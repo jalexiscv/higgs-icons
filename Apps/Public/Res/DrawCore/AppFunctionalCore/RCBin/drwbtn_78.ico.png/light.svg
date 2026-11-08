@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Reflejo horizontal de texto</title>
+  <path d="M4.5 9.5H8.5V16.5H4.5V13.5H8.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M18.5 9.5H14.5V16.5H18.5V13.5H14.5" stroke="#9499A1" stroke-width="1"/>
+  <path d="M11.5 4V20" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+</svg>

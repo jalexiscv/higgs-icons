@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Enviar hacia abajo</title>
+  <rect x="4.5" y="4.5" width="14" height="8" rx="1" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11.5 12.5V16" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9 16L11.5 20L14 16Z" fill="#2E3238"/>
+</svg>

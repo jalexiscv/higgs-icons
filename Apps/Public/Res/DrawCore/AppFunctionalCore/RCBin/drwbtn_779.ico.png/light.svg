@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Rectángulo con cintas arriba</title>
+  <path d="M7.5 4.5H4.5L6 8L4.5 11.5H7.5 M16.5 4.5H19.5L18 8L19.5 11.5H16.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="7.5" y="8.5" width="9" height="10" stroke="#2E3238" stroke-width="1"/>
+</svg>
