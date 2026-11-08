@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Círculo con cruz</title>
+<circle cx="12.5" cy="12.5" r="7.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/><path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M12.5 5V20M5 12.5H20"/>
+</svg>
