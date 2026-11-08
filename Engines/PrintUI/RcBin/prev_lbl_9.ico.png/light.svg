@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página con cuadrícula y pie</title>
+  <rect x="5.5" y="4.5" width="13" height="15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10.5 6V13M13.5 6V13M8 8.5H16M8 10.5H16" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 15.5H16M8 17.5H13" stroke="#9499A1" stroke-width="1"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tabla con flecha hacia abajo</title>
+  <path d="M6.5 4V17" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.5 20L4 17H9Z" fill="#2E3238"/>
+  <rect x="10.5" y="4.5" width="9" height="15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11 5H19V9H11Z" fill="#9499A1"/>
+  <path d="M10.5 9.5H19.5M10.5 14.5H19.5M15.5 9.5V19.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

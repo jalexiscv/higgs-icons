@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajustar ancho: flecha doble horizontal</title>
+  <path d="M9 11.5H15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 11.5L9 7V16Z" fill="#2E3238"/>
+  <path d="M20 11.5L15 7V16Z" fill="#2E3238"/>
+</svg>

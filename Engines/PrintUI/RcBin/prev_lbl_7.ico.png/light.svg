@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tabla con flecha a la derecha</title>
+  <path d="M4 6.5H17" stroke="#2E3238" stroke-width="1"/>
+  <path d="M20 6.5L17 4V9Z" fill="#2E3238"/>
+  <rect x="4.5" y="11.5" width="15" height="8" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5 12H19V15H5Z" fill="#9499A1"/>
+  <path d="M4.5 15.5H19.5M9.5 15.5V19.5M14.5 15.5V19.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
