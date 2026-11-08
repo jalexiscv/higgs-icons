@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Pegar ajuste</title>
+  <rect x="5.5" y="6.5" width="13" height="13" stroke="#2E3238" stroke-width="1"/>
+  <rect x="9" y="4" width="6" height="3" fill="#2E3238"/>
+  <path d="M13 9L9 14H12L11 18L16 12H13Z" fill="#FF6600"/>
+</svg>
