@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cota interior de diámetro</title>
+  <circle cx="10.5" cy="13.5" r="6.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8.12 15.88L12.88 11.12" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M6 18L6.35 14.11L9.89 17.65Z"/>
+  <path fill="#2E3238" d="M15 9L14.65 12.89L11.11 9.35Z"/>
+  <path d="M15 9L18.5 5.5H20.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

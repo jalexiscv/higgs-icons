@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mostrar cero inicial</title>
+  <path d="M4.5 4V10M19.5 4V10" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 7.5L16 7.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M5 7.5L8 5L8 10Z"/>
+  <path fill="#2E3238" d="M19 7.5L16 10L16 5Z"/>
+  <rect x="7.5" y="13.5" width="3" height="6" stroke="#06A9F4" stroke-width="1"/>
+  <rect x="12" y="19" width="1" height="1" fill="#2E3238"/>
+  <path d="M14.5 15L15.5 14V20" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Símbolo de radio</title>
+  <path d="M10.5 10.5L7.12 7.12" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M5 5L8.89 5.35L5.35 8.89Z"/>
+  <rect x="12" y="11" width="2" height="9" fill="#2E3238"/>
+  <path d="M14 11.5H16.5A2.5 2.5 0 0 1 16.5 16.5H14M16 16.5L19.5 20" stroke="#2E3238" stroke-width="1"/>
+</svg>

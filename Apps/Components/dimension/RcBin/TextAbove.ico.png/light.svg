@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto sobre la cota</title>
+  <path d="M4.5 11V20M19.5 11V20" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 15.5L16 15.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M5 15.5L8 13L8 18Z"/>
+  <path fill="#2E3238" d="M19 15.5L16 18L16 13Z"/>
+  <path d="M10 5.5L14 9.5M14 5.5L10 9.5" stroke="#06A9F4" stroke-width="1"/>
+</svg>

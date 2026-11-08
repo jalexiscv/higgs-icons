@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cota exterior extendida</title>
+  <circle cx="12" cy="12" r="5.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M20 4L19.12 4.88" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M17 7L17.35 3.11L20.89 6.65Z"/>
+  <path d="M4 20L4.88 19.12" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M7 17L6.65 20.89L3.11 17.35Z"/>
+</svg>

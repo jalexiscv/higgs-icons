@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Opciones de línea de extensión</title>
+  <path d="M4.5 14V20M19.5 14V20" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 17.5L16 17.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M5 17.5L8 15L8 20Z"/>
+  <path fill="#2E3238" d="M19 17.5L16 20L16 15Z"/>
+  <circle cx="16.5" cy="8.5" r="2" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M16.5 4.5V5.5M16.5 11.5V12.5M12.5 8.5H13.5M19.5 8.5H20.5M18.62 6.38L19.2 5.8M14.38 6.38L13.8 5.8M18.62 10.62L19.2 11.2M14.38 10.62L13.8 11.2" stroke="#06A9F4" stroke-width="1"/>
+</svg>

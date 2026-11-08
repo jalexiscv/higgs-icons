@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cotas sucesivas</title>
+  <path d="M5 4.5H13M5 12.5H13M5 20.5H13" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 8L9.5 9" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M9.5 5L12 8L7 8Z"/>
+  <path fill="#2E3238" d="M9.5 12L7 9L12 9Z"/>
+  <path d="M9.5 16L9.5 17" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M9.5 13L12 16L7 16Z"/>
+  <path fill="#2E3238" d="M9.5 20L7 17L12 17Z"/>
+  <path d="M14.5 6.5L16.5 8.5L20 4" stroke="#1CB574" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Unidades angulares</title>
+  <path d="M4 19.5H20M4.5 19.5L19.5 4.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10.5 19.5A6 6 0 0 0 8.74 15.26" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.62 10.38L10.38 6.62" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M4.5 12.5L4.85 8.61L8.39 12.15Z"/>
+  <path fill="#2E3238" d="M12.5 4.5L12.15 8.39L8.61 4.85Z"/>
+</svg>
