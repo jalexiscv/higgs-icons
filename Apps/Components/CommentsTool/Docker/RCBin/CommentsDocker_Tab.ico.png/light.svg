@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Comentarios</title>
+  <path d="M6 4.5H18A1.5 1.5 0 0 1 19.5 6V14A1.5 1.5 0 0 1 18 15.5H10.5L6.5 19.5V15.5H6A1.5 1.5 0 0 1 4.5 14V6A1.5 1.5 0 0 1 6 4.5Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M7.5 8.5H16.5M7.5 11.5H13.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
