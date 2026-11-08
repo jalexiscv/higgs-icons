@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Abrir archivo desde carpeta</title>
+  <path d="M15.5 10.5V4.5H8.5L4.5 8.5V18.5H9.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 20.5V12.5H12.5L13.5 13.5H17.5V15.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 20.5L11.5 15.5H20.5L18.5 20.5Z" stroke="#2E3238" stroke-width="1"/>
+</svg>

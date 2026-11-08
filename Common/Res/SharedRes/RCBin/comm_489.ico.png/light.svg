@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guardar configuración</title>
+  <path d="M14.2 12A4 4 0 1 1 12 9.8" stroke="#2E3238" stroke-width="1"/>
+  <rect x="9" y="7" width="3" height="2" fill="#2E3238"/>
+  <rect x="9" y="18" width="3" height="2" fill="#2E3238"/>
+  <rect x="4" y="12" width="2" height="3" fill="#2E3238"/>
+  <rect x="15" y="12" width="2" height="3" fill="#2E3238"/>
+  <rect x="6" y="9" width="2" height="2" fill="#2E3238"/>
+  <rect x="6" y="17" width="2" height="2" fill="#2E3238"/>
+  <rect x="14" y="17" width="2" height="2" fill="#2E3238"/>
+  <path fill="#2E3238" d="M14 3H20A1 1 0 0 1 21 4V10A1 1 0 0 1 20 11H14A1 1 0 0 1 13 10V4A1 1 0 0 1 14 3ZM15 7H19V10H15ZM16 4H19V6H16Z" fill-rule="evenodd"/>
+</svg>

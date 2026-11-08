@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Quitar efecto de destello</title>
+  <path d="M10.50 6.00L11.72 10.54L15.80 8.20L13.46 12.28L14.50 13.50L13.46 14.72L15.80 18.80L11.72 16.46L10.50 21.00L9.28 16.46L5.20 18.80L7.54 14.72L3.00 13.50L7.54 12.28L5.20 8.20L9.28 10.54Z" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>

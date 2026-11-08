@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Disco con boton central</title>
+  <path fill-rule="evenodd" fill="#2E3238" d="M5 11A7 7 0 0 0 19 11V13A7 7 0 0 1 5 13Z"/>
+  <circle cx="12" cy="11" r="6.5" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="12" cy="11" r="2.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

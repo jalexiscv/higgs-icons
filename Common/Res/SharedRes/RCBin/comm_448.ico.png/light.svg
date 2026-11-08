@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Muestras de color y tablero</title>
+  <rect x="4" y="5" width="3" height="3" fill="#FF6600"/>
+  <rect x="4" y="9" width="3" height="3" fill="#06A9F4"/>
+  <rect x="4" y="13" width="3" height="3" fill="#EA3323"/>
+  <rect x="4" y="17" width="3" height="3" fill="#06A9F4"/>
+  <rect x="8" y="5" width="3" height="3" fill="#EA3323"/>
+  <rect x="8" y="9" width="3" height="3" fill="#FF6600"/>
+  <rect x="8" y="13" width="3" height="3" fill="#06A9F4"/>
+  <rect x="8" y="17" width="3" height="3" fill="#FF6600"/>
+  <rect x="13.5" y="4.5" width="7" height="7" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14 5H17V8H14Z" fill="#2E3238"/>
+  <path d="M17 8H20V11H17Z" fill="#2E3238"/>
+</svg>

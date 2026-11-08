@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Círculo por tres nodos</title>
+  <rect x="9.5" y="4.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="12.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <rect x="15.5" y="12.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16.21 16.51A5.90 5.90 0 0 1 7.79 16.51" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.11 12.50A5.90 5.90 0 0 1 9.49 7.04" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M13.51 6.67A5.90 5.90 0 0 1 17.90 12.49" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>
