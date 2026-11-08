@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cerrar curva</title>
+<rect x="4.5" y="4.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<rect x="4.5" y="15.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<path d="M6.5 12V15" stroke="#2E3238" stroke-width="1"/>
+<path d="M4 12H9L6.5 9Z" fill="#2E3238"/>
+<path d="M9.5 6.5C14 7 14 17 9.5 17.5" stroke="#9499A1" stroke-width="1" stroke-linecap="round"/>
+<path d="M14.5 6.5L16.5 8.5L20 4" stroke="#1CB574" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
