@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Etiqueta de máscara 3: círculo con nodos</title>
+  <path d="M12 4.5A7.5 7.5 0 1 1 12 19.5A7.5 7.5 0 1 1 12 4.5Z" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="7" cy="7" r="2" fill="#2E3238"/>
+  <circle cx="7" cy="17" r="2" fill="#2E3238"/>
+  <circle cx="11" cy="12" r="2" fill="#2E3238"/>
+  <path d="M12 11H20V13H12Z" fill="#EA3323"/>
+</svg>
