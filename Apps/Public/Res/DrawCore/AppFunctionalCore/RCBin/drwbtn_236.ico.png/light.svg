@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Formas, giro y vista previa</title>
+<rect x="4.5" y="9.5" width="7" height="7" rx="1" stroke="#2E3238" stroke-width="1"/>
+<circle cx="11.5" cy="7.5" r="3.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M16.5 5.5H17A3 3 0 0 1 20 8.5M18.5 4L16.5 5.5L18.5 7" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 13H16V20H13ZM17 13H20V20H17ZM16 15H17V17H16Z" fill="#2E3238"/>
+</svg>

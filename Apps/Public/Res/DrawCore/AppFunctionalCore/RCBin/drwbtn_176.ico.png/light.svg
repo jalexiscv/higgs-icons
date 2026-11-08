@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Mira de centrado</title>
+<path d="M5.5 9.5V5.5H9.5M13.5 5.5H17.5V9.5M17.5 13.5V17.5H13.5M9.5 17.5H5.5V13.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="miter"/>
+<path d="M11.5 4V9M11.5 14V19M4 11.5H9M14 11.5H19" stroke="#06A9F4" stroke-width="1" stroke-linecap="butt"/>
+<path fill="#06A9F4" d="M11 11h1v1h-1Z"/>
+</svg>

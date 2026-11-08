@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Escalar objeto</title>
+<rect x="4.5" y="5.5" width="8" height="8" stroke="#2E3238" stroke-width="1"/>
+<path d="M13.5 11.5H19.5V19.5H11.5V15.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="miter"/>
+<path d="M15.5 9.5L19.5 5.5M16.5 5.5H19.5V8.5M9.5 19.5L5.5 15.5M5.5 18.5V15.5H8.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

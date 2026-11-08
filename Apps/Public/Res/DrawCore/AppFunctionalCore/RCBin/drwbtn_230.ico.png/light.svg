@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Añadir imagen con trama</title>
+<path d="M12.5 4.5H4.5V19.5H18.5V11.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M5 9L9 5M5 13L12 6M5 17L12 10M7 19L15 11M11 19L18 12" stroke="#9499A1" stroke-width="1"/>
+<path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

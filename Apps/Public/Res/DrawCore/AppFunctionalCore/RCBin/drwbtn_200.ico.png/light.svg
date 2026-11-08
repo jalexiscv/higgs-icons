@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Círculo sobre fondo rayado</title>
+<path d="M4 8L8 4M4 12L5.7 10.3M10.3 5.7L12 4M4 16L5.9 14.1M14.1 5.9L16 4M4 20L7.4 16.6M16.6 7.4L20 4M8 20L9.9 18.1M18.1 9.9L20 8M12 20L13.7 18.3M18.3 13.7L20 12M16 20L20 16" stroke="#FF6600" stroke-width="1" stroke-linecap="butt"/>
+<circle cx="12" cy="12" r="5.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
