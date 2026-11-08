@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marca de registro fina</title>
+  <path stroke="#2E3238" d="M11.5 4V20M4 11.5H20" stroke-width="1"/>
+  <circle cx="11.5" cy="11.5" r="4.5" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="11.5" cy="11.5" r="1.5" fill="#2E3238"/>
+</svg>
