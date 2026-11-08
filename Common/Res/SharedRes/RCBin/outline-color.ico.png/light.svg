@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Color de contorno</title>
+  <path d="M4.5 11.5L9.5 4.5L14.5 11.5L12 16.5H7Z" stroke="#2E3238" stroke-width="1"/><path d="M9.5 12.5V16.5" stroke="#2E3238" stroke-width="1"/><circle cx="9.5" cy="10.5" r="1" fill="#2E3238"/><rect fill="#2E3238" x="6" y="17" width="7" height="3"/><rect x="16.5" y="5.5" width="3" height="3" stroke="#1CB574" stroke-width="1"/><rect x="16.5" y="10.5" width="3" height="3" stroke="#EA3323" stroke-width="1"/><rect x="16.5" y="15.5" width="3" height="3" stroke="#06A9F4" stroke-width="1"/>
+</svg>
