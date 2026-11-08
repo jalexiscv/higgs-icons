@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Anotación alternativa 2</title>
+  <path d="M19 11.5A7.5 7.5 0 1 0 11.5 19" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10 6H12V16H10V9L8 10V8.5Z" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M14 13H19A1 1 0 0 1 20 14V19A1 1 0 0 1 19 20H14A1 1 0 0 1 13 19V14A1 1 0 0 1 14 13ZM15 14H18V15H15ZM17 15H18V16H17ZM15 16H18V17H15ZM15 17H16V18H15ZM15 18H18V19H15Z"/>
+</svg>

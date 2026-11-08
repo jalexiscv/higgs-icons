@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto sobre trazado, alineado en vertical</title>
+  <path d="M4.5 10V5.5H7.5V10M4.5 7.5H7.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 5.5H12.5V9.5H9.5ZM9.5 7.5H12.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 11.5H20" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4.5 18V13.5H7.5V18M4.5 15.5H7.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 13.5H12.5V17.5H9.5ZM9.5 15.5H12.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 4V7.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 10L15 7H20Z" fill="#2E3238"/>
+  <path d="M17.5 15.5V19" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 13L15 16H20Z" fill="#2E3238"/>
+</svg>

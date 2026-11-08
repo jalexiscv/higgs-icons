@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Todo en versalitas</title>
+  <path d="M4 4.5H20" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4 6.5H20" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4.5 19.5L8.5 8.5L12.5 19.5M6 16.5H11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 8.5V19.5M14.5 8.5H17A2 2 0 0 1 17 12.5H14.5M14.5 12.5H17.5A2.5 3.5 0 0 1 17.5 19.5H14.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

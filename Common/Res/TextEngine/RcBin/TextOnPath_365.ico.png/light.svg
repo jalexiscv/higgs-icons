@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto sobre trazado, altura variable</title>
+  <path d="M5.5 5L3 8H8Z" fill="#2E3238"/>
+  <path d="M5.5 7.5V14.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5.5 17L3 14H8Z" fill="#2E3238"/>
+  <path d="M9 12H10.5L14 17H12.5ZM12.5 12H14L10.5 17H9Z" fill="#2E3238"/>
+  <path d="M15 12H16.5L20 17H18.5ZM18.5 12H20L16.5 17H15Z" fill="#2E3238"/>
+  <path d="M4 18.5H20" stroke="#06A9F4" stroke-width="1"/>
+</svg>

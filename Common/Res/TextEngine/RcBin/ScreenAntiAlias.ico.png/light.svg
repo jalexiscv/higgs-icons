@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Suavizado de bordes en pantalla</title>
+  <path d="M9.5 5.5H7.5V7.5H5.5V9.5H4.5V14.5H5.5V16.5H7.5V18.5H9.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11 4H13V20H11Z" fill="#FF6600"/>
+  <path d="M14.5 5.5A5.5 6.5 0 0 1 14.5 18.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

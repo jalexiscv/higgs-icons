@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Desplazamiento vertical del carácter</title>
+  <path d="M4 5H7L9.5 9L12 5H15L11 12V19H8V12Z" fill="#2E3238"/>
+  <path d="M16 5H21V6H16Z" fill="#06A9F4"/>
+  <path d="M18.5 7L16 10H21Z" fill="#2E3238"/>
+  <path d="M18.5 9.5V16" stroke="#2E3238" stroke-width="1"/>
+</svg>
