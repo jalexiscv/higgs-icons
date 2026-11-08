@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mostrar por defecto</title>
+  <path fill="#2E3238" stroke-linejoin="round" d="M12 4L5 13H10L8 20L16 10H11Z"/>
+  <rect x="16" y="5" width="4" height="4" fill="#2E3238"/>
+  <rect x="16.5" y="11.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+</svg>

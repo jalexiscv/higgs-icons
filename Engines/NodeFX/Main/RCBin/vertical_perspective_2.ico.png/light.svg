@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Perspectiva vertical, lado inferior</title>
+  <path stroke="#2E3238" stroke-width="1" d="M7.5 13.5L4.5 4.5L19.5 4.5L16.5 13.5Z"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M10.5 13.5L9.5 4.5M13.5 13.5L14.5 4.5M6.5 10.5L17.5 10.5M5.5 7.5L18.5 7.5"/>
+  <circle cx="12" cy="17" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="12" cy="17" r="0.5" fill="#2E3238"/>
+</svg>
