@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel con trazo</title>
+<path fill="#2E3238" d="M7 4V9L4 6.5Z M11 4V9L14 6.5Z"/><path d="M7 6.5H11" stroke="#2E3238" stroke-width="1"/>
+<circle cx="11" cy="14.5" r="2.5" fill="#2E3238"/><path fill="#2E3238" d="M18.5 7L20 8.5L13 15L12 14Z"/>
+<path d="M5 19.5H9M11 19.5H14M16 19.5H19" stroke="#2E3238" stroke-width="1"/>
+</svg>

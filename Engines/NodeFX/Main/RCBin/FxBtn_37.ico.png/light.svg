@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Esquina con transparencia</title>
+<path d="M5 5H19V19A14 14 0 0 0 5 5Z" fill="#2E3238"/>
+<rect x="5" y="11" width="2" height="2" fill="#9499A1"/>
+<rect x="7" y="13" width="2" height="2" fill="#9499A1"/>
+<rect x="5" y="15" width="2" height="2" fill="#9499A1"/>
+<rect x="9" y="15" width="2" height="2" fill="#9499A1"/>
+<rect x="7" y="17" width="2" height="2" fill="#9499A1"/>
+<rect x="11" y="17" width="2" height="2" fill="#9499A1"/>
+</svg>

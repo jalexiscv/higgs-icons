@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Hoja que se desvanece en damero</title>
+<path d="M5 5H12C12 12 10 17 5 19Z" fill="#2E3238"/>
+<rect x="14" y="5" width="2" height="2" fill="#9499A1"/>
+<rect x="18" y="5" width="2" height="2" fill="#9499A1"/>
+<rect x="16" y="7" width="2" height="2" fill="#9499A1"/>
+<rect x="14" y="9" width="2" height="2" fill="#9499A1"/>
+<rect x="18" y="9" width="2" height="2" fill="#9499A1"/>
+<rect x="16" y="11" width="2" height="2" fill="#9499A1"/>
+<rect x="14" y="13" width="2" height="2" fill="#9499A1"/>
+<rect x="12" y="15" width="2" height="2" fill="#9499A1"/>
+</svg>

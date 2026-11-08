@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Distorsión hacia un borde</title>
+<path d="M7.5 4C4.5 8 9.5 8 7.5 12S9.5 16 7.5 20" stroke="#2E3238" stroke-width="1"/>
+<path d="M10 11.5H14" stroke="#2E3238" stroke-width="1"/>
+<path d="M14 9L17 11.5L14 14Z" fill="#2E3238"/>
+<rect x="18" y="4" width="2" height="16" fill="#2E3238"/>
+</svg>

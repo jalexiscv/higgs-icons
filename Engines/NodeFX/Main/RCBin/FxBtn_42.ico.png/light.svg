@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Flujo de trazos con pincel</title>
+<path d="M5 9C8 5 10 9 12 7S16 5 19 6" stroke="#2E3238" stroke-width="1"/>
+<path d="M5 13C8 9 10 13 12 11S16 8 19 9" stroke="#2E3238" stroke-width="1"/>
+<path d="M5 20C5 17 9 15 13 15" stroke="#2E3238" stroke-width="1"/>
+<path d="M14 14L18 15L20 19L17 20L15 17Z" fill="#2E3238"/>
+</svg>

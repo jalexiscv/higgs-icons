@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Relleno disuelto con flecha arriba</title>
+<rect x="4" y="11" width="10" height="9" fill="#2E3238"/>
+<path fill="#9499A1" d="M5 9h1v1h-1ZM8 9h1v1h-1ZM11 9h1v1h-1ZM13 9h1v1h-1ZM6 7h1v1h-1ZM10 7h1v1h-1ZM12 5h1v1h-1ZM8 5h1v1h-1Z"/>
+<path d="M17.5 8V20" stroke="#2E3238" stroke-width="1"/><path fill="#2E3238" d="M15 8H20L17.5 5Z"/>
+</svg>
