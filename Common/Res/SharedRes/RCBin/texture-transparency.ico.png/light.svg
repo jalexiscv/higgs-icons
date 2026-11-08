@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Transparencia de textura</title>
+  <g stroke-linejoin="round"><path d="M14 4.5H4.5V19.5H19.5V10.5" stroke="#2E3238" stroke-width="1"/><path d="M7 7.5H11M7.5 10V13.5M10.5 11.5H12M9 16.5H13M15.5 13.5V17M15.5 15.5H17" stroke="#2E3238" stroke-width="1"/><path d="M15 3h2v2h-2zM19 3h2v2h-2zM17 5h2v2h-2zM15 7h2v2h-2zM19 7h2v2h-2z" fill="#2E3238"/></g>
+</svg>

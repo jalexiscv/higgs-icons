@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajuste desactivado</title>
+  <path d="M4 17V14A6 6 0 0 1 16 14V17H12V14A2 2 0 0 0 8 14V17Z" fill="#9499A1"/>
+  <rect x="4" y="17" width="4" height="3" fill="#2E3238"/>
+  <rect x="12" y="17" width="4" height="3" fill="#2E3238"/>
+  <path d="M15.5 3.5L20.5 8.5M20.5 3.5L15.5 8.5" stroke="#EA3323" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
