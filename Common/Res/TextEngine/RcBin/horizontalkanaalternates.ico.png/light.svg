@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Alternativas de kana horizontal</title>
+<path d="M8.5 7.5H15.5M11.5 4.5V12" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 12.5C8 9.5 15.5 9.5 15.5 12.5C15.5 14.5 10.5 14.5 10 12.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.5 17.5H17" stroke="#2E3238" stroke-width="1" />
+<path fill="#06A9F4" d="M20 17.5L17 15V20Z"/>
+</svg>

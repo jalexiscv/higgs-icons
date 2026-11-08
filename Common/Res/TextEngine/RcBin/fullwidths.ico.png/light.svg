@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Caracteres de ancho completo</title>
+<path d="M7.5 5.5L15.5 13.5M15.5 5.5L7.5 13.5" stroke="#2E3238" stroke-width="1" />
+<path d="M11.5 4V15" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+<path d="M7 17.5H17" stroke="#2E3238" stroke-width="1" />
+<path fill="#2E3238" d="M4 17.5L7 15V20Z"/>
+<path fill="#2E3238" d="M20 17.5L17 15V20Z"/>
+</svg>

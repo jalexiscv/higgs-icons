@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Alternativas de glifo final</title>
+  <path d="M7.5 9.5H5.5V15.5M4.5 11.5H7.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 11.5H12.5V15.5H9.5V13.5H12.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 9.5V15.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 9.5V15.5H19.5M16.5 11.5H19.5" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4 18.5H20" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Caracteres de ancho medio</title>
+<path d="M4.5 4.5H19.5V19.5H4.5Z" stroke="#9499A1" stroke-width="1" />
+<path d="M11.5 5V19" stroke="#06A9F4" stroke-width="1" stroke-dasharray="1 1"/>
+<path fill="#2E3238" d="M7 11H10V14L8 18H6L7.5 14H7Z"/>
+</svg>
