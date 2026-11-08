@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ciclo con reproducción</title>
+  <path d="M10 18A6 6 0 0 1 10 6" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 4L10 6L8 8" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14 6A6 6 0 0 1 14 18" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 16L14 18L16 20" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M7 10V14L10 12Z" fill="#06A9F4"/>
+</svg>

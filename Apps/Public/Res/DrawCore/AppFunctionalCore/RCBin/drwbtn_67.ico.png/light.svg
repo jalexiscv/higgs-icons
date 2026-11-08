@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Patrón de rombos con añadir</title>
+  <path d="M12.5 6.5H4.5V19.5H19.5V11.5" stroke="#2E3238" stroke-width="1" />
+  <path d="M7.5 8.5L9.0 10L7.5 11.5L6.0 10Z" fill="#2E3238"/>
+  <path d="M11 8.5L12.5 10L11 11.5L9.5 10Z" fill="#2E3238"/>
+  <path d="M9 12.0L10.5 13.5L9 15.0L7.5 13.5Z" fill="#2E3238"/>
+  <path d="M13 12.0L14.5 13.5L13 15.0L11.5 13.5Z" fill="#2E3238"/>
+  <path d="M17 12.0L18.5 13.5L17 15.0L15.5 13.5Z" fill="#2E3238"/>
+  <path d="M7 15.5L8.5 17L7 18.5L5.5 17Z" fill="#2E3238"/>
+  <path d="M11 15.5L12.5 17L11 18.5L9.5 17Z" fill="#2E3238"/>
+  <path d="M15 15.5L16.5 17L15 18.5L13.5 17Z" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

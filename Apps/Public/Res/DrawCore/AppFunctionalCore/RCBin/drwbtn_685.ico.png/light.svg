@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Copiar entre páginas</title>
+  <path d="M11.5 10V5.5H4.5V15.5H7" stroke="#9499A1" stroke-width="1" />
+  <path d="M13.5 10V7.5H19.5V15.5H17" stroke="#9499A1" stroke-width="1" />
+  <rect x="8.5" y="11.5" width="7" height="8" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cuentagotas con selección</title>
+  <path d="M4 13.5H11M4 19.5H11M4.5 14V20M10.5 14V20" stroke="#FF6600" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M6.93 15.52L9.76 12.69L12.31 15.24L9.48 18.07Z" fill="#FF6600"/>
+  <path d="M6.23 16.23L12.59 9.86L15.14 12.41L8.77 18.77Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M6.23 16.23L8.77 18.77L6.44 18.56Z" fill="#2E3238"/>
+  <path d="M11.18 8.45L12.24 7.39L17.61 12.76L16.55 13.82Z" fill="#2E3238"/>
+  <path d="M13.23 8.38L15.7 5.9L17.54 5.76L19.24 7.46L19.1 9.3L16.62 11.77Z" fill="#2E3238"/>
+</svg>

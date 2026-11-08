@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Líneas de texto con configuración</title>
+  <path d="M4 5.5H8" stroke="#2E3238" stroke-width="1" />
+  <path d="M9 5.5H12" stroke="#06A9F4" stroke-width="1" />
+  <path d="M4 8.5H12" stroke="#2E3238" stroke-width="1" />
+  <path d="M4 11.5H16" stroke="#2E3238" stroke-width="1" />
+  <path d="M4 14.5H15" stroke="#2E3238" stroke-width="1" />
+  <path d="M16 14.5H20" stroke="#06A9F4" stroke-width="1" />
+  <path d="M4 17.5H18" stroke="#2E3238" stroke-width="1" />
+  <path fill-rule="evenodd" fill="#2E3238" d="M17 4A2 2 0 1 1 17 8A2 2 0 1 1 17 4ZM17 5A1 1 0 1 0 17 7A1 1 0 1 0 17 5Z"/>
+  <path d="M16 3H18V4H16ZM16 8H18V9H16ZM14 5H15V7H14ZM19 5H20V7H19Z" fill="#2E3238"/>
+</svg>
