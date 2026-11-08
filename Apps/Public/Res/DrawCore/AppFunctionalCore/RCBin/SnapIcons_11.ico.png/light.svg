@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Punto de ajuste marco con interior punteado</title>
+<rect x="4.5" y="4.5" width="15" height="15" stroke="#2E3238" stroke-width="1"/><path d="M8 8.5H17M8 16.5H17M8.5 8V17M16.5 8V17" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>
