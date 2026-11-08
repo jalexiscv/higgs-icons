@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Muestras de color desde una imagen</title>
+  <rect x="4" y="4" width="3" height="3" fill="#FF6600"/>
+  <rect x="8" y="4" width="3" height="3" fill="#06A9F4"/>
+  <rect x="4" y="8" width="3" height="3" fill="#EA3323"/>
+  <rect x="8" y="8" width="3" height="3" fill="#1CB574"/>
+  <rect x="4" y="12" width="3" height="3" fill="#06A9F4"/>
+  <rect x="8" y="12" width="3" height="3" fill="#FF6600"/>
+  <rect x="12.5" y="11.5" width="8" height="8" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M14 19L16 15L17.5 17L18.5 16L19 19Z"/>
+  <path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

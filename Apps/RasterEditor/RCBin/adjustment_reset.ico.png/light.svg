@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Flecha circular de restablecer</title>
+  <path d="M15.25 6.37A6.5 6.5 0 1 1 5.5 12" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M3 12H8L5.5 9Z"/>
+  <path fill="#2E3238" d="M13 8L10 12H12L11 16L15 11H13Z"/>
+</svg>
