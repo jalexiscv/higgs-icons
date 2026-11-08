@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Eliminar guías</title>
+  <path d="M5 6.5H18" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 6V4.5H13.5V6" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.5 9V19.5H16.5V9" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 11.5V17.5M11.5 11.5V17.5M13.5 11.5V17.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

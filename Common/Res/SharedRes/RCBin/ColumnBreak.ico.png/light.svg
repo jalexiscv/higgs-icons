@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Salto de columna</title>
+  <path d="M4 5.5H9M4 8.5H9M4 11.5H9M4 14.5H9" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16 5.5H20M16 8.5H20M16 11.5H20M16 14.5H20M16 17.5H20" stroke="#2E3238" stroke-width="1"/>
+  <path d="M10 14.5H11.5V8.5H12" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M12 6V11L15 8.5Z" fill="#06A9F4"/>
+</svg>
