@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Configurar regla</title>
+  <path d="M4.5 4.5H9.5V15.5H19.5V19.5H4.5Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7 7.5H9M7 10.5H9M7 13.5H9M12.5 16V18M15.5 16V18" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M17.5 3.5A2.5 2.5 0 1 1 17.5 9.5A2.5 2.5 0 1 1 17.5 3.5ZM17.5 5.5A1 1 0 1 0 17.5 7.5A1 1 0 1 0 17.5 5.5Z" fill-rule="evenodd"/>
+  <path fill="#2E3238" d="M16 3H19V4H16ZM16 9H19V10H16ZM14 5H15V8H14ZM20 5H21V8H20Z"/>
+</svg>

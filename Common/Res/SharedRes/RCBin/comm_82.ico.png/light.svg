@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Capa al frente: flecha hacia arriba</title>
+  <path d="M4 8L9.5 5L15 8V10.5L9.5 13.5L4 10.5Z" fill="#2E3238"/>
+  <path d="M4 17.5L9.5 14.5L15 17.5L9.5 20.5Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M18.5 7V12" stroke="#2E3238" stroke-width="1" />
+  <path d="M16.0 7H21.0L18.5 4Z" fill="#2E3238"/>
+</svg>

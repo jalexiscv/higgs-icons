@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Candado con flecha de exportar</title>
+  <rect x="4" y="11" width="11" height="9" rx="1" fill="#2E3238"/>
+  <path d="M6.5 11V8A3 3 0 0 1 12.5 8V11" stroke="#2E3238" stroke-width="1" />
+  <path d="M16.5 8.5V12.5H20.5V8.5" stroke="#2E3238" stroke-width="1" />
+  <path d="M18.5 6V10.5" stroke="#2E3238" stroke-width="1" />
+  <path d="M16 6H21L18.5 3Z" fill="#2E3238"/>
+</svg>

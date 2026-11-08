@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Imán sobre ejes</title>
+  <path d="M5.5 4V19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M4 17.5H19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path fill="#EA3323" d="M13 8V7A4 4 0 0 1 21 7V8H18V7A1 1 0 0 0 16 7V8Z"/>
+  <rect x="13" y="9" width="3" height="2" fill="#2E3238"/>
+  <rect x="18" y="9" width="3" height="2" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mover en cuatro direcciones</title>
+  <path d="M11.5 8V15" stroke="#2E3238" stroke-width="1" />
+  <path d="M8 11.5H15" stroke="#2E3238" stroke-width="1" />
+  <path d="M8 8H15L11.5 4Z" fill="#2E3238"/>
+  <path d="M8 15H15L11.5 19Z" fill="#2E3238"/>
+  <path d="M8 8V15L4 11.5Z" fill="#2E3238"/>
+  <path d="M15 8V15L19 11.5Z" fill="#2E3238"/>
+</svg>

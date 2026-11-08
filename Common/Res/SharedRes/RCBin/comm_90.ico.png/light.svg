@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cambiar tamaño del contenido en un marco</title>
+  <path d="M4 4.5H19M4 19.5H19M4.5 4V19M19.5 4V19" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+  <rect x="6.5" y="12.5" width="6" height="6" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 9V11" stroke="#2E3238" stroke-width="1" />
+  <path d="M7.0 9H12.0L9.5 6Z" fill="#2E3238"/>
+  <path d="M13 15.5H14" stroke="#2E3238" stroke-width="1" />
+  <path d="M14 13V18L17 15.5Z" fill="#2E3238"/>
+</svg>

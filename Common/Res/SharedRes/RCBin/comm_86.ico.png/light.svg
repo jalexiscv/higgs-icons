@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Capas con flechas arriba y abajo</title>
+  <path d="M4 7L9.5 4L15 7L9.5 10Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M4 10L9.5 13L15 10" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M4 13L9.5 16L15 13" stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M18.5 8V11" stroke="#2E3238" stroke-width="1" />
+  <path d="M16.0 8H21.0L18.5 5Z" fill="#2E3238"/>
+  <path d="M18.5 12V15" stroke="#2E3238" stroke-width="1" />
+  <path d="M16.0 15H21.0L18.5 18Z" fill="#2E3238"/>
+</svg>

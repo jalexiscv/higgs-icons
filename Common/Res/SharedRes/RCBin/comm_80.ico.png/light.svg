@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Subir capa</title>
+  <path fill="#2E3238" d="M4 9L10 6L16 9L10 12Z"/>
+  <path d="M4 12.5L10 15.5L16 12.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 16.5L10 19.5L16 16.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M18.5 7V14" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M16 7H21L18.5 4Z"/>
+</svg>
