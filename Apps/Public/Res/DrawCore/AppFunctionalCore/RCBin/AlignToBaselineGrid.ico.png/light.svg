@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Alinear a la cuadrícula de líneas base</title>
+<path d="M5 7.5H19M5 12.5H19" stroke="#9499A1" stroke-width="1" stroke-dasharray="2 1"/><path d="M6 18L12 6L18 18M8.5 14.5H15.5" stroke="#2E3238" stroke-width="1"/><path d="M4 18.5H20" stroke="#06A9F4" stroke-width="1"/>
+</svg>
