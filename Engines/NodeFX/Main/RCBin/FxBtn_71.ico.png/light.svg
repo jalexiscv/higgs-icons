@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Del objeto al teclado</title>
+<path d="M4.5 4.5H9.5V9.5H4.5Z" stroke="#06A9F4" stroke-width="1"/><path d="M10 6.5H17.5V8" stroke="#2E3238" stroke-width="1"/><path d="M15 8H20L17.5 11Z" fill="#2E3238"/><path d="M4.5 12.5H19.5V20.5H4.5Z" stroke="#2E3238" stroke-width="1"/><path d="M7 14h2v2h-2ZM11 14h2v2h-2ZM15 14h2v2h-2ZM7 17h2v2h-2ZM11 17h6v2h-6Z" fill="#2E3238"/>
+</svg>
