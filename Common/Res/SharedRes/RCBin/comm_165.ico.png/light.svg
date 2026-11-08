@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Viñetas</title>
+  <g><circle cx="5.5" cy="5.5" r="1.5" fill="#06A9F4"/><circle cx="5.5" cy="11.5" r="1.5" fill="#06A9F4"/><circle cx="5.5" cy="17.5" r="1.5" fill="#06A9F4"/><path d="M9.5 5.5H19.5M9.5 11.5H19.5M9.5 17.5H19.5" stroke="#2E3238" stroke-width="1"/></g>
+</svg>
