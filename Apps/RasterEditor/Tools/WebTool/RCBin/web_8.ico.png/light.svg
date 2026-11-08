@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marco de selección con pincel</title>
+  <rect x="4" y="4" width="3" height="3" fill="#9499A1"/>
+  <rect x="13" y="4" width="3" height="3" fill="#9499A1"/>
+  <rect x="4" y="13" width="3" height="3" fill="#9499A1"/>
+  <path d="M7 5.5H13M5.5 7V13M14.5 7V10" stroke="#9499A1" stroke-width="1"/>
+  <path d="M8 20L9.5 15L14 19Z" fill="#2E3238"/>
+  <path d="M11.5 14L19.5 6M14 16.5L20.5 10M16 19L20.5 14.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
