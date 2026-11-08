@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Espacio entre líneas</title>
+  <rect x="4" y="5" width="16" height="3" fill="#2E3238"/>
+  <rect x="4" y="10" width="16" height="3" fill="#2E3238"/>
+  <path d="M9 16H15L12 20Z" fill="#2E3238"/>
+</svg>

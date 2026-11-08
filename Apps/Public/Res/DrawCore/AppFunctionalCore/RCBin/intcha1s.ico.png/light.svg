@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Aumentar el espaciado entre caracteres</title>
+  <rect x="5" y="5" width="3" height="14" fill="#2E3238"/>
+  <rect x="10" y="5" width="3" height="14" fill="#2E3238"/>
+  <path d="M15 9V15L19 12Z" fill="#2E3238"/>
+</svg>

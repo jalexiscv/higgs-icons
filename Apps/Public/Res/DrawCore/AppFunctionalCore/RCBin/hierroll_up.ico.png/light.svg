@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Botón de jerarquía en reposo</title>
+  <path d="M4 18H20V20H4Z" fill="#2E3238"/>
+  <path d="M7.5 11V16.5M16.5 11V16.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 16.5A4.5 1.5 0 0 0 16.5 16.5" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="12" cy="11" rx="4.5" ry="2" stroke="#2E3238" stroke-width="1"/>
+</svg>
