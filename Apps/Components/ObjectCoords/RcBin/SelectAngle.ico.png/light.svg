@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Seleccionar ángulo</title>
+<path d="M4.5 14.5A7.5 7.5 0 0 1 19.5 14.5" stroke="#2E3238" stroke-width="1"/><rect x="4.5" y="14.5" width="15" height="4" stroke="#2E3238" stroke-width="1"/><path d="M8.5 14.5A3.5 3.5 0 0 1 15.5 14.5" stroke="#06A9F4" stroke-width="1"/><rect x="11" y="6" width="2" height="2" fill="#2E3238"/><path d="M7 8.5L8.5 10M17 8.5L15.5 10" stroke="#2E3238" stroke-width="1"/><path d="M11.5 16.5V18M7.5 16.5V18M15.5 16.5V18" stroke="#2E3238" stroke-width="1"/>
+</svg>

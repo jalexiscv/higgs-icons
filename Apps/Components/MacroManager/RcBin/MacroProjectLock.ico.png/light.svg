@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Macro de proyecto bloqueada</title>
+<path d="M13 6.5H4.5V19.5H12.5" stroke="#2E3238" stroke-width="1"/><rect x="5" y="7" width="8" height="2" fill="#2E3238"/><rect x="7" y="12" width="2" height="2" fill="#2E3238"/><rect x="7" y="16" width="2" height="2" fill="#2E3238"/><rect x="11" y="12" width="2" height="2" fill="#2E3238"/><rect x="11" y="16" width="2" height="2" fill="#2E3238"/><circle cx="17.5" cy="6.5" r="3" stroke="#2E3238" stroke-width="1"/><ellipse cx="17.5" cy="6.5" rx="1.5" ry="3" stroke="#2E3238" stroke-width="1"/><path d="M14.5 6.5H20.5" stroke="#2E3238" stroke-width="1"/><path fill-rule="evenodd" fill="#EA3323" d="M17.5 14A3.5 3.5 0 1 1 17.5 21A3.5 3.5 0 1 1 17.5 14ZM15 17H20V18H15Z"/>
+</svg>
