@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marco de selección con ojo</title>
+  <path d="M9.5 5.5H5.5V18.5H18.5V14.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11 8.5Q15.5 3.5 20 8.5Q15.5 13.5 11 8.5Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="15.5" cy="8.5" r="1.5" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Clavo y martillo</title>
+  <rect x="5" y="4" width="6" height="2" fill="#2E3238"/>
+  <path fill="#2E3238" d="M7 6H9V17L8 20L7 17Z"/>
+  <rect x="14" y="4" width="6" height="5" rx="1" fill="#2E3238"/>
+  <rect x="16" y="9" width="2" height="11" fill="#2E3238"/>
+</svg>

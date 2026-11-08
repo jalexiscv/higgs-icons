@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Selección con píxeles azules y flecha de mover</title>
+  <path d="M4 4.5H13M4 12.5H13M4.5 4V13M12.5 4V13" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <rect x="6" y="6" width="2" height="2" fill="#06A9F4"/>
+  <rect x="9" y="8" width="2" height="2" fill="#06A9F4"/>
+  <rect x="6" y="9" width="2" height="2" fill="#06A9F4"/>
+  <path d="M16.5 15V18M15 16.5H18" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M14 15H19L16.5 12Z"/>
+  <path fill="#2E3238" d="M14 18H19L16.5 21Z"/>
+  <path fill="#2E3238" d="M15 14V19L12 16.5Z"/>
+  <path fill="#2E3238" d="M18 14V19L21 16.5Z"/>
+</svg>

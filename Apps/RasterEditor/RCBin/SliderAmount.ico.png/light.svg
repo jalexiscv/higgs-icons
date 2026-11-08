@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Flecha hacia abajo con lápiz</title>
+  <rect x="7" y="4" width="2" height="9" fill="#2E3238"/>
+  <path fill="#2E3238" d="M5 13H11L8 17Z"/>
+  <path fill="#2E3238" d="M10 20L10.5 16.5L17 10L20 13L13.5 19.5Z"/>
+</svg>

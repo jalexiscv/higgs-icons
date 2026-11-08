@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guion con marca de verificación</title>
+  <path d="M12.5 4.5H5.5V19.5H17.5V11.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 9.5H12" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 12.5H15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 15.5H15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M14.5 6.5L16.5 8.5L20 4" stroke="#1CB574" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
