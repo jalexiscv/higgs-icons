@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Simetría activada</title>
+  <circle cx="11.5" cy="11.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4 11.5H9M14 11.5H19M11.5 4V9M11.5 14V19" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5 5L8 8M8 5L5 8M15 5L18 8M18 5L15 8M5 15L8 18M8 15L5 18M15 15L18 18M18 15L15 18" stroke="#2E3238" stroke-width="1"/>
+</svg>

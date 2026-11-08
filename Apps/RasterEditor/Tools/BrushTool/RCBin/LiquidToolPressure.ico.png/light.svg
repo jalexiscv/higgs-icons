@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Presión</title>
+  <path d="M11.5 4V9" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9 9H14L11.5 12Z" fill="#2E3238"/>
+  <path d="M8.5 14.5Q11.5 17 14.5 14.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5 17Q11.5 20 18 17" stroke="#2E3238" stroke-width="1"/>
+</svg>

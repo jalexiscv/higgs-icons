@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Vista previa del clonado corrector</title>
+  <path d="M5.5 4C7.5 7 8.5 8.5 8.5 10C8.5 11.5 7.5 12 6.5 12C5.5 12 4.5 11.5 4.5 10C4.5 8.5 5 7 5.5 4Z" fill="#2E3238"/>
+  <path d="M5 14H8L9 20H6Z" fill="#2E3238"/>
+  <path d="M12 8.5C13.5 6 15 5 16.5 5C18 5 19.5 6 20.5 8.5C19.5 11 18 12 16.5 12C15 12 13.5 11 12 8.5Z" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="16.5" cy="8.5" r="1.5" fill="#2E3238"/>
+</svg>

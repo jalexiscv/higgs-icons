@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Clonado corrector</title>
+  <path d="M5.5 4C7.5 7 8.5 8.5 8.5 10C8.5 11.5 7.5 12 6.5 12C5.5 12 4.5 11.5 4.5 10C4.5 8.5 5 7 5.5 4Z" fill="#2E3238"/>
+  <path d="M5 14H8L9 20H6Z" fill="#2E3238"/>
+  <path d="M10.94 16.44L16.94 10.44L20.06 13.56L14.06 19.56Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15.5 12.5L17.5 14.5L15.5 16.5L13.5 14.5Z" fill="#9499A1"/>
+</svg>

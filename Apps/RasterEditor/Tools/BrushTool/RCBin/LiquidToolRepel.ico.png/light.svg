@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Repeler</title>
+  <path d="M6 11V10A5.5 5.5 0 0 1 17 10V11H14V10A2.5 2.5 0 0 0 9 10V11Z" fill="#EA3323"/>
+  <rect x="6" y="12" width="3" height="1" fill="#2E3238"/>
+  <rect x="14" y="12" width="3" height="1" fill="#2E3238"/>
+  <path d="M4.5 19.5H18.5V15.5C16 15.5 15 17.5 11.5 17.5C8 17.5 7 15.5 4.5 15.5Z" stroke="#2E3238" stroke-width="1"/>
+</svg>
