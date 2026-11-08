@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Imagen que entra en un marco</title>
+  <rect x="4.5" y="10.5" width="15" height="9" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="9" cy="7" rx="4" ry="3" fill="#9499A1"/>
+  <path d="M13.5 5.5H15.5A2 2 0 0 1 17.5 7.5V12" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15 12H20L17.5 15Z" fill="#2E3238"/>
+</svg>

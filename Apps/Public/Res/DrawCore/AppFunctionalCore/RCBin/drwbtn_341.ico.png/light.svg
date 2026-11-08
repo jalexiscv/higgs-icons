@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Intercambiar dos flechas</title>
+  <path d="M5 9.5H16" stroke="#2E3238" stroke-width="1"/>
+  <path d="M16 6L20 9.5L16 13Z" fill="#2E3238"/>
+  <path d="M8 14.5H19" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8 11L4 14.5L8 18Z" fill="#2E3238"/>
+</svg>

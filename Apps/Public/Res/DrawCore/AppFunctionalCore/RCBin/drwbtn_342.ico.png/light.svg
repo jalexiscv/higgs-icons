@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Medir ancho y alto de una página</title>
+  <path d="M12 5.5H17" stroke="#2E3238" stroke-width="1"/>
+  <path d="M12 3L9 5.5L12 8Z" fill="#2E3238"/>
+  <path d="M17 3L20 5.5L17 8Z" fill="#2E3238"/>
+  <path d="M5.5 12V17" stroke="#2E3238" stroke-width="1"/>
+  <path d="M3 12L5.5 9L8 12Z" fill="#2E3238"/>
+  <path d="M3 17L5.5 20L8 17Z" fill="#2E3238"/>
+  <path d="M9.5 9.5H16.5L19.5 12.5V19.5H9.5ZM16.5 9.5V12.5H19.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
