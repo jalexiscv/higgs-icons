@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Marco de selección con un punto de control</title>
+<path d="M4.5 4V14M5 4.5H20M19.5 5V20M10 19.5H19" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/><rect x="4" y="15" width="5" height="5" fill="#2E3238"/>
+</svg>

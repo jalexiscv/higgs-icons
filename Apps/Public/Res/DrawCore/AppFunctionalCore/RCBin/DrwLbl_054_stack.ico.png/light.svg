@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Márgenes de página con ajuste horizontal</title>
+<path d="M12 4.5H4.5V19.5H19.5V12" stroke="#2E3238" stroke-width="1"/><rect x="8.5" y="8.5" width="7" height="7" stroke="#9499A1" stroke-width="1"/><path d="M15 5.5H18" stroke="#2E3238" stroke-width="1"/><path d="M13 5.5L15 4V7Z" fill="#2E3238"/><path d="M20 5.5L18 4V7Z" fill="#2E3238"/>
+</svg>
