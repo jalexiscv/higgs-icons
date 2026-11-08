@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Rugosidad</title>
+  <rect x="4.5" y="15.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <rect x="15.5" y="15.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.5 15.5L8 9.5L10 12.5L12.5 7.5L14.5 11.5L17.5 15.5" stroke="#06A9F4" stroke-width="1" stroke-dasharray="1.5 1.5" stroke-linecap="round"/>
+</svg>

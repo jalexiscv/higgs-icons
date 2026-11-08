@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Chaflán</title>
+  <rect x="4.5" y="13.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <rect x="16.5" y="4.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <path d="M18.5 8.5V19.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M8.5 14.3L16.5 8" stroke="#06A9F4" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

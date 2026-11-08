@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Unir curvas</title>
+  <rect x="4.5" y="14.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <rect x="15.5" y="14.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6.5 14.5V10.5A5.5 5.5 0 0 1 17.5 10.5V14.5" stroke="#06A9F4" stroke-width="1" stroke-dasharray="1.5 1.5" stroke-linecap="round"/>
+</svg>

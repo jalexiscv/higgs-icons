@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Reconocimiento de formas</title>
+  <path d="M11 5.5H8.5V7.5H6.5V10.5H5.5V13.5H6.5V16.5H8.5V18.5H11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M12 5.5A6.5 6.5 0 0 1 12 18.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11.5 4V20" stroke="#FF6600" stroke-width="1" stroke-dasharray="2 1"/>
+</svg>
