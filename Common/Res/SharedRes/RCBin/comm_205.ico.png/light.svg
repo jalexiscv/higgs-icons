@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Libro de ayuda</title>
+  <path fill-rule="evenodd" fill="#2E3238" d="M4 7H14V20H4ZM7 10H10V11H7ZM6 11H7V12H6ZM10 11H11V13H10ZM8 13H11V14H8ZM8 14H10V15H8ZM8 16H10V18H8Z"/>
+  <path d="M7.5 6V4.5H19.5V17.5H15.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

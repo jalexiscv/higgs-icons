@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Mano levantada con un contador</title>
+  <rect x="5" y="8" width="2" height="6" fill="#2E3238"/>
+  <rect x="8" y="5" width="2" height="9" fill="#2E3238"/>
+  <rect x="11" y="5" width="2" height="9" fill="#2E3238"/>
+  <rect x="14" y="7" width="2" height="6" fill="#2E3238"/>
+  <rect x="5" y="14" width="9" height="5" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M15 14H21V20H15ZM18 15V19H19V15ZM17 16V17H18V16Z"/>
+</svg>

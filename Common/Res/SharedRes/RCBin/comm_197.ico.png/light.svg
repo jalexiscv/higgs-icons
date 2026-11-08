@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tres ventanas en cascada</title>
+  <rect x="9" y="4" width="11" height="2" fill="#2E3238"/>
+  <path d="M19.5 6V11.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="6" y="8" width="12" height="2" fill="#2E3238"/>
+  <path d="M17.5 10V15.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="12.5" width="12" height="7" stroke="#2E3238" stroke-width="1"/>
+  <rect x="5" y="13" width="11" height="2" fill="#2E3238"/>
+</svg>

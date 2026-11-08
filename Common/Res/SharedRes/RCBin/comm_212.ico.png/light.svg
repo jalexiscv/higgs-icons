@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Buscar y añadir</title>
+  <path d="M13.6 10A5 5 0 1 1 13 9" stroke="#2E3238" stroke-width="1" stroke-linecap="butt"/>
+  <path d="M13.4 14.6L17.7 18.9L15.9 20.7L11.6 16.4Z" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

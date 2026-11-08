@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Girar texto</title>
+  <path d="M6.5 10A5.5 5.5 0 0 1 17.5 10" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15.5 8.5L17.5 10.5L19.5 8.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4.5 19.5L7 13.5L9.5 19.5M5.6 17.5H8.4" stroke="#2E3238" stroke-width="1"/>
+  <path d="M12.5 19.5L16 12.5L19.5 19.5M13.8 17.5H18.2" stroke="#2E3238" stroke-width="1"/>
+</svg>
