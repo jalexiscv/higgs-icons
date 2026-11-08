@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Separación hacia la izquierda</title>
+<path d="M15.5 9.5L19.5 13.5M19.5 9.5L15.5 13.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M4 9L7 13M7 9L4 13M8 9L11 13M11 9L8 13" stroke="#EA3323" stroke-width="1"/>
+<path d="M12.5 7V20" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+<path d="M7 5.5H12.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M7 3L4 5.5L7 8Z" fill="#2E3238"/>
+</svg>

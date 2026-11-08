@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Arco cerrado con nodos</title>
+<path d="M5 19C5 11 10 6 17 6L19 13Z" stroke="#06A9F4" stroke-width="1"/>
+<path d="M3 17H7V21H3ZM15 4H19V8H15ZM17 11H21V15H17Z" fill="#2E3238"/>
+</svg>

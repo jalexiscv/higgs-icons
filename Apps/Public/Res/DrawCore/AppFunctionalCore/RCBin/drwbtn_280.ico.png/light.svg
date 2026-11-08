@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Elipse con nodos</title>
+<circle cx="12" cy="12" r="7" stroke="#06A9F4" stroke-width="1"/>
+<path d="M10 3H14V7H10ZM17 10H21V14H17ZM10 17H14V21H10ZM3 10H7V14H3Z" fill="#2E3238"/>
+</svg>

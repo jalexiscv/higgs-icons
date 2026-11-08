@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Curva cerrada ondulada con nodos</title>
+<path d="M12 5C15 5 20 6 19 11C18 15 16 15 13 19C9 20 7 16 5 12C4 8 9 5 12 5Z" stroke="#06A9F4" stroke-width="1"/>
+<path d="M10 3H14V7H10ZM17 9H21V13H17ZM11 17H15V21H11ZM3 10H7V14H3Z" fill="#2E3238"/>
+</svg>

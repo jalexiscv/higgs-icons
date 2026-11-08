@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Medida al ras de la base</title>
+<path d="M4 6.5H20M4.5 6V11M19.5 6V11M4 17.5H20" stroke="#2E3238" stroke-width="1"/>
+<path d="M8 8H10V10H8Z" fill="#2E3238"/>
+<path d="M8.5 16.5C8.5 14 11.5 14 11.5 11.5M10 13L11.5 11.5L13 13" stroke="#06A9F4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 19.5H10M12 19.5H14M16 19.5H18" stroke="#2E3238" stroke-width="1"/>
+</svg>

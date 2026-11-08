@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Curva suave cerrada con nodos</title>
+<path d="M5 19C5 13 9 12 12 10C15 8 15 6 18 6C19 9 16 12 14 15C11 18 8 19 5 19Z" stroke="#06A9F4" stroke-width="1"/>
+<path d="M3 17H7V21H3ZM16 4H20V8H16ZM12 13H16V17H12Z" fill="#2E3238"/>
+</svg>

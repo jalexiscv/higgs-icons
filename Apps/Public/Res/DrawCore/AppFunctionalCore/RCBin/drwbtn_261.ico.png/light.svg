@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Espaciado entre letras: aumentar</title>
+<circle cx="8" cy="12.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M10.5 10V15M14.5 10V15" stroke="#2E3238" stroke-width="1"/>
+<circle cx="17" cy="12.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M12.5 8V17" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+<path d="M12.5 5.5H17M7 18.5H12.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M17 3L20 5.5L17 8ZM7 16L4 18.5L7 21Z" fill="#2E3238"/>
+</svg>

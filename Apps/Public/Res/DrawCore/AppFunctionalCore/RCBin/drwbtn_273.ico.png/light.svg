@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Forma frontal sobre una punteada</title>
+<rect x="4.5" y="4.5" width="9" height="9" stroke="#2E3238" stroke-width="1"/>
+<path d="M14 10.5H20M19.5 11V20M10 19.5H20M10.5 14V20" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Medir ancho y seleccionar</title>
+<path d="M4 8.5H20M4.5 8V14M19.5 8V14" stroke="#2E3238" stroke-width="1"/>
+<path d="M6 11H8V13H6ZM9 11H11V13H9Z" fill="#2E3238"/>
+<path d="M13 13L20 16L17 17L15.5 20.5Z" fill="#2E3238"/>
+</svg>
