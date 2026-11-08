@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Copia con coordenadas XY</title>
+  <path d="M8 14.5H4.5V4.5H14.5V8" stroke="#2E3238" stroke-width="1"/>
+  <rect x="9.5" y="9.5" width="10" height="10" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11.5 12.5L13.5 16.5M13.5 12.5L11.5 16.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15.5 12.5L16.5 14.5L17.5 12.5M16.5 14.5V16.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

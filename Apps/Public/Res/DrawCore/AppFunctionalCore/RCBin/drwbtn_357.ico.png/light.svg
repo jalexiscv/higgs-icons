@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cubo con coordenadas XY</title>
+  <path d="M8.5 3.5L12.5 6V11L8.5 13.5L4.5 11V6Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M4.5 6L8.5 8.5L12.5 6M8.5 8.5V13.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M17.5 6V8M17.5 11V13M14.5 9.5H16.5M18.5 9.5H20.5" stroke="#FF6600" stroke-width="1"/>
+  <path d="M9.5 15.5L11.5 19.5M11.5 15.5L9.5 19.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M13.5 15.5L14.5 17.5L15.5 15.5M14.5 17.5V19.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

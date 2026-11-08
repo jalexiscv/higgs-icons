@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cubo de pintura con color 1</title>
+  <path d="M4.5 10.5L9 6L13.5 10.5L9 15Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6 12H12L9 15Z" fill="#FF6600"/>
+  <rect x="14" y="14" width="6" height="6" fill="#06A9F4"/>
+  <path d="M18.5 4.5V10.5M17 6L18.5 4.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
