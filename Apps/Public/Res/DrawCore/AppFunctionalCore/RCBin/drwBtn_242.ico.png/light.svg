@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Margen de página, sube</title>
+  <path d="M4 4.5H15 M4 19.5H15 M4.5 5V18 M14.5 5V18" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M18.5 7V20" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M16 7H21L18.5 4Z"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cubo de pintura</title>
+  <path d="M5 8.5L9.5 4L14 8.5L9.5 13Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path fill="#FF6600" d="M18 8Q20 11 20 11.5A2 2 0 0 1 16 11.5Q16 11 18 8Z"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M4 15H20V20H4ZM14 16H19L16.5 18.5Z"/>
+</svg>

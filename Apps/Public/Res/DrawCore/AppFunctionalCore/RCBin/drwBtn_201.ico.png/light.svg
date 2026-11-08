@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tocar para seleccionar</title>
+  <path fill="#FF6600" d="M9 3H15L12 6Z"/>
+  <path d="M10.5 15V8.5A1.5 1.5 0 0 1 13.5 8.5V12A1.5 1.5 0 0 1 16.5 12A1.5 1.5 0 0 1 19.5 12V17L17 20.5H12L8.5 16.5L9.5 15.5L10.5 16.5Z" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+</svg>

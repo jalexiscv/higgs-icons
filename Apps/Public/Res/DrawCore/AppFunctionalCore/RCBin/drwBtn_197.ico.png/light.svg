@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajustes del panel</title>
+  <rect x="4.5" y="9.5" width="8" height="10" stroke="#2E3238" stroke-width="1"/>
+  <rect x="5" y="12" width="7" height="1" fill="#2E3238"/>
+  <rect x="6" y="14" width="5" height="1" fill="#2E3238"/>
+  <rect x="6" y="16" width="4" height="1" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M16 3L18 3L18 4L20 4L20 6L21 6L21 8L20 8L20 10L18 10L18 11L16 11L16 10L14 10L14 8L13 8L13 6L14 6L14 4L16 4ZM15.5 7A1.5 1.5 0 1 0 18.5 7A1.5 1.5 0 1 0 15.5 7Z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Margen interior, sube</title>
+  <path d="M5.5 7V20" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M3 7H8L5.5 4Z"/>
+  <rect x="10.5" y="4.5" width="9" height="15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M12 7.5H17 M12 16.5H17 M12.5 8V15 M16.5 8V15" stroke="#2E3238" stroke-width="1" stroke-dasharray="1 1"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Textura de relleno</title>
+  <rect x="7.5" y="4.5" width="9" height="9" rx="1" stroke="#2E3238" stroke-width="1"/>
+  <rect x="8" y="5" width="2" height="2" fill="#FF6600"/>
+  <rect x="12" y="5" width="2" height="2" fill="#FF6600"/>
+  <rect x="10" y="7" width="2" height="2" fill="#FF6600"/>
+  <rect x="14" y="7" width="2" height="2" fill="#FF6600"/>
+  <rect x="8" y="9" width="2" height="2" fill="#FF6600"/>
+  <rect x="12" y="9" width="2" height="2" fill="#FF6600"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M4 15H20V20H4ZM14 16H19L16.5 18.5Z"/>
+</svg>
