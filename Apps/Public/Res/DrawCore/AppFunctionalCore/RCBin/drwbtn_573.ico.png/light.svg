@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Código de barras con numeral</title>
+  <rect fill="#2E3238" x="4" y="8" width="1" height="12"/>
+  <rect fill="#2E3238" x="7" y="8" width="2" height="12"/>
+  <rect fill="#2E3238" x="11" y="8" width="1" height="12"/>
+  <rect fill="#2E3238" x="14" y="12" width="1" height="8"/>
+  <rect fill="#2E3238" x="17" y="12" width="3" height="8"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M16.5 3.5V9.5M19.5 3.5V9.5M15.5 5.5H20.5M15.5 7.5H20.5"/>
+</svg>

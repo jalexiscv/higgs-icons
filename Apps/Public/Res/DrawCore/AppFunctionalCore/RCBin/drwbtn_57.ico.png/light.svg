@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Texto con flecha de exportar</title>
+  <path stroke="#2E3238" stroke-width="1"  d="M4 6.5H11.5M4 9.5H11.5M4 12.5H20M4 15.5H20M4 18.5H20"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M13.5 10.5L19 5"/>
+  <path fill="#2E3238" d="M16 4H21V9Z"/>
+</svg>

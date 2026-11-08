@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Letra A con engranaje</title>
+  <path stroke="#2E3238" stroke-width="1"  d="M4 20L9.5 5L15 20"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M6.5 15.5H12.5"/>
+  <circle stroke="#2E3238" stroke-width="1" cx="17.5" cy="6.5" r="2"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M17.5 3.5V4.5M17.5 8.5V9.5M14.5 6.5H15.5M19.5 6.5H20.5"/>
+</svg>

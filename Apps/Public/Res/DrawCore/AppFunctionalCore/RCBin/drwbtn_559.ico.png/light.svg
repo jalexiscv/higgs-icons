@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cubo descartado con giro</title>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round"  d="M9.5 4.5L14.5 8V14L9.5 17.5L4.5 14V8Z"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M4.5 8L9.5 11.5L14.5 8M9.5 11.5V17.5"/>
+  <path stroke="#EA3323" stroke-width="1" d="M15.5 3.5L20.5 8.5M20.5 3.5L15.5 8.5"/>
+  <path stroke="#2E3238" stroke-width="1" stroke-linecap="round"  d="M20.5 17A3 3 0 1 1 17.5 14"/>
+  <path fill="#2E3238" d="M17 12L20 14L17 16Z"/>
+</svg>

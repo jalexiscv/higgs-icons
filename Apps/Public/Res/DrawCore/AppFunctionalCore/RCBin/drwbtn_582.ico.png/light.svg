@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guías sobre cuadrado</title>
+  <rect stroke="#2E3238" stroke-width="1" x="4.5" y="4.5" width="15" height="15" rx="1"/>
+  <path stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"  d="M8.5 3.5V20.5"/>
+  <path stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"  d="M3.5 8.5H20.5"/>
+</svg>

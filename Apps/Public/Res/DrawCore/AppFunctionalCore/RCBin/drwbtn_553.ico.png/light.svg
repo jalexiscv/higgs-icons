@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cambiar tamaño de objeto</title>
+  <rect stroke="#2E3238" stroke-width="1" x="4.5" y="4.5" width="7" height="7" rx="1"/>
+  <path fill="#2E3238" d="M13 8H15V15H8V13H13Z"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M18.5 7V11"/>
+  <path fill="#2E3238" d="M16 7L18.5 4L21 7Z"/>
+  <path fill="#2E3238" d="M16 11L18.5 14L21 11Z"/>
+  <path stroke="#2E3238" stroke-width="1"  d="M7 18.5H14"/>
+  <path fill="#2E3238" d="M7 16L4 18.5L7 21Z"/>
+  <path fill="#2E3238" d="M14 16L17 18.5L14 21Z"/>
+</svg>
