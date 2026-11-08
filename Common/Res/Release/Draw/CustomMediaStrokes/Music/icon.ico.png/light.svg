@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazos de música</title>
+  <path fill="#2E3238" d="M6 8H9V10H6Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 10.5H10.5V19.5H4.5Z"/>
+  <path fill="#2E3238" d="M6 13H9V17H6Z"/>
+  <path fill="#9499A1" d="M11 6H12V7H11ZM10 8H11V9H10ZM12 8H13V9H12Z"/>
+  <ellipse cx="15" cy="12" rx="2" ry="1.5" fill="#06A9F4"/>
+  <ellipse cx="19" cy="10" rx="2" ry="1.5" fill="#06A9F4"/>
+  <path fill="#06A9F4" d="M16 3H17V12H16Z M20 3H21V10H20Z M16 3H21V5H16Z"/>
+</svg>

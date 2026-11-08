@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazos de pincel</title>
+  <path fill="#2E3238" d="M6 8H9V10H6Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 10.5H10.5V19.5H4.5Z"/>
+  <path fill="#2E3238" d="M6 13H9V17H6Z"/>
+  <path fill="#9499A1" d="M11 6H12V7H11ZM10 8H11V9H10ZM12 8H13V9H12Z"/>
+  <path fill="#2E3238" d="M15 3H19V6H15Z M15 7H19L18.3 10.5L17 12.5L15.7 10.5Z"/>
+</svg>

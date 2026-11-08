@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazos varios</title>
+  <path fill="#2E3238" d="M6 8H9V10H6Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 10.5H10.5V19.5H4.5Z"/>
+  <path fill="#2E3238" d="M6 13H9V17H6Z"/>
+  <path fill="#9499A1" d="M11 6H12V7H11ZM10 8H11V9H10ZM12 8H13V9H12Z"/>
+  <path stroke="#06A9F4" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M14.5 5.5C14.5 3.5 19 3.5 19 5.5C19 7 17 7.5 16.75 9.25"/>
+  <path fill="#06A9F4" d="M16 11H18V13H16Z"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Remate cuadrado</title>
+  <path fill="#9499A1" d="M9 8H20V17H9Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M10.5 12.5H20"/>
+  <rect x="6.5" y="10.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+</svg>

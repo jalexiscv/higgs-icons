@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazos de mosaico</title>
+  <path fill="#2E3238" d="M6 8H9V10H6Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 10.5H10.5V19.5H4.5Z"/>
+  <path fill="#2E3238" d="M6 13H9V17H6Z"/>
+  <path fill="#9499A1" d="M11 6H12V7H11ZM10 8H11V9H10ZM12 8H13V9H12Z"/>
+  <path fill="#06A9F4" d="M13 3H15V5H13ZM13 6H15V8H13ZM13 9H15V11H13ZM16 3H18V5H16ZM16 6H18V8H16ZM16 9H18V11H16ZM19 3H21V5H19ZM19 6H21V8H19ZM19 9H21V11H19Z"/>
+</svg>

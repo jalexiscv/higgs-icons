@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazos de objetos</title>
+  <path fill="#2E3238" d="M6 8H9V10H6Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 10.5H10.5V19.5H4.5Z"/>
+  <path fill="#2E3238" d="M6 13H9V17H6Z"/>
+  <path fill="#9499A1" d="M11 6H12V7H11ZM10 8H11V9H10ZM12 8H13V9H12Z"/>
+  <circle cx="14.5" cy="6.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="16.5" y="8.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+</svg>
