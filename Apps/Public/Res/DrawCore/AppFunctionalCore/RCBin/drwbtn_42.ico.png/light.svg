@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Imagen bloqueada</title>
+  <path d="M13 8.5H4.5V19.5H19.5V13" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="11" cy="14.5" rx="4.5" ry="2.5" fill="#9499A1"/>
+  <path d="M15.5 7V5.5A2 2 0 0 1 19.5 5.5V7" stroke="#2E3238" stroke-width="1"/>
+  <rect x="14" y="7" width="7" height="5" fill="#2E3238"/>
+</svg>

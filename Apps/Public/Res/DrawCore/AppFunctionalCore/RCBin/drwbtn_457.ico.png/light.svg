@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Página con punto de mira</title>
+  <path d="M4.5 4.5H10.5L14.5 8.5V20.5H4.5ZM10.5 4.5V8.5H14.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7 11L16 17" stroke="#9499A1" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M18.5 15V20M16.5 17.5H20.5" stroke="#FF6600" stroke-width="1"/>
+</svg>
