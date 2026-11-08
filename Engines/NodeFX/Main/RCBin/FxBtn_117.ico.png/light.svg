@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Imagen a color y en gris</title>
+<rect x="4.5" y="4.5" width="15" height="15" stroke="#2E3238" stroke-width="1"/><path d="M11.5 5V19" stroke="#2E3238" stroke-width="1"/><circle cx="8" cy="9" r="1.5" stroke="#FF6600" stroke-width="1" fill="#FF6600"/><path d="M5 19V16L8 13L10 15V19Z" fill="#1CB574"/><path d="M13 19V13L16 10L18 13V19Z" fill="#9499A1"/>
+</svg>
