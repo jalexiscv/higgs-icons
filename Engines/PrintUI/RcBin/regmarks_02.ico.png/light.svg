@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marca de registro con cuadrantes opuestos</title>
+  <circle cx="12" cy="12" r="5.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M12 6.5A5.5 5.5 0 0 0 6.5 12H12Z"/>
+  <path fill="#2E3238" d="M17.5 12A5.5 5.5 0 0 1 12 17.5V12Z"/>
+  <rect x="11" y="4" width="2" height="4" fill="#2E3238"/>
+  <rect x="11" y="16" width="2" height="4" fill="#2E3238"/>
+  <rect x="4" y="11" width="4" height="2" fill="#2E3238"/>
+  <rect x="16" y="11" width="4" height="2" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marca de registro en cuadro con ajedrezado</title>
+  <path fill="#2E3238" d="M4 4H12V6A6 6 0 0 0 6 12H4Z"/>
+  <path fill="#2E3238" d="M20 20H12V18A6 6 0 0 0 18 12H20Z"/>
+  <circle cx="12" cy="12" r="6" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#2E3238" d="M11.5 6V18M6 11.5H18" stroke-width="1"/>
+</svg>

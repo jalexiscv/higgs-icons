@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marca de registro con disco partido</title>
+  <path fill="#2E3238" d="M11 6.59A5.5 5.5 0 0 0 6.59 11H11Z"/>
+  <path fill="#2E3238" d="M13 6.59A5.5 5.5 0 0 1 17.41 11H13Z"/>
+  <path fill="#2E3238" d="M6.59 13A5.5 5.5 0 0 0 11 17.41V13Z"/>
+  <path fill="#2E3238" d="M17.41 13A5.5 5.5 0 0 1 13 17.41V13Z"/>
+  <rect x="11" y="4" width="2" height="3" fill="#2E3238"/>
+  <rect x="11" y="17" width="2" height="3" fill="#2E3238"/>
+  <rect x="4" y="11" width="3" height="2" fill="#2E3238"/>
+  <rect x="17" y="11" width="3" height="2" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ventana de aplicación</title>
+  <rect x="4" y="5" width="16" height="3" fill="#2E3238"/>
+  <rect x="4.5" y="8.5" width="15" height="11" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#9499A1" d="M7 12.5H17M7 15.5H13" stroke-width="1"/>
+</svg>
