@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Círculo con copias y deshacer</title>
+  <path d="M4.5 10.5A3.5 3.5 0 0 1 8 7" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="12" cy="15" r="5.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M19.5 9.5V8.5A3 3 0 0 0 16.5 5.5H13.5M15.5 3.5L13.5 5.5L15.5 7.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

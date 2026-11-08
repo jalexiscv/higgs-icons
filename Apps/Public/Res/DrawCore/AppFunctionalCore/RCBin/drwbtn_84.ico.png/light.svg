@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Reflejo vertical</title>
+  <path d="M4 4H15V7H8V10H4Z" fill="#9499A1"/>
+  <path d="M4 20H15V17H8V14H4Z" fill="#2E3238"/>
+  <path d="M3.5 11.5H20.5" stroke="#9499A1" stroke-width="1" stroke-dasharray="2 1"/>
+</svg>

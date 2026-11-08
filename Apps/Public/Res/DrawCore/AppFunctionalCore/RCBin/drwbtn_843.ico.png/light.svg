@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Marco con elipse y deshacer</title>
+  <path d="M11.5 7.5H4.5V19.5H19.5V12.5" stroke="#2E3238" stroke-width="1"/>
+  <ellipse cx="12" cy="13.5" rx="4.5" ry="3" fill="#9499A1"/>
+  <path d="M19.5 9.5V8.5A3 3 0 0 0 16.5 5.5H13.5M15.5 3.5L13.5 5.5L15.5 7.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

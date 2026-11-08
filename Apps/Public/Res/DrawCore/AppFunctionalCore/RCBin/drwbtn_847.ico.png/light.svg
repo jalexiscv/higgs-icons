@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Caja en tres dimensiones</title>
+  <rect x="4.5" y="9.5" width="10" height="10" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 9.5L8.5 5.5H19.5L14.5 9.5"/>
+  <path stroke="#2E3238" stroke-width="1" d="M19.5 5.5V15.5L14.5 19.5"/>
+  <path stroke="#9499A1" stroke-width="1" d="M8.5 6V15.5H14.5M8.5 15.5L4.5 19.5"/>
+</svg>

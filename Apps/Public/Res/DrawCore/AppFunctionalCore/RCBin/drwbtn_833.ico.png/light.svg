@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Tablero con número uno</title>
+  <rect x="4" y="8" width="4" height="4" fill="#2E3238"/>
+  <rect x="8" y="12" width="4" height="4" fill="#2E3238"/>
+  <rect x="16" y="12" width="4" height="4" fill="#2E3238"/>
+  <rect x="4" y="16" width="4" height="4" fill="#2E3238"/>
+  <rect x="12" y="16" width="4" height="4" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM16 5L17 4H18V8H19V9H16V8H17V6H16Z"/>
+</svg>
