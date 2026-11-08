@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Reducir espacio vertical</title>
+  <path d="M5 10.5H19" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M5 13.5H19" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M7.5 4V7" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 10L5 7H10Z" fill="#2E3238"/>
+  <path d="M7.5 14L5 17H10Z" fill="#2E3238"/>
+  <path d="M7.5 17V20" stroke="#2E3238" stroke-width="1"/>
+  <rect x="14.5" y="4.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="14.5" y="16.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Espacio vertical amplio</title>
+  <path d="M5 4.5H19" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M5 19.5H19" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M7.5 6L5.0 9H10.0Z" fill="#2E3238"/>
+  <path d="M7.5 18L5.0 15H10.0Z" fill="#2E3238"/>
+  <path d="M7.5 9V15" stroke="#2E3238" stroke-width="1"/>
+  <rect x="13.5" y="6.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="13.5" y="14.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+</svg>

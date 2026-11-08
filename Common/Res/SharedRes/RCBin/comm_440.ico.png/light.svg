@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Cerrar ventana</title>
+  <path d="M12.5 4.5H5.5A1 1 0 0 0 4.5 5.5V18.5A1 1 0 0 0 5.5 19.5H18.5A1 1 0 0 0 19.5 18.5V11.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="5" y="5" width="7" height="3" fill="#2E3238"/>
+  <path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>

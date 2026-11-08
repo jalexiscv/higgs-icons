@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Encender y apagar</title>
+  <path d="M6.7 6.75A7.5 7.5 0 1 0 16.3 6.75" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+  <rect x="10" y="4" width="3" height="8" rx="1" fill="#2E3238"/>
+</svg>
