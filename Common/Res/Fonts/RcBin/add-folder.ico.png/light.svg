@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Añadir fuente</title>
+  <path d="M13 4.5H8.5L4.5 8.5V19.5H17.5V11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 18L11 9.5L14.5 18M9 15.5H13" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>

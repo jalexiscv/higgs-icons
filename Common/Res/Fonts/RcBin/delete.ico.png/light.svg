@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Eliminar fuente</title>
+  <path d="M13 4.5H8.5L4.5 8.5V19.5H17.5V11" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 18L11 9.5L14.5 18M9 15.5H13" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>
