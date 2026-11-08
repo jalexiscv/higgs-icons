@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Gafas de sol</title>
+<path fill="#2E3238" d="M4 10H10V14A2 2 0 0 1 8 16H6A2 2 0 0 1 4 14Z"/>
+<path fill="#2E3238" d="M14 10H20V14A2 2 0 0 1 18 16H16A2 2 0 0 1 14 14Z"/>
+<path stroke="#2E3238" stroke-width="1" d="M10 10.5H14"/>
+<path stroke="#2E3238" stroke-width="1" d="M4.5 10L3.5 8M19.5 10L20.5 8"/>
+</svg>

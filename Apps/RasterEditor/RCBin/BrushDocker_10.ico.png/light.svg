@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel diagonal con engranaje</title>
+<path fill="#2E3238" d="M4 6L6 4L17 15L15 17Z"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M17 4A3 3 0 1 1 17 10A3 3 0 1 1 17 4ZM17 6A1 1 0 1 0 17 8A1 1 0 1 0 17 6Z"/>
+<path fill="#2E3238" d="M16 3H18V4H16ZM16 10H18V11H16ZM13 6H14V8H13ZM20 6H21V8H20Z"/>
+</svg>

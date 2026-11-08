@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Efecto de esponja con agujeros</title>
+<rect stroke="#FF6600" stroke-width="1" x="4.5" y="4.5" width="15" height="15" rx="1"/>
+<circle fill="#FF6600" cx="9" cy="9" r="1.5"/>
+<circle fill="#FF6600" cx="15" cy="8" r="1"/>
+<circle fill="#FF6600" cx="13" cy="13" r="1.5"/>
+<circle fill="#FF6600" cx="8" cy="15" r="1"/>
+<circle fill="#FF6600" cx="16.5" cy="16" r="1"/>
+</svg>

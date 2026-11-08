@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel con contraste</title>
+<path fill="#EA3323" d="M7 4C7 4 4 8 4 11H10C10 8 7 4 7 4Z"/>
+<path fill="#2E3238" d="M5 13H9L10 20H4Z"/>
+<rect stroke="#2E3238" stroke-width="1" x="14.5" y="3.5" width="6" height="6" rx="1"/>
+<path fill="#2E3238" d="M20 4V9H15Z"/>
+</svg>

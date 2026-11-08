@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Rueda de cuatro colores</title>
+<circle stroke="#2E3238" stroke-width="1" cx="12" cy="12" r="8.5"/>
+<path fill="#EA3323" d="M11 11V6A5 5 0 0 0 6 11Z"/>
+<path fill="#06A9F4" d="M13 11V6A5 5 0 0 1 18 11Z"/>
+<path fill="#FF6600" d="M11 13H6A5 5 0 0 0 11 18Z"/>
+<path fill="#1CB574" d="M13 13V18A5 5 0 0 0 18 13Z"/>
+</svg>

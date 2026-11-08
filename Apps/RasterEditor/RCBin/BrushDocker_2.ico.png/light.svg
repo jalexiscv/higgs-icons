@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cuatro flechas hacia un punto central</title>
+<circle stroke="#2E3238" stroke-width="1" cx="12" cy="12" r="8.5"/>
+<path fill="#2E3238" d="M10 10L6 9L9 6Z"/>
+<path fill="#2E3238" d="M14 10L18 9L15 6Z"/>
+<path fill="#2E3238" d="M10 14L6 15L9 18Z"/>
+<path fill="#2E3238" d="M14 14L18 15L15 18Z"/>
+<circle fill="#EA3323" cx="12" cy="12" r="1"/>
+</svg>
