@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Fondo de cuadros con candado</title>
+<rect x="4" y="4" width="4" height="4" fill="#2E3238"/>
+<rect x="12" y="4" width="4" height="4" fill="#2E3238"/>
+<rect x="8" y="8" width="4" height="4" fill="#2E3238"/>
+<rect x="4" y="12" width="4" height="4" fill="#2E3238"/>
+<rect x="8" y="16" width="4" height="4" fill="#2E3238"/>
+<path d="M16.5 13V11.5A1.5 1.5 0 0 1 19.5 11.5V13" stroke="#2E3238" stroke-width="1"/>
+<rect x="14" y="13" width="7" height="7" fill="#2E3238"/>
+</svg>

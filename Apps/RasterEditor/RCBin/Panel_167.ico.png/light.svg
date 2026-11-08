@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Nodos con curva y lista</title>
+<rect x="4.5" y="11.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<rect x="15.5" y="3.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<path d="M6.5 11C6.5 6.5 9 5.5 15 5.5" stroke="#2E3238" stroke-width="1"/>
+<rect x="13" y="14" width="2" height="2" fill="#2E3238"/>
+<rect x="16" y="14" width="5" height="2" fill="#2E3238"/>
+<rect x="13" y="18" width="2" height="2" fill="#2E3238"/>
+<rect x="16" y="18" width="5" height="2" fill="#2E3238"/>
+</svg>

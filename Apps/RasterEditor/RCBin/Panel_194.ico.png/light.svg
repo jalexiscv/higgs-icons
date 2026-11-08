@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Dos nodos y ojo</title>
+<rect x="4.5" y="5.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<rect x="15.5" y="15.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+<path d="M8.5 9.5L15.5 15.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M13.5 7C15 4 19 4 20.5 7C19 10 15 10 13.5 7Z" stroke="#2E3238" stroke-width="1"/>
+<circle cx="17" cy="7" r="1.5" fill="#2E3238"/>
+</svg>

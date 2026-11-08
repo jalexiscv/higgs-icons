@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Reflejo con eje central</title>
+<path d="M9.5 6.5H7.5L4.5 9.5V14.5L7.5 17.5H9.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M14.5 6.5A5.5 5.5 0 0 1 14.5 17.5" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 4V20" stroke="#FF6600" stroke-width="1"/>
+</svg>

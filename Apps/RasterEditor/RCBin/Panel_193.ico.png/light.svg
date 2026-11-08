@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Diana con flecha</title>
+<path d="M18.18 9.1A7.5 7.5 0 1 1 14.91 5.82" stroke="#2E3238" stroke-width="1"/>
+<path d="M15.73 10.96A4.5 4.5 0 1 1 13.04 8.27" stroke="#2E3238" stroke-width="1"/>
+<circle cx="11.5" cy="12.5" r="1.5" fill="#FF6600"/>
+<path d="M12.5 11.5L20.5 3.5M16.5 3.5H20.5V7.5" stroke="#2E3238" stroke-width="1"/>
+</svg>

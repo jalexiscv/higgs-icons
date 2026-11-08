@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel y ventana</title>
+<path d="M7 4C5 6 4 8 5 11H6V20H8V11H9C10 8 9 6 7 4Z" fill="#2E3238"/>
+<rect x="11.5" y="5.5" width="9" height="8" stroke="#2E3238" stroke-width="1"/>
+<path d="M11.5 8.5H20.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
