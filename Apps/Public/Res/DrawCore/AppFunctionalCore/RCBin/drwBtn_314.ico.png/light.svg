@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Pincel con lista desplegable</title>
+<path fill="#2E3238" d="M12 4C14 6 15 8 15 10V11H9V10C9 8 10 6 12 4Z"/>
+<rect fill="#2E3238" x="10" y="12" width="4" height="3"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M4 16H20V20H4Z M15 17H19L17 19Z"/>
+</svg>

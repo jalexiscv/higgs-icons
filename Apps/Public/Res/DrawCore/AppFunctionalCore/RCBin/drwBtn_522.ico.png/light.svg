@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Reducir tamaño de letra con lista desplegable</title>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M4.5 14.5L8.5 5.5L12.5 14.5M5.83 11.5H11.17"/>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M15.5 14.5L17.5 10.5L19.5 14.5M16.5 12.5H18.5"/>
+<path stroke="#2E3238" stroke-width="1" d="M13.5 3.5L17 7"/>
+<path fill="#2E3238" d="M19 5V9L15 9Z"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M4 16H20V20H4Z M15 17H19L17 19Z"/>
+</svg>

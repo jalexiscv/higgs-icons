@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Interlineado y ángulos con lista desplegable</title>
+<path fill="#2E3238" d="M4 7H9L6.5 4Z M4 11H9L6.5 14Z"/>
+<path stroke="#2E3238" stroke-width="1" d="M6.5 7V11"/>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M14.5 5.5L11.5 9L14.5 12.5M16.5 5.5L19.5 9L16.5 12.5"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M4 16H20V20H4Z M15 17H19L17 19Z"/>
+</svg>

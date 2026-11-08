@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Importar archivo cdr</title>
+  <path d="M16 7L19.5 10.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round"/>
+  <path fill="#2E3238" d="M13 4L17.7 5.2L14.2 8.7Z"/>
+  <rect x="4" y="18" width="2" height="2" fill="#2E3238"/>
+  <path d="M10 15.5H7.5V19.5H10 M14.5 12V20 M14.5 15.5H12.5V19.5H14.5 M17.5 15V20 M17.5 16.5L18.5 15.5H20" stroke="#2E3238" stroke-width="1"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Aumentar tamaño de letra con lista desplegable</title>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M11.5 14.5L15.5 5.5L19.5 14.5M12.83 11.5H18.17"/>
+<path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" d="M4.5 14.5L6.5 10.5L8.5 14.5M5.5 12.5H7.5"/>
+<path stroke="#2E3238" stroke-width="1" d="M5.5 8.5L8 6"/>
+<path fill="#2E3238" d="M10 4V8L6 4Z"/>
+<path fill-rule="evenodd" fill="#2E3238" d="M4 16H20V20H4Z M15 17H19L17 19Z"/>
+</svg>
