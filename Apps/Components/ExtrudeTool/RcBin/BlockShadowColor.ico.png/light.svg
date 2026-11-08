@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Color de la sombra de bloque</title>
+  <path fill-rule="evenodd" fill="#2E3238" d="M5.38 15.12L8.88 18.62A3 3 0 0 0 13.12 14.38L9.62 10.88A3 3 0 0 0 5.38 15.12ZM7.5 11.5A1.5 1.5 0 1 0 7.5 14.5A1.5 1.5 0 1 0 7.5 11.5Z"/><path d="M15 4.5L19.5 9L15.5 13L11 8.5Z" stroke="#2E3238" stroke-width="1"/><path d="M18.5 12C18.5 12 16.5 14 16.5 15.5A2 2 0 0 0 20.5 15.5C20.5 14 18.5 12 18.5 12Z" fill="#FF6600"/>
+</svg>

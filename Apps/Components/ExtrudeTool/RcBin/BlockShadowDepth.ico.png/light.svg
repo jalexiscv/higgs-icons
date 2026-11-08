@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Profundidad de la sombra de bloque</title>
+  <path fill-rule="evenodd" fill="#2E3238" d="M8.88 10.12L13.38 14.62A3 3 0 0 0 17.62 10.38L13.12 5.88A3 3 0 0 0 8.88 10.12ZM11 6.5A1.5 1.5 0 1 0 11 9.5A1.5 1.5 0 1 0 11 6.5Z"/><path d="M6.62 17.38L8.38 15.62" stroke="#2E3238" stroke-width="1"/><path d="M4.5 19.5L8.39 19.15L4.85 15.61Z" fill="#2E3238"/><path d="M10.5 13.5L10.15 17.39L6.61 13.85Z" fill="#2E3238"/>
+</svg>
