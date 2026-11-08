@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guías inteligentes de dimensión</title>
+  <rect x="4.5" y="8.5" width="11" height="11" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#2E3238" stroke-width="1" d="M10.5 9V19M5 13.5H15"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M7 17L17 7"/>
+  <path fill="#06A9F4" d="M20.5 3.5L20.15 7.4L16.6 3.85Z"/>
+</svg>

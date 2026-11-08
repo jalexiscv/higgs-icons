@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Control de fuente variable</title>
+  <path stroke="#2E3238" stroke-width="1" d="M4 13L7.5 4L11 13M5.5 10.5H9.5"/>
+  <path fill="#2E3238" fill-rule="evenodd" d="M12.5 13L15.5 4H17.5L20.5 13H18.2L17.7 11H15.3L14.8 13ZM15.8 9H17.2L16.5 6.5Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4 17.5H6"/>
+  <circle cx="8.5" cy="18" r="2" stroke="#2E3238" stroke-width="1"/>
+  <rect x="11" y="17" width="10" height="2" fill="#2E3238"/>
+</svg>

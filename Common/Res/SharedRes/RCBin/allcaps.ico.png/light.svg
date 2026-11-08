@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Todo en mayúsculas</title>
+  <path stroke="#2E3238" stroke-width="1" stroke-linejoin="round" d="M4.5 20L8 4.5L11.5 20M6 15.5H10"/>
+  <path stroke="#2E3238" stroke-width="1" d="M14.5 4V20M14 4.5H17A2.5 3 0 0 1 17 10.5H14M14 10.5H17.5A2.5 4.5 0 0 1 17.5 19.5H14"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Guías inteligentes de espaciado</title>
+  <rect x="4.5" y="5.5" width="2" height="9" stroke="#2E3238" stroke-width="1"/>
+  <rect x="10" y="5" width="3" height="10" fill="#9499A1"/>
+  <rect x="16.5" y="5.5" width="2" height="9" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M7.5 17V19.5H9.5V17M13.5 17V19.5H15.5V17"/>
+</svg>

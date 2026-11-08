@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajustar a escala de grises</title>
+  <rect x="4.5" y="4.5" width="15" height="15" rx="1" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#2E3238" stroke-width="1" d="M11 7.5H8.5V11.5H11M10.5 9V11M12.5 7V12M13 7.5H15M14.5 8V9M13 9.5H14M14.5 10V12M9.5 13V14M8.5 14V18M10.5 14V18M9 15.5H10M12.5 13V15M14.5 13V15M13.5 15V18"/>
+</svg>

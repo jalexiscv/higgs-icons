@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Aceleración</title>
+  <circle cx="5.5" cy="12" r="1.5" fill="#2E3238"/>
+  <circle cx="9.5" cy="12" r="2" fill="#2E3238"/>
+  <rect x="13" y="11" width="3" height="2" fill="#2E3238"/>
+  <path fill="#2E3238" d="M16 6L21 12L16 18Z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ajustar a los hijos del grupo</title>
+  <path stroke="#06A9F4" stroke-width="1" stroke-dasharray="1 1" d="M7 5.5H17M7 18.5H17M5.5 7V17M18.5 7V17"/>
+  <path fill="#06A9F4" d="M4 4H7V7H4ZM17 4H20V7H17ZM4 17H7V20H4ZM17 17H20V20H17Z"/>
+  <rect x="8.5" y="8.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="14.5" cy="14.5" r="2.5" fill="#9499A1"/>
+</svg>
