@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Quitar regla de armonía</title>
+<path d="M10.5 6.5V18.5M5.5 12.5H15.5" stroke="#2E3238" stroke-width="1"/><circle cx="10.5" cy="6.5" r="1.5" fill="#06A9F4"/><circle cx="10.5" cy="18.5" r="1.5" fill="#06A9F4"/><circle cx="5.5" cy="12.5" r="1.5" fill="#06A9F4"/><circle cx="15.5" cy="12.5" r="1.5" fill="#06A9F4"/><path fill-rule="evenodd" fill="#EA3323" d="M17.5 3A3.5 3.5 0 1 1 17.5 10A3.5 3.5 0 1 1 17.5 3ZM15 6H20V7H15Z"/>
+</svg>
