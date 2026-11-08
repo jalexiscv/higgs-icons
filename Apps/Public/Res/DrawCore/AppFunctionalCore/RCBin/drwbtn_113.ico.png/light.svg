@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Manijas de selección con cursor</title>
+  <rect x="5.5" y="5.5" width="9" height="9" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4" y="4" width="3" height="3" fill="#2E3238"/>
+  <rect x="13" y="4" width="3" height="3" fill="#2E3238"/>
+  <rect x="4" y="13" width="3" height="3" fill="#2E3238"/>
+  <path d="M13 12L13 20L15 18L16.5 21L18 20.3L16.5 17.5L19 17Z" fill="#2E3238"/>
+</svg>

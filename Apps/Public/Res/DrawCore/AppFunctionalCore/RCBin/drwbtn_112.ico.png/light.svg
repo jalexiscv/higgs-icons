@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Seleccionar objeto vecino</title>
+  <rect x="4.5" y="10.5" width="9" height="9" stroke="#2E3238" stroke-width="1"/>
+  <rect x="12.5" y="4.5" width="6" height="6" stroke="#06A9F4" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M14 12L14 20L16 18L17.5 21L19 20.3L17.5 17.5L20 17Z" fill="#2E3238"/>
+</svg>

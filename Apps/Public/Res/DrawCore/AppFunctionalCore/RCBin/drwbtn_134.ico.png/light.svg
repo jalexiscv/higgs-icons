@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ancho con equis</title>
+  <path d="M9.5 4.5L14.5 9.5M14.5 4.5L9.5 9.5" stroke="#06A9F4" stroke-width="1"/>
+  <path d="M4.5 11.5V19.5M19.5 11.5V19.5M8 15.5H16" stroke="#2E3238" stroke-width="1"/>
+  <path d="M5 15.5L8 13L8 18Z" fill="#2E3238"/>
+  <path d="M19 15.5L16 13L16 18Z" fill="#2E3238"/>
+</svg>

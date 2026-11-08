@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Copias con flecha arriba</title>
+  <path d="M7 12A5 5 0 0 1 12 7" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M4 9A5 5 0 0 1 9 4" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="15" cy="15" r="5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15.5 18V12M13 14.5L15.5 12L18 14.5" stroke="#2E3238" stroke-width="1"/>
+</svg>
