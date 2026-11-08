@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Orden descendente de texto</title>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 11.5L7.5 4.5L10.5 11.5M5.5 9.5H9.5"/>
+  <path stroke="#2E3238" stroke-width="1" d="M5.5 14V17.5M9.5 14V17.5M13.5 4V17.5M17.5 4V17.5"/>
+  <path fill="#2E3238" d="M4.0 17H7.0L5.5 20ZM8.0 17H11.0L9.5 20ZM12.0 17H15.0L13.5 20ZM16.0 17H19.0L17.5 20Z"/>
+</svg>

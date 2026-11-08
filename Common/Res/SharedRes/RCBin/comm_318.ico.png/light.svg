@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Editar estilos de página</title>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 6.5H4.5V16.5"/>
+  <rect stroke="#2E3238" stroke-width="1" x="6.5" y="8.5" width="8" height="11"/>
+  <path fill="#06A9F4" d="M8 10H11V13H8Z"/>
+  <path fill="#FF6600" d="M8 15H11V18H8Z"/>
+  <path fill="#2E3238" d="M15.5 11.5L16.5 8.5L19.5 5.5L21 7L18 10Z"/>
+</svg>

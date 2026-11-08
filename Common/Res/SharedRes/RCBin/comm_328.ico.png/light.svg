@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Agregar impresora</title>
+  <path stroke="#2E3238" stroke-width="1" d="M12.5 10V4.5H7.5V10"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M5 11H19A1 1 0 0 1 20 12V15A1 1 0 0 1 19 16H5A1 1 0 0 1 4 15V12A1 1 0 0 1 5 11ZM15 13H17V14H15Z"/>
+  <path stroke="#2E3238" stroke-width="1" d="M7.5 17V19.5H16.5V17"/>
+  <path fill-rule="evenodd" fill="#1CB574" d="M15 3H20A1 1 0 0 1 21 4V9A1 1 0 0 1 20 10H15A1 1 0 0 1 14 9V4A1 1 0 0 1 15 3ZM17 4H18V6H20V7H18V9H17V7H15V6H17Z"/>
+</svg>
