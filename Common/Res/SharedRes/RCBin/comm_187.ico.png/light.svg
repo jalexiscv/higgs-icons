@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Hombre y mujer</title>
+  <circle cx="7.5" cy="6.5" r="2.5" fill="#2E3238"/>
+  <path d="M4 10H11V15H10V20H5V15H4Z" fill="#2E3238"/>
+  <circle cx="16.5" cy="6.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M15 10.5H18L20 19.5H13Z" stroke="#2E3238" stroke-width="1"/>
+</svg>
