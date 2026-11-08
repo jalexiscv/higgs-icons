@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Vaciar papelera</title>
+  <path fill="#2E3238" d="M4 6H8V4H12V6H16V8H4Z"/>
+  <path fill="#2E3238" d="M5 9H15L14 20H6ZM8 11H9V18H8ZM11 11H12V18H11Z" fill-rule="evenodd"/>
+  <path fill="#9499A1" d="M17 5H18V6H17ZM19 4H20V5H19ZM20 7H21V8H20ZM18 8H19V9H18ZM19 10H20V11H19Z"/>
+</svg>

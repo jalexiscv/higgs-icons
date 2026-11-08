@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Seleccionar formas</title>
+  <rect x="4" y="4" width="2" height="2" fill="#2E3238"/>
+  <rect x="18" y="4" width="2" height="2" fill="#2E3238"/>
+  <rect x="4" y="18" width="2" height="2" fill="#2E3238"/>
+  <rect x="18" y="18" width="2" height="2" fill="#2E3238"/>
+  <circle cx="10.5" cy="8.5" r="2.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M7.5 12.5V17.5H11.5Z" stroke="#2E3238" stroke-width="1"/>
+  <rect x="13.5" y="12.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+</svg>

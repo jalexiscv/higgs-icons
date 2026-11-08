@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Importar</title>
+  <path d="M8.5 11.5H6.5A2 2 0 0 0 4.5 13.5V17.5A2 2 0 0 0 6.5 19.5H17.5A2 2 0 0 0 19.5 17.5V13.5A2 2 0 0 0 17.5 11.5H15.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11.5 4V12.5" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M9 12H14L11.5 15Z"/>
+</svg>

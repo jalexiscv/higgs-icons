@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Patrón de cuatro colores</title>
+  <path fill="#1CB574" d="M8 4H16L12 8Z"/>
+  <path fill="#06A9F4" d="M20 8V16L16 12Z"/>
+  <path fill="#FF6600" d="M16 20H8L12 16Z"/>
+  <path fill="#EA3323" d="M4 16V8L8 12Z"/>
+  <path d="M4 4L20 20M20 4L4 20" stroke="#2E3238" stroke-width="1"/>
+</svg>
