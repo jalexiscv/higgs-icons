@@ -16,7 +16,7 @@ dist/web/
 ```
 
 Cada icono trae PNG por tamaño (`variants`), dibujo vectorial en tema claro y
-oscuro (`svg`) o ambos ([manifiesto.md](manifiesto.md)). Desde 0.2.1 los 3001
+oscuro (`svg`) o ambos ([manifiesto.md](manifiesto.md)). Desde 0.2.1 los 3048
 iconos son solo vectoriales: `url` devuelve `null` y se usa `svgUrl` (o
 `createImage`, que ya elige el SVG).
 

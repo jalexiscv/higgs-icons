@@ -2,6 +2,9 @@
 
 | #  | Fecha      | Versión | Área | Descripción breve                                                    | Detalle                                                   |
 |----|------------|---------|------|----------------------------------------------------------------------|-----------------------------------------------------------|
+| 11 | 2026-11-08 | 0.2.2   | desktop | Higgs Icon Studio: aplicación de escritorio con Higgs Mythos para explorar la galería y editar dibujos y metadatos | [Ver detalle](2026-11-08_higgs_icon_studio.md) |
+| 11 | 2026-11-08 | 0.2.2   | docs | La biblioteca queda bajo licencia privativa de EDUX FUTURO SAS (`LICENSE`, `LicenseRef-EduxFuturo-Proprietary`) | [Ver detalle](2026-11-08_licencia_privativa.md) |
+| 10 | 2026-11-08 | 0.2.2   | recursos | 47 iconos nuevos del grupo `common.higgs` (bordes, número, gráficos, minigráficos, tabla dinámica, validación…) para Higgs Odyssey, dibujados en SVG; inventario de 3048 | [Ver detalle](2026-11-08_iconos_higgs_para_odyssey.md) |
 | 9  | 2026-11-08 | 0.2.1   | recursos | Los 2827 iconos restantes pasan a SVG (98 agentes, revisión central) y pierden sus PNG: la biblioteca queda entera en SVG; catálogos actualizados | [Ver detalle](2026-11-08_iconos_svg_fase_2.md) |
 | 8  | 2026-11-08 | 0.2.0   | docs | La documentación nombra Higgs Mythos, no JUCE, como framework de las aplicaciones de escritorio; ejemplos con `higgs::` | [Ver detalle](2026-11-08_higgs_mythos_en_lugar_de_juce.md) |
 | 7  | 2026-11-08 | 0.2.0   | build | La biblioteca pasa a SVG: el generador acepta `light.svg`/`dark.svg`, el manifiesto gana `svg`, la web `svgUrl` y la C++ `resolve_svg`; los 174 iconos de Skriba y Presenter migran a SVG y pierden sus PNG | [Ver detalle](2026-11-08_iconos_svg_fase_1.md) |

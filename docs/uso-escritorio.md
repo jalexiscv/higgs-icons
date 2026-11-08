@@ -20,7 +20,7 @@ dist/desktop/
 ```
 
 Cada icono trae PNG por tamaño (`variants`), dibujo vectorial en tema claro y
-oscuro (`svg_light`, `svg_dark`) o ambos. Desde 0.2.1 los 3001 iconos son solo
+oscuro (`svg_light`, `svg_dark`) o ambos. Desde 0.2.1 los 3048 iconos son solo
 vectoriales: `variants` está vacío, `nearest_variant` y `resolve_path` devuelven
 `nullptr` y una ruta vacía, y se cargan con `resolve_svg`.
 

@@ -1,7 +1,7 @@
 # Higgs Icons
 
 Biblioteca común de iconos de las aplicaciones Higgs (Skriba, Odyssey y
-Presenter). Un solo inventario de 3001 iconos con **identificadores estables**,
+Presenter). Un solo inventario de 3048 iconos con **identificadores estables**,
 todos dibujados en **SVG** con tema claro y oscuro y nítidos a 24, 30, 36, 42,
 48, 60, 72 y 128 px. De él se generan dos salidas:
 
@@ -114,6 +114,7 @@ romper nada; los IDs publicados no cambian. Los cambios de cada versión están 
 | [docs/uso-escritorio.md](docs/uso-escritorio.md) | API C++ (`higgs_icons`), CMake, ejemplo con Higgs Mythos y distribución de la aplicación |
 | [docs/manifiesto.md](docs/manifiesto.md) | Formato de `manifest.json` y sus garantías |
 | [docs/mantenimiento.md](docs/mantenimiento.md) | Añadir iconos, registrar IDs, curar nombres y publicar una versión |
+| [docs/icon-studio.md](docs/icon-studio.md) | Aplicación de escritorio para explorar la galería y editar los iconos |
 | [docs/arquitectura.md](docs/arquitectura.md) | Inventario, IDs canónicos, generador, salidas y contratos con las aplicaciones |
 | [docs/estilo-de-codigo.md](docs/estilo-de-codigo.md) | Estilo de JavaScript, C++ generado, datos, pruebas y commits |
 | [docs/protocols/Releases.md](docs/protocols/Releases.md) | Numeración de versiones |
@@ -136,7 +137,8 @@ iconos y publicar versiones: [docs/mantenimiento.md](docs/mantenimiento.md).
 
 ## Derechos
 
-La biblioteca es material propio del autor y se puede usar y distribuir: es la fuente de iconos de
-la familia Higgs ([derechos y publicación](RIGHTS-AND-PUBLISHING.md)). Lo que falta es **declarar
-la licencia** —hoy no hay ninguna, ni para el código ni para las imágenes— y escribir la
-procedencia de cada grupo.
+La biblioteca es material privativo de EDUX FUTURO SAS: es la fuente de iconos de la familia
+Higgs y se usa solo dentro de sus productos, bajo el contrato de [LICENSE](LICENSE)
+(`LicenseRef-EduxFuturo-Proprietary`). Los derechos y la procedencia de cada grupo están en
+[RIGHTS-AND-PUBLISHING.md](RIGHTS-AND-PUBLISHING.md); la procedencia de los PNG heredados sigue
+por escribir.

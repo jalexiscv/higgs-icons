@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ordenar de Z a A</title>
+  <g><path d="M5 4.5H11L5 10.5H11" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19.5L8 13.5L11 19.5M6.25 17.5H9.75" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M16.5 4.5V17" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M14 16L16.5 19.5L19 16Z" fill="#2E3238"/></g>
+</svg>

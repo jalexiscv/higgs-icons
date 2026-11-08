@@ -614,6 +614,558 @@
       "products": [
         "presenter-desktop"
       ]
+    },
+    "common.higgs.fill-color": {
+      "name": "Color de relleno (sin barra)",
+      "description": "Color de relleno de la celda; la aplicación pinta la barra de color debajo.",
+      "tags": [
+        "relleno",
+        "color",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-none": {
+      "name": "Sin borde",
+      "description": "Quita los bordes de las celdas seleccionadas.",
+      "tags": [
+        "borde",
+        "celda",
+        "ninguno"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-thick": {
+      "name": "Borde de cuadro grueso",
+      "description": "Borde exterior grueso alrededor de la selección.",
+      "tags": [
+        "borde",
+        "celda",
+        "grueso"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-double-bottom": {
+      "name": "Borde doble inferior",
+      "description": "Línea doble en el borde inferior de la selección.",
+      "tags": [
+        "borde",
+        "celda",
+        "doble"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-thick-bottom": {
+      "name": "Borde inferior grueso",
+      "description": "Línea gruesa en el borde inferior de la selección.",
+      "tags": [
+        "borde",
+        "celda",
+        "grueso"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-top-thick-bottom": {
+      "name": "Borde superior e inferior grueso",
+      "description": "Línea fina arriba y gruesa abajo.",
+      "tags": [
+        "borde",
+        "celda",
+        "grueso"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.border-top-double-bottom": {
+      "name": "Borde superior e inferior doble",
+      "description": "Línea fina arriba y doble abajo.",
+      "tags": [
+        "borde",
+        "celda",
+        "doble"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.wrap-text": {
+      "name": "Ajustar texto",
+      "description": "Muestra el contenido de la celda en varias líneas.",
+      "tags": [
+        "texto",
+        "ajustar",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.text-orientation": {
+      "name": "Orientación del texto",
+      "description": "Gira el texto de la celda en diagonal o en vertical.",
+      "tags": [
+        "texto",
+        "orientación",
+        "girar"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.percent": {
+      "name": "Estilo porcentual",
+      "description": "Formato de porcentaje.",
+      "tags": [
+        "número",
+        "porcentaje",
+        "formato"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.currency": {
+      "name": "Formato de contabilidad",
+      "description": "Formato de moneda y contabilidad.",
+      "tags": [
+        "número",
+        "moneda",
+        "contabilidad"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.thousands": {
+      "name": "Estilo millares",
+      "description": "Separador de miles.",
+      "tags": [
+        "número",
+        "millares",
+        "separador"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.decimals-more": {
+      "name": "Aumentar decimales",
+      "description": "Muestra un decimal más.",
+      "tags": [
+        "número",
+        "decimales",
+        "aumentar"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.decimals-less": {
+      "name": "Disminuir decimales",
+      "description": "Muestra un decimal menos.",
+      "tags": [
+        "número",
+        "decimales",
+        "disminuir"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.conditional-format": {
+      "name": "Formato condicional",
+      "description": "Resalta celdas según su valor.",
+      "tags": [
+        "formato",
+        "condicional",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.autosum": {
+      "name": "Autosuma",
+      "description": "Suma automática del rango.",
+      "tags": [
+        "suma",
+        "fórmula",
+        "sigma"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.fill-down": {
+      "name": "Rellenar hacia abajo",
+      "description": "Copia la celda superior hacia abajo.",
+      "tags": [
+        "rellenar",
+        "abajo",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.fill-right": {
+      "name": "Rellenar hacia la derecha",
+      "description": "Copia la celda izquierda hacia la derecha.",
+      "tags": [
+        "rellenar",
+        "derecha",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.sort-az": {
+      "name": "Ordenar de A a Z",
+      "description": "Orden ascendente.",
+      "tags": [
+        "ordenar",
+        "ascendente"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.sort-za": {
+      "name": "Ordenar de Z a A",
+      "description": "Orden descendente.",
+      "tags": [
+        "ordenar",
+        "descendente"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.go-to": {
+      "name": "Ir a",
+      "description": "Salta a una celda o rango.",
+      "tags": [
+        "ir",
+        "celda",
+        "navegar"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-bar": {
+      "name": "Gráfico de barras",
+      "description": "Inserta un gráfico de barras horizontales.",
+      "tags": [
+        "gráfico",
+        "barras"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-line": {
+      "name": "Gráfico de líneas",
+      "description": "Inserta un gráfico de líneas.",
+      "tags": [
+        "gráfico",
+        "líneas"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-doughnut": {
+      "name": "Gráfico de anillo",
+      "description": "Inserta un gráfico de anillo.",
+      "tags": [
+        "gráfico",
+        "anillo"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-area": {
+      "name": "Gráfico de áreas",
+      "description": "Inserta un gráfico de áreas.",
+      "tags": [
+        "gráfico",
+        "áreas"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-scatter": {
+      "name": "Gráfico de dispersión",
+      "description": "Inserta un gráfico de dispersión (XY).",
+      "tags": [
+        "gráfico",
+        "dispersión",
+        "puntos"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.name-manager": {
+      "name": "Administrador de nombres",
+      "description": "Nombres definidos del libro.",
+      "tags": [
+        "nombre",
+        "rango",
+        "etiqueta"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.data-validation": {
+      "name": "Validación de datos",
+      "description": "Reglas de entrada de las celdas.",
+      "tags": [
+        "validación",
+        "datos",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.note": {
+      "name": "Nota",
+      "description": "Nota de la celda.",
+      "tags": [
+        "nota",
+        "comentario",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.freeze-panes": {
+      "name": "Inmovilizar paneles",
+      "description": "Fija las primeras filas y columnas.",
+      "tags": [
+        "inmovilizar",
+        "paneles",
+        "filas"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.check": {
+      "name": "Marca de verificación",
+      "description": "Aceptar o confirmar.",
+      "tags": [
+        "aceptar",
+        "confirmar",
+        "marca"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chevron-left": {
+      "name": "Chevron a la izquierda",
+      "description": "Flecha de navegación hacia la izquierda.",
+      "tags": [
+        "chevron",
+        "izquierda",
+        "flecha"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.pivot-table": {
+      "name": "Tabla dinámica",
+      "description": "Inserta una tabla dinámica.",
+      "tags": [
+        "tabla",
+        "dinámica",
+        "resumen"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-recommended": {
+      "name": "Gráficos recomendados",
+      "description": "Sugiere un gráfico para los datos.",
+      "tags": [
+        "gráfico",
+        "recomendado"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-hierarchy": {
+      "name": "Gráfico de jerarquía",
+      "description": "Rectángulos o proyección solar.",
+      "tags": [
+        "gráfico",
+        "jerarquía",
+        "rectángulos"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-waterfall": {
+      "name": "Gráfico de cascada",
+      "description": "Inserta un gráfico de cascada.",
+      "tags": [
+        "gráfico",
+        "cascada"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-stat": {
+      "name": "Gráfico estadístico",
+      "description": "Histograma o cajas y bigotes.",
+      "tags": [
+        "gráfico",
+        "estadístico",
+        "histograma"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-combo": {
+      "name": "Gráfico combinado",
+      "description": "Columnas y líneas en un gráfico.",
+      "tags": [
+        "gráfico",
+        "combinado"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.chart-pivot": {
+      "name": "Gráfico dinámico",
+      "description": "Gráfico de una tabla dinámica.",
+      "tags": [
+        "gráfico",
+        "dinámico"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.spark-line": {
+      "name": "Minigráfico de líneas",
+      "description": "Línea dentro de una celda.",
+      "tags": [
+        "minigráfico",
+        "línea",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.spark-column": {
+      "name": "Minigráfico de columnas",
+      "description": "Columnas dentro de una celda.",
+      "tags": [
+        "minigráfico",
+        "columnas",
+        "celda"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.spark-winloss": {
+      "name": "Minigráfico de ganancia o pérdida",
+      "description": "Barras arriba y abajo de una línea.",
+      "tags": [
+        "minigráfico",
+        "ganancia",
+        "pérdida"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.slicer": {
+      "name": "Segmentación de datos",
+      "description": "Botones para filtrar una tabla.",
+      "tags": [
+        "segmentación",
+        "filtro",
+        "tabla"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.timeline": {
+      "name": "Escala de tiempo",
+      "description": "Filtra fechas con un control deslizante.",
+      "tags": [
+        "escala",
+        "tiempo",
+        "fechas"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.signature": {
+      "name": "Línea de firma",
+      "description": "Inserta una línea de firma.",
+      "tags": [
+        "firma",
+        "línea"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.symbol": {
+      "name": "Símbolo",
+      "description": "Inserta un símbolo o carácter especial.",
+      "tags": [
+        "símbolo",
+        "carácter",
+        "omega"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
+    },
+    "common.higgs.add-ins": {
+      "name": "Complementos",
+      "description": "Complementos de la aplicación.",
+      "tags": [
+        "complementos",
+        "extensión"
+      ],
+      "products": [
+        "odyssey-desktop"
+      ]
     }
   }
 }

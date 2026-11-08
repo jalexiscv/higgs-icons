@@ -31,7 +31,7 @@ independiente del generador.
 - Un icono es un **directorio** cuyo nombre termina en `.ico.png` (el nombre se
   conserva aunque el contenido sea SVG: `source` y `legacyName` son contrato) y
   que contiene un dibujo vectorial `light.svg`, variantes `<tamaño>.png` o
-  ambos durante una migración. Desde 0.2.1 los 3001 iconos son solo SVG; el
+  ambos durante una migración. Desde 0.2.1 los 3048 iconos son solo SVG; el
   generador sigue aceptando PNG por tamaño (cualquier conjunto de tamaños) por
   compatibilidad, pero el inventario ya no tiene ninguno. Los archivos sueltos
   fuera de un directorio `.ico.png` (por ejemplo los 19 PNG de plantillas y
@@ -113,5 +113,5 @@ icono no tiene PNG.
   no se leían. El PNG original de cada uno sigue en el historial de Git.
 - La biblioteca C++ incrusta todo el inventario en `icons.cpp`; no tiene pruebas
   propias en C++ más allá de que compile.
-- La biblioteca no declara licencia todavía, y la procedencia de cada grupo está por escribir en
-  `RIGHTS-AND-PUBLISHING.md`.
+- La licencia es privativa (`LICENSE`, `LicenseRef-EduxFuturo-Proprietary`); la procedencia de los
+  grupos heredados está por escribir en `RIGHTS-AND-PUBLISHING.md`.
