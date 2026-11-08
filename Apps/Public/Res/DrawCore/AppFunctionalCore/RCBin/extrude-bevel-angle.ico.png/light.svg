@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Ángulo del bisel de extrusión</title>
+  <rect x="4.5" y="9.5" width="11" height="11" stroke="#2E3238" stroke-width="1"/>
+  <rect x="7.5" y="12.5" width="5" height="5" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#2E3238" stroke-width="1" d="M4.5 9.5L7.5 12.5M15.5 9.5L12.5 12.5M4.5 20.5L7.5 17.5M15.5 20.5L12.5 17.5"/>
+  <path stroke="#2E3238" stroke-width="1" d="M13.5 7.5H20M13.5 7.5L19 4"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M16.5 7.5A3 3 0 0 0 16 5.9"/>
+</svg>

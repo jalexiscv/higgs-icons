@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Función fx</title>
+  <rect x="8" y="9" width="2" height="11" fill="#2E3238"/>
+  <rect x="5" y="12" width="6" height="2" fill="#2E3238"/>
+  <path fill="#2E3238" d="M8 10A5 5 0 0 1 13 5H15V7H13A3 3 0 0 0 10 10Z"/>
+  <path fill="#2E3238" d="M13 11H15.5L20 20H17.5Z"/>
+  <path fill="#2E3238" d="M20 11H17.5L13 20H15.5Z"/>
+</svg>

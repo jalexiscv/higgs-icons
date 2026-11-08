@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Rectángulo con tiradores</title>
+  <rect x="5.5" y="8.5" width="13" height="7" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4" y="10" width="3" height="4" fill="#2E3238"/>
+  <rect x="17" y="10" width="3" height="4" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Eliminar objetos apilados</title>
+  <rect x="4" y="8" width="2" height="2" fill="#2E3238"/>
+  <rect x="4" y="19" width="2" height="2" fill="#2E3238"/>
+  <rect x="19" y="19" width="2" height="2" fill="#2E3238"/>
+  <path stroke="#2E3238" stroke-width="1" d="M11.5 12V11.5H7.5V15.5"/>
+  <path stroke="#2E3238" stroke-width="1" d="M13.5 14V13.5H9.5V17.5"/>
+  <rect x="11.5" y="15.5" width="4" height="4" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#EA3323" stroke-width="1" d="M16 4L20 8M20 4L16 8"/>
+</svg>

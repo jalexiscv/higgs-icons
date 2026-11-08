@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Altura de la elipse</title>
+  <ellipse cx="14" cy="11.5" rx="6" ry="5" stroke="#2E3238" stroke-width="1"/>
+  <path stroke="#06A9F4" stroke-width="1" d="M5.5 6.5V16.5M4 6.5H7M4 16.5H7"/>
+</svg>
