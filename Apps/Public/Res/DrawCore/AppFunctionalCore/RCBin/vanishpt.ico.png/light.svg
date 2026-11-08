@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Punto de fuga</title>
+<path d="M4.5 19.5L11.5 8.5L18.5 19.5" stroke="#2E3238" stroke-width="1"/><path d="M4.5 4.5L11.5 8.5L18.5 4.5" stroke="#9499A1" stroke-width="1"/><path d="M11.5 12V20" stroke="#2E3238" stroke-width="1"/><circle cx="11.5" cy="8.5" r="1.5" fill="#FF6600"/>
+</svg>
