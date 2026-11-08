@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Distribuir un nodo en dos</title>
+<path d="M6.5 4V20" stroke="#2E3238" stroke-width="1" /><rect x="4.5" y="9.5" width="4" height="4" stroke="#2E3238" stroke-width="1" fill="#9499A1"/><path d="M17.5 4V20" stroke="#2E3238" stroke-width="1" /><rect x="15.5" y="6.5" width="4" height="4" stroke="#2E3238" stroke-width="1" fill="#9499A1"/><rect x="15.5" y="13.5" width="4" height="4" stroke="#2E3238" stroke-width="1" fill="#9499A1"/><path d="M10 9V14L13 11.5Z" fill="#2E3238"/>
+</svg>
