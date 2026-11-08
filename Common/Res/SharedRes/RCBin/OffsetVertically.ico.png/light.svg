@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Desplazar verticalmente</title>
+  <rect x="4.5" y="10.5" width="9" height="9" rx="1" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9 12L12 15L9 18L6 15Z" fill="#2E3238"/>
+  <path d="M10.5 9V4.5H19.5V13.5H15" fill="none" stroke="#9499A1" stroke-width="1"/>
+  <path d="M16 5L19 8L16 11L13 8Z" fill="#9499A1"/>
+  <path d="M15 19H19L17 16Z" fill="#2E3238"/>
+</svg>

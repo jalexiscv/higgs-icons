@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Relleno de malla suave</title>
+  <rect x="4.5" y="4.5" width="15" height="5" rx="1" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <rect x="6" y="6" width="6" height="2" fill="#9499A1"/>
+  <path d="M10 11H14L12 13Z" fill="#2E3238"/>
+  <rect x="4.5" y="14.5" width="15" height="5" rx="1" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <rect x="6" y="16" width="11" height="2" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Apertura hexagonal</title>
+  <path d="M8.5 4.5H15.5L20 12L15.5 19.5H8.5L4 12Z" fill="none" stroke="#2E3238" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M10.5 8.5H13.5L15.5 12L13.5 15.5H10.5L8.5 12Z" fill="none" stroke="#9499A1" stroke-width="1" stroke-linejoin="round"/>
+</svg>

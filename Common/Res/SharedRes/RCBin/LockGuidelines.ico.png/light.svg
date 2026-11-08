@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Bloquear guías</title>
+  <path d="M4 14.5H12" fill="none" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M7.5 6V20" fill="none" stroke="#06A9F4" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M15.5 9V7A2 2 0 0 1 19.5 7V9" fill="none" stroke="#2E3238" stroke-width="1"/>
+  <rect x="14" y="9" width="7" height="6" fill="#2E3238"/>
+</svg>
