@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cubo con contraste</title>
+<path d="M9.5 4L14.5 7V14L9.5 17L4.5 14V7Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.5 10.5V17M9.5 10.5L4.5 7M9.5 10.5L14.5 7" stroke="#9499A1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="17" cy="17" r="3.5" stroke="#2E3238" stroke-width="1"/>
+<path fill="#2E3238" d="M17 13.5A3.5 3.5 0 0 0 17 20.5Z"/>
+</svg>

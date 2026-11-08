@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Degradado diagonal</title>
+  <rect x="4.5" y="4.5" width="15" height="15" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6 8L8 6" stroke="#9499A1" stroke-width="1"/>
+  <path d="M6 12L12 6" stroke="#9499A1" stroke-width="1"/>
+  <path d="M6 16L16 6" stroke="#9499A1" stroke-width="1"/>
+  <path d="M8 18L18 8L18 10L10 18Z" fill="#9499A1"/>
+  <path d="M12 18L18 12V18Z" fill="#9499A1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Cubo con caras de color</title>
+<path d="M12.5 4L19.5 8V16L12.5 20L5.5 16V8Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.5 12.0V20M12.5 12.0L5.5 8M12.5 12.0L19.5 8" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill="#FF6600" d="M12.5 6L16.5 8L12.5 10L8.5 8Z"/>
+<path fill="#FF6600" d="M14 13L17 11.5V15L14 16.5Z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Bote de pintura sobre ventana</title>
+<path d="M14.5 5.5H4.5V19.5H10.5" stroke="#2E3238" stroke-width="1" stroke-linejoin="miter"/>
+<path fill="#2E3238" d="M4 5H13V8H4Z"/>
+<path fill="#2E3238" d="M15 8.5L19.5 13L14.5 18L10 13.5Z"/>
+<path fill="#FF6600" d="M19 16.5L17.5 18.5A1.8 1.8 0 1 0 20.5 18.5Z"/>
+</svg>
