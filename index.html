@@ -4,20 +4,33 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Higgs Icons</title>
-<meta http-equiv="refresh" content="0; url=./catalogo-iconos.html">
 <style>
   html,body{height:100%;margin:0}
   body{display:flex;align-items:center;justify-content:center;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#0f1115;color:#e8eaed}
-  main{text-align:center;max-width:40rem;padding:2rem}
+  main{text-align:center;max-width:44rem;padding:2rem}
   h1{font-weight:600;letter-spacing:.02em}
-  a{color:#8ab4f8}
+  p{color:#b8bec8}
+  .catalogos{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-top:1.5rem}
+  a.cat{flex:1 1 16rem;display:block;padding:1.1rem 1.2rem;border:1px solid #262e3a;border-radius:10px;background:#171b22;color:#e8eaed;text-decoration:none;text-align:left}
+  a.cat:hover{border-color:#4da3ff}
+  a.cat strong{display:block;font-size:1.05rem;color:#8ab4f8;margin-bottom:.3rem}
+  a.cat span{color:#b8bec8;font-size:.92rem}
 </style>
 </head>
 <body>
 <main>
   <h1>Higgs Icons</h1>
   <p>Biblioteca compartida de iconos para las aplicaciones Higgs.</p>
-  <p>Si no eres redirigido, abre el <a href="./catalogo-iconos.html">catálogo de iconos</a>.</p>
+  <div class="catalogos">
+    <a class="cat" href="./catalogo-iconos-svg.html">
+      <strong>Catálogo SVG</strong>
+      <span>Los 3001 iconos de la biblioteca, agrupados por ID canónico, en tema claro y oscuro.</span>
+    </a>
+    <a class="cat" href="./catalogo-iconos.html">
+      <strong>Catálogo completo</strong>
+      <span>El catálogo heredado, organizado por las carpetas de origen; copia la ruta de cada icono, cuyo ID está en <code>metadata/ids.json</code>.</span>
+    </a>
+  </div>
 </main>
 </body>
 </html>
