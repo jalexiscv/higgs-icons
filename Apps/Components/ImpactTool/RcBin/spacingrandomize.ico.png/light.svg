@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Espaciado aleatorio</title>
+<path d="M4.5 11.5V19.5M19.5 11.5V19.5" stroke="#2E3238" stroke-width="1"/><path d="M8 15.5H16" stroke="#2E3238" stroke-width="1"/><path d="M8 13L5 15.5L8 18Z" fill="#2E3238"/><path d="M16 13L19 15.5L16 18Z" fill="#2E3238"/><path d="M12 4.5H13C15.5 4.5 15 8.5 18 8.5" stroke="#2E3238" stroke-width="1"/><path d="M12 8.5H13C15.5 8.5 15 4.5 18 4.5" stroke="#2E3238" stroke-width="1"/><path d="M18 3L20 4.5L18 6Z" fill="#2E3238"/><path d="M18 7L20 8.5L18 10Z" fill="#2E3238"/>
+</svg>
