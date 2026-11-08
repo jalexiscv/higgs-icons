@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Crear objeto a partir del fondo</title>
+  <g><path d="M4.5 14.5V4.5H14.5V9.5" stroke="#9499A1" stroke-width="1"/><path d="M4.5 14.5H9.5" stroke="#9499A1" stroke-width="1"/><path d="M5.5 8.5L8.5 5.5M5.5 12.5L12.5 5.5" stroke="#9499A1" stroke-width="1"/><rect x="10.5" y="10.5" width="9" height="9" stroke="#2E3238" stroke-width="1"/><path d="M5.5 15V18.5H6" stroke="#2E3238" stroke-width="1"/><path d="M9 18.5L6 16V21Z" fill="#2E3238"/></g>
+</svg>

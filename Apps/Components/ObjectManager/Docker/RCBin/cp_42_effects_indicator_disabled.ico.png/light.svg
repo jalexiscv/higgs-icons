@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Indicador de efectos desactivado</title>
+  <g><path d="M8.5 8H10.5L8.5 20H6.5Z" fill="#9499A1"/><path d="M9.5 8C9.5 5 10.5 4.5 12.5 4.5" stroke="#9499A1" stroke-width="1"/><rect x="5" y="11" width="7" height="1" fill="#9499A1"/><path d="M12.5 11H14.5L19.5 19H17.5Z" fill="#9499A1"/><path d="M18 11H20L14 19H12Z" fill="#9499A1"/><path d="M4.5 19.5L19.5 4.5" stroke="#2E3238" stroke-width="1"/></g>
+</svg>
