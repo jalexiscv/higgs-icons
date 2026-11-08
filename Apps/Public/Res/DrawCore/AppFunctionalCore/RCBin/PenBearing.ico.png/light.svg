@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Orientación del lápiz</title>
+  <path fill="#2E3238" d="M9 6L12 10H6Z"/>
+  <path fill="#2E3238" d="M5 11H13L12 19H6Z"/>
+  <path d="M15 12L20 6" stroke="#9499A1" stroke-width="1" stroke-dasharray="2 1"/>
+  <path d="M14.5 18A4 4 0 0 0 19.5 16" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M17.5 15H21V18Z"/>
+</svg>

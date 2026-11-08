@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Abrir hoja de cálculo</title>
+  <rect x="4.5" y="4.5" width="15" height="14" stroke="#2E3238" stroke-width="1"/>
+  <rect x="5" y="5" width="14" height="2" fill="#2E3238"/>
+  <path d="M5 10.5H19M5 14.5H19M9.5 7V18M14.5 7V18" stroke="#2E3238" stroke-width="1"/>
+</svg>

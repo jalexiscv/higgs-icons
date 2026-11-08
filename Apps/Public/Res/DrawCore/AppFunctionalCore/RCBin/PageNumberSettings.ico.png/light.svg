@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Configurar números de página</title>
+  <path d="M4.5 4.5H9.5L13.5 8.5V19.5H4.5Z" stroke="#2E3238" stroke-width="1"/>
+  <path d="M9.5 4.5V8.5H13.5" stroke="#2E3238" stroke-width="1"/>
+  <path d="M6 12.5H12M6 15.5H12M7.5 11V17M10.5 11V17" stroke="#2E3238" stroke-width="1"/>
+  <path fill-rule="evenodd" fill="#2E3238" d="M17.5 4A2.5 2.5 0 1 1 17.5 9A2.5 2.5 0 1 1 17.5 4ZM17.5 5.5A1 1 0 1 0 17.5 7.5A1 1 0 1 0 17.5 5.5ZM16 3H19V4H16ZM16 9H19V10H16ZM14 5H15V8H14ZM20 5H21V8H20Z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Navegador</title>
+  <circle cx="10.5" cy="10.5" r="6" stroke="#2E3238" stroke-width="1"/>
+  <path fill="#2E3238" d="M14.8 16.5L16.5 14.8L20.7 19L19 20.7Z"/>
+  <path d="M10.5 8V13M8 10.5H13" stroke="#06A9F4" stroke-width="1"/>
+  <path fill="#06A9F4" d="M9 8H12L10.5 6Z"/>
+  <path fill="#06A9F4" d="M9 13H12L10.5 15Z"/>
+  <path fill="#06A9F4" d="M8 9V12L6 10.5Z"/>
+  <path fill="#06A9F4" d="M13 9V12L15 10.5Z"/>
+</svg>

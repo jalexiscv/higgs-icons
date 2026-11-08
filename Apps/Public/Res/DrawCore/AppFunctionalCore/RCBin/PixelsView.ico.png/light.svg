@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Vista de píxeles</title>
+  <path fill="#2E3238" d="M4 18H6V20H4ZM7 18H9V20H7ZM10 18H12V20H10ZM13 18H15V20H13ZM16 18H18V20H16ZM4 15H6V17H4ZM7 15H9V17H7ZM10 15H12V17H10ZM13 15H15V17H13ZM4 12H6V14H4ZM7 12H9V14H7ZM10 12H12V14H10ZM4 9H6V11H4ZM7 9H9V11H7ZM4 6H6V8H4Z"/>
+  <path d="M10.5 8C13 4.5 18 4.5 20.5 8C18 11.5 13 11.5 10.5 8Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="15.5" cy="8" r="1.5" fill="#2E3238"/>
+</svg>

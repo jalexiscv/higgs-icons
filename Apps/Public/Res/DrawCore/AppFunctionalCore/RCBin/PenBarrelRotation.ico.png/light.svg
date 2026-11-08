@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Rotación del cuerpo del lápiz</title>
+  <path fill="#2E3238" d="M9 6L12 10H6Z"/>
+  <path fill="#2E3238" d="M5 11H13L12 19H6Z"/>
+  <path d="M14 8A3 3 0 0 1 19.5 6.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M18 7H21L19.5 9.5Z"/>
+  <path d="M20 8A3 3 0 0 1 14.5 9.5" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path fill="#2E3238" d="M13 9H16L14.5 6.5Z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Editar color de máscara</title>
+  <path d="M5.5 6.5V15.5M6.5 5.5H14.5M15.5 6.5V9.5M6.5 15.5H9.5" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4" y="4" width="2" height="2" fill="#2E3238"/>
+  <rect x="14" y="4" width="2" height="2" fill="#2E3238"/>
+  <rect x="4" y="14" width="2" height="2" fill="#2E3238"/>
+  <rect x="10.5" y="10.5" width="9" height="9" rx="1" stroke="#2E3238" stroke-width="1"/>
+  <rect x="12" y="12" width="2" height="2" fill="#06A9F4"/>
+  <rect x="16" y="12" width="2" height="2" fill="#FF6600"/>
+  <rect x="12" y="16" width="2" height="2" fill="#1CB574"/>
+  <rect x="16" y="16" width="2" height="2" fill="#EA3323"/>
+</svg>

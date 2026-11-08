@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Trazar contorno</title>
+  <path d="M7.41 4.59L19.41 16.59A2 2 0 0 1 16.59 19.41L4.59 7.41A2 2 0 0 1 7.41 4.59Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19.41 7.41L7.41 19.41A2 2 0 0 1 4.59 16.59L16.59 4.59A2 2 0 0 1 19.41 7.41Z" stroke="#2E3238" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="12" cy="12" r="3" fill="#2E3238"/>
+</svg>
