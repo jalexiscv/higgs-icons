@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Selector de lista</title>
+  <rect x="4.5" y="5.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="10.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <rect x="4.5" y="15.5" width="3" height="3" stroke="#2E3238" stroke-width="1"/>
+  <path d="M11 4V18L14 15L16.5 20L18.5 19L16 14H20.5Z" fill="#2E3238"/>
+</svg>

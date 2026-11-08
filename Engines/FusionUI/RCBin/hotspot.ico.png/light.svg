@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Punto activo</title>
+  <path d="M4 11.5H7M5.5 5.5L7.5 7.5M11.5 4V7M17.5 5.5L15.5 7.5" stroke="#FF6600" stroke-width="1" stroke-linecap="round"/>
+  <path d="M10 10V19L12.5 16.5L14.5 20.5L16.5 19.5L14.5 16H18Z" fill="#2E3238"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <title>Quitar fondo con IA</title>
+  <rect x="4.5" y="6.5" width="9" height="13" stroke="#2E3238" stroke-width="1"/>
+  <circle cx="9" cy="11" r="1.5" fill="#2E3238"/>
+  <path d="M6 18V16.5A3 2.5 0 0 1 12 16.5V18Z" fill="#2E3238"/>
+  <path d="M17.5 4L18.5 6.5L21 7.5L18.5 8.5L17.5 11L16.5 8.5L14 7.5L16.5 6.5Z" fill="#FF6600"/>
+</svg>
