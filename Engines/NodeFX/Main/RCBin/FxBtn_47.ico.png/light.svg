@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Dos curvas paralelas</title>
+<path d="M5 18C6 12 12 14 14 9C15 6 17 5 19 5" stroke="#2E3238" stroke-width="1"/>
+<path d="M9 19C10 14 15 16 17 12C18 9 19 8 20 7" stroke="#2E3238" stroke-width="1"/>
+<circle cx="5" cy="18" r="1.5" fill="#2E3238"/>
+<circle cx="9" cy="19" r="1.5" fill="#2E3238"/>
+</svg>

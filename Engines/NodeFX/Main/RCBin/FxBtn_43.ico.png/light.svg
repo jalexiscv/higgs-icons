@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<title>Flujo con esquina rellena</title>
+<path d="M4 4H13C10 5 8 7 7 10C6 12 5 13 4 13Z" fill="#2E3238"/>
+<path d="M9 20C9 17 12 15 14 15" stroke="#2E3238" stroke-width="1"/>
+<path d="M12 12C14 8 17 8 20 6" stroke="#2E3238" stroke-width="1"/>
+<path d="M15 14L19 15L20 19L17 20L15 17Z" fill="#2E3238"/>
+</svg>
